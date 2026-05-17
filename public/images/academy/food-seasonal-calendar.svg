@@ -17,17 +17,17 @@
   <text x="375" y="36" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Dec</text>
   <!-- Event bars -->
   <rect x="55" y="65" width="30" height="18" rx="7" fill="#f87171" opacity="0.3" stroke="#f87171" stroke-width="1"/>
-  <text x="70" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Valentine's</text>
+  <text x="70" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f87171">Valentine's</text>
   <rect x="90" y="65" width="35" height="18" rx="7" fill="#f59e0b" opacity="0.3" stroke="#f59e0b" stroke-width="1"/>
   <text x="107" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Easter</text>
   <rect x="165" y="65" width="70" height="18" rx="7" fill="#34d399" opacity="0.3" stroke="#34d399" stroke-width="1"/>
   <text x="200" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">BBQ / Summer</text>
   <rect x="285" y="65" width="30" height="18" rx="7" fill="#f59e0b" opacity="0.3" stroke="#f59e0b" stroke-width="1"/>
-  <text x="300" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Halloween</text>
+  <text x="300" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b">Halloween</text>
   <rect x="320" y="65" width="25" height="18" rx="7" fill="#38bdf8" opacity="0.3" stroke="#38bdf8" stroke-width="1"/>
-  <text x="332" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">T-giving</text>
+  <text x="332" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#38bdf8">T-giving</text>
   <rect x="350" y="65" width="35" height="18" rx="7" fill="#a78bfa" opacity="0.3" stroke="#a78bfa" stroke-width="1"/>
-  <text x="367" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Christmas</text>
+  <text x="367" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#a78bfa">Christmas</text>
   <!-- Prep arrows -->
   <text x="210" y="105" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Content Prep Windows (8-10 weeks before)</text>
   <rect x="30" y="115" width="50" height="22" rx="7" fill="#f87171" opacity="0.12" stroke="#f87171" stroke-width="1" stroke-dasharray="3,2"/>

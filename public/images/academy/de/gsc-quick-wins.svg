@@ -29,7 +29,7 @@
   <rect x="40" y="100" width="170" height="70" rx="10" fill="#1a1a2e" stroke="#34d399" stroke-width="1"/>
   <text x="125" y="118" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Top 3: CTR-Goldzone</text>
   <text x="125" y="134" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Klickrate: 10–30 %</text>
-  <text x="125" y="150" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Prüfen Sie: Liegt Ihre CTR auf dem Benchmark-Niveau?</text>
+  <text x="125" y="150" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6">Prüfen Sie: Liegt Ihre CTR auf dem Benchmark-Niveau?</text>
   <text x="125" y="162" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Fix: Titel-Tags &amp;amp; verbessern Metas</text>
 
   <!-- Zone: 5-10 -->

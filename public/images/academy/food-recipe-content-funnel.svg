@@ -14,7 +14,7 @@
   <text x="212" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">Engagement</text>
   <text x="212" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Read full recipe</text>
   <text x="212" y="84" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Watch video tutorial</text>
-  <text x="212" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#38bdf8">Your product as star ingredient</text>
+  <text x="212" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#38bdf8">Your product as star ingredient</text>
   <!-- Arrow 2 -->
   <line x1="270" y1="70" x2="285" y2="70" stroke="#34d399" stroke-width="1.2"/>
   <polygon points="283,66 291,70 283,74" fill="#34d399"/>
@@ -37,7 +37,7 @@
   <text x="260" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Keto, Vegan, GF</text>
   <rect x="315" y="140" width="90" height="40" rx="8" fill="#a78bfa" opacity="0.12" stroke="#a78bfa" stroke-width="1"/>
   <text x="360" y="157" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa" font-weight="bold">By Ingredient</text>
-  <text x="360" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Honey, Matcha, Olive Oil</text>
+  <text x="360" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Honey, Matcha, Olive Oil</text>
   <!-- Bottom note -->
   <text x="210" y="205" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Each collection page targets a distinct keyword cluster</text>
   <text x="210" y="218" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">and funnels traffic toward the product catalog</text>

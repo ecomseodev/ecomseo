@@ -10,7 +10,7 @@
 
   <!-- H1 -->
   <rect x="180" y="64" width="320" height="24" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="190" y="80" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="700">H1 : Chaussures de course sur sentier – Imperméables, taille 10</text>
+  <text x="190" y="80" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700">H1 : Chaussures de course sur sentier – Imperméables, taille 10</text>
 
   <!-- Image + details layout -->
   <rect x="180" y="96" width="140" height="100" rx="8" fill="none" stroke="#475569" stroke-width="1"/>
@@ -28,7 +28,7 @@
   <!-- Description -->
   <rect x="330" y="150" width="170" height="46" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
   <text x="340" y="166" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Description unique</text>
-  <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Les avantages d'abord, pas les fonctionnalités d'abord</text>
+  <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6">Les avantages d'abord, pas les fonctionnalités d'abord</text>
   <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">100 à 600 mots en fonction du prix</text>
 
   <!-- Specifications -->

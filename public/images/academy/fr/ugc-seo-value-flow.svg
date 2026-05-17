@@ -4,7 +4,7 @@
   <rect x="20" y="50" width="120" height="30" rx="10" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
   <text x="80" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa">Avis</text>
   <rect x="20" y="90" width="120" height="30" rx="10" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="80" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">Sections de questions et réponses</text>
+  <text x="80" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#38bdf8">Sections de questions et réponses</text>
   <rect x="20" y="130" width="120" height="30" rx="10" fill="#34d399" opacity="0.15" stroke="#34d399" stroke-width="1.2"/>
   <text x="80" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Photos des clients</text>
   <!-- Arrows to center -->

@@ -2,7 +2,7 @@
   <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Gebroken linkbuilding-workflow</text>
   <rect x="10" y="45" rx="12" width="90" height="50" stroke="#f87171" stroke-width="1.2" fill="none"/>
   <text x="55" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Vinden</text>
-  <text x="55" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Dode links staan ​​aan</text>
+  <text x="55" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Dode links staan ​​aan</text>
   <text x="55" y="91" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">nichesites</text>
   <path d="M102 70 L118 70" stroke="#e2e8f0" stroke-width="1.2" marker-end="url(#arrow)"/>
   <rect x="120" y="45" rx="12" width="90" height="50" stroke="#38bdf8" stroke-width="1.2" fill="none"/>

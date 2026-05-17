@@ -23,7 +23,7 @@
   <text x="575" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Guide de préparation à la course</text>
 
   <rect x="490" y="240" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Entretien et entretien des chaussures Entretien</text>
+  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6">Entretien et entretien des chaussures Entretien</text>
 
   <!-- Arrows from blogs to hub -->
   <line x1="190" y1="58" x2="250" y2="130" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4,3"/>

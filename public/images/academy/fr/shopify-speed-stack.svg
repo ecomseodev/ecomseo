@@ -7,15 +7,15 @@
   <!-- Layer 2 - Images -->
   <rect x="60" y="86" width="300" height="36" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="210" y="102" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Optimisation des images</text>
-  <text x="210" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">filtre image_url + paramètre de largeur | WebP via CDN | chargement paresseux</text>
+  <text x="210" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">filtre image_url + paramètre de largeur | WebP via CDN | chargement paresseux</text>
   <!-- Layer 3 - Apps -->
   <rect x="60" y="130" width="300" height="36" rx="10" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
   <text x="210" y="146" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Audit d'application</text>
-  <text x="210" y="158" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Supprimer les applications inutilisées | Remplacez par le code Liquid si possible</text>
+  <text x="210" y="158" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Supprimer les applications inutilisées | Remplacez par le code Liquid si possible</text>
   <!-- Layer 4 - JS -->
   <rect x="60" y="174" width="300" height="36" rx="10" stroke="#a78bfa" stroke-width="1.2" fill="none"/>
   <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Différé JavaScript</text>
-  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Différer les scripts non critiques | Réduire la complexité de la boucle liquide</text>
+  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Différer les scripts non critiques | Réduire la complexité de la boucle liquide</text>
   <!-- Impact arrow -->
   <text x="30" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#34d399">1</text>
   <text x="30" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#38bdf8">2</text>

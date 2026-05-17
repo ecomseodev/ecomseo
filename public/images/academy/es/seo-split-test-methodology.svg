@@ -2,7 +2,7 @@
   <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Metodología de pruebas divididas SEO</text>
   <!-- Page pool -->
   <rect x="130" y="35" width="140" height="30" rx="9" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="200" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">1,000 Similar Páginas de producto</text>
+  <text x="200" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">1,000 Similar Páginas de producto</text>
   <!-- Split arrows -->
   <path d="M160 65 L80 85" stroke="#34d399" stroke-width="1.2" marker-end="url(#arS1)"/>
   <path d="M240 65 L320 85" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arS2)"/>

@@ -26,15 +26,15 @@
   <!-- Mission-based pages -->
   <text x="210" y="142" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Kategorieübergreifende Missionsseiten</text>
   <rect x="30" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="82" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b" font-weight="bold">Komplette Terrasseneinrichtung</text>
-  <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Möbel + Beleuchtung + Pflanzen</text>
+  <text x="82" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Komplette Terrasseneinrichtung</text>
+  <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Möbel + Beleuchtung + Pflanzen</text>
   <rect x="150" y="152" width="120" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">Home-Office-Grundlagen</text>
-  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Schreibtisch + Stuhl + Beleuchtung + Stauraum</text>
+  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Schreibtisch + Stuhl + Beleuchtung + Stauraum</text>
   <rect x="285" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b" font-weight="bold">Gemütliche Schlafzimmer-Erfrischung</text>
-  <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Textilien + Beleuchtung + Dekor</text>
+  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Gemütliche Schlafzimmer-Erfrischung</text>
+  <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Textilien + Beleuchtung + Dekor</text>
   <!-- Breadcrumb example -->
   <rect x="60" y="198" width="300" height="22" rx="8" fill="#34d399" opacity="0.08" stroke="#34d399" stroke-width="1"/>
-  <text x="210" y="213" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">BreadcrumbList: Home &amp;gt; Outdoor &amp;gt; Terrassenmöbel &amp;gt; Esszimmersets</text>
+  <text x="210" y="213" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">BreadcrumbList: Home &amp;gt; Outdoor &amp;gt; Terrassenmöbel &amp;gt; Esszimmersets</text>
 </svg>

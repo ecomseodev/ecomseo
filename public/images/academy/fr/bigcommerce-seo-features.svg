@@ -5,7 +5,7 @@
   <rect x="25" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="82" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Balises méta</text>
   <text x="82" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Titre, description, slug</text>
-  <text x="82" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">par page dans l'administration</text>
+  <text x="82" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">par page dans l'administration</text>
 
   <rect x="152" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="210" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Plan du site XML</text>
@@ -13,7 +13,7 @@
   <text x="210" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">contrôle par page</text>
 
   <rect x="279" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="337" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#34d399">Réseau de diffusion de contenu Akamai</text>
+  <text x="337" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" font-weight="bold" fill="#34d399">Réseau de diffusion de contenu Akamai</text>
   <text x="337" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Conversion automatique WebP</text>
   <text x="337" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">images réactives</text>
 
@@ -36,7 +36,7 @@
   <!-- Comparison bar -->
   <rect x="25" y="175" width="369" height="32" rx="10" stroke="#a78bfa" stroke-width="1" fill="none"/>
   <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#a78bfa">Tout natif – aucune application tierce requise pour le référencement de base</text>
-  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Manquant : schéma de fil d'Ariane, schéma de FAQ, hreflang (à ajouter manuellement dans Stencil)</text>
+  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Manquant : schéma de fil d'Ariane, schéma de FAQ, hreflang (à ajouter manuellement dans Stencil)</text>
 
   <!-- Legend -->
   <rect x="110" y="225" width="8" height="8" rx="6" fill="#34d399"/>

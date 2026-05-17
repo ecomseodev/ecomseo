@@ -32,7 +32,7 @@
   <rect x="350" y="110" width="270" height="70" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="485" y="130" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Scoperto - Attualmente non indicizzato</text>
   <text x="485" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Google conosce l'URL ma non ne ha eseguito la scansione</text>
-  <text x="485" y="166" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Correzione: rafforzamento dei collegamenti interni, miglioramento della mappa del sito</text>
+  <text x="485" y="166" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" letter-spacing="0.3" font-weight="600">Correzione: rafforzamento dei collegamenti interni, miglioramento della mappa del sito</text>
 
   <!-- Action items -->
   <rect x="60" y="200" width="560" height="65" rx="12" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>

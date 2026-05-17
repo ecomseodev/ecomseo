@@ -13,11 +13,11 @@
   <text x="297" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Pagine orfane</text>
   <text x="297" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Esiste ma non è mai stato strisciato</text>
   <text x="225" y="88" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Collegamenti interni interrotti</text>
-  <text x="225" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Impaginazione approfondita (&amp;gt;pagina 10)</text>
+  <text x="225" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">&amp;#8226; Impaginazione approfondita (&amp;gt;pagina 10)</text>
   <text x="225" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Nuovi prodotti scollegati</text>
   <text x="225" y="124" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Categorie ristrutturate</text>
   <!-- Bottom target -->
   <rect x="60" y="155" width="280" height="35" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="200" y="172" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#34d399">Obiettivo: rapporto di scansione produttivo del 70-80%.</text>
-  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Confronta il DB del prodotto con i dati di registro di 90 giorni per trovare gli orfani</text>
+  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Confronta il DB del prodotto con i dati di registro di 90 giorni per trovare gli orfani</text>
 </svg>

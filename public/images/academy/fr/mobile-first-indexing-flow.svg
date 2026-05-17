@@ -6,7 +6,7 @@
   <rect x="40" y="50" width="200" height="200" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="140" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Version de bureau</text>
   <rect x="56" y="84" width="168" height="16" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
-  <text x="140" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Navigation complète : 200 liens de catégories</text>
+  <text x="140" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">Navigation complète : 200 liens de catégories</text>
   <rect x="56" y="106" width="168" height="40" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="122" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Description complète du produit</text>
   <text x="140" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">500 mots + tableau des spécifications</text>

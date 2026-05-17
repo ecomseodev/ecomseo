@@ -40,5 +40,5 @@
   <!-- Priority note -->
   <rect x="120" y="260" width="440" height="36" rx="10" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="340" y="278" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Ordine di priorità: prima le correzioni tecniche, poi il contenuto, poi i collegamenti</text>
-  <text x="340" y="291" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Risolvi i problemi tecnici in 2-4 settimane, quindi ottimizza i contenuti, quindi crea autorità nel corso dei mesi</text>
+  <text x="340" y="291" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6">Risolvi i problemi tecnici in 2-4 settimane, quindi ottimizza i contenuti, quindi crea autorità nel corso dei mesi</text>
 </svg>

@@ -6,7 +6,7 @@
   <text x="75" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"wat is niacinamide"</text>
   <text x="75" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"retinolvoordelen"</text>
   <text x="75" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"hyaluronzuur voor de huid"</text>
-  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#38bdf8">Pagina's met ingrediëntengidsen</text>
+  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#38bdf8">Pagina's met ingrediëntengidsen</text>
   <!-- Arrow -->
   <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.2"/>
   <polygon points="148,73 156,77 148,81" fill="#a78bfa"/>
@@ -24,7 +24,7 @@
   <rect x="285" y="40" width="120" height="75" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
   <text x="345" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399" font-weight="bold">Commercieel</text>
   <text x="345" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"niacinamide-serum"</text>
-  <text x="345" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"retinol vochtinbrengende crème"</text>
+  <text x="345" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">"retinol vochtinbrengende crème"</text>
   <text x="345" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"vitamine C serum kopen"</text>
   <text x="345" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Productpagina's</text>
   <!-- Trending section below -->

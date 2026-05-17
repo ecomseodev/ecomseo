@@ -3,7 +3,7 @@
   <!-- Left: Crawl Waste -->
   <rect x="15" y="38" width="175" height="100" rx="10" stroke="#f87171" stroke-width="1.2"/>
   <text x="102" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Residuos de rastreo</text>
-  <text x="102" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Visitas del robot de Google pero sin valor SEO</text>
+  <text x="102" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Visitas del robot de Google pero sin valor SEO</text>
   <text x="30" y="88" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; URL de ID de sesión</text>
   <text x="30" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Páginas de búsqueda interna</text>
   <text x="30" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Ordenar/filtrar combinaciones</text>
@@ -13,11 +13,11 @@
   <text x="297" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Páginas huérfanas</text>
   <text x="297" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Existe pero nunca se arrastró</text>
   <text x="225" y="88" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Enlaces internos rotos</text>
-  <text x="225" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Paginación profunda (&amp;gt;página 10)</text>
+  <text x="225" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">&amp;#8226; Paginación profunda (&amp;gt;página 10)</text>
   <text x="225" y="112" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Nuevos productos desvinculados</text>
   <text x="225" y="124" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">&amp;#8226; Categorías reestructuradas</text>
   <!-- Bottom target -->
   <rect x="60" y="155" width="280" height="35" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="200" y="172" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#34d399">Objetivo: 70-80 % de índice de rastreo productivo</text>
-  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Compare la base de datos del producto con los datos de registro de 90 días para encontrar huérfanos</text>
+  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Compare la base de datos del producto con los datos de registro de 90 días para encontrar huérfanos</text>
 </svg>

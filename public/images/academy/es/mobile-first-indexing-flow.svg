@@ -6,14 +6,14 @@
   <rect x="40" y="50" width="200" height="200" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="140" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Versión de escritorio</text>
   <rect x="56" y="84" width="168" height="16" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
-  <text x="140" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Navegación completa: 200 enlaces de categorías</text>
+  <text x="140" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">Navegación completa: 200 enlaces de categorías</text>
   <rect x="56" y="106" width="168" height="40" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="122" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Descripción completa del producto</text>
   <text x="140" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">500 palabras + tabla de especificaciones</text>
   <rect x="56" y="152" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Ventas cruzadas, productos relacionados.</text>
   <rect x="56" y="182" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
-  <text x="140" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Reseñas, preguntas frecuentes, rutas de navegación</text>
+  <text x="140" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">Reseñas, preguntas frecuentes, rutas de navegación</text>
   <rect x="56" y="214" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="230" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Enlaces internos: 45+</text>
 

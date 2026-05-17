@@ -27,7 +27,7 @@
   <rect x="100" y="170" width="60" height="28" rx="8" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3"/>
   <text x="130" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Page FAQ</text>
   <rect x="170" y="170" width="55" height="28" rx="8" stroke="#34d399" stroke-width="1" stroke-dasharray="3"/>
-  <text x="197" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Comment faire</text>
+  <text x="197" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#34d399">Comment faire</text>
   <rect x="235" y="170" width="60" height="28" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <text x="265" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Liste d'articles</text>
   <rect x="305" y="170" width="65" height="28" rx="8" stroke="#f87171" stroke-width="1" stroke-dasharray="3"/>

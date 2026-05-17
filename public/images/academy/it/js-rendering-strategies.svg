@@ -6,7 +6,7 @@
   <text x="57" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Shell HTML vuota</text>
   <text x="57" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">JS crea la pagina</text>
   <text x="57" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Peggiore per la SEO</text>
-  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Ritardo di giorni-settimane</text>
+  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#94a3b8">Ritardo di giorni-settimane</text>
   <!-- SSR -->
   <rect x="115" y="38" width="95" height="80" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="162" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">RSS</text>
@@ -18,8 +18,8 @@
   <rect x="220" y="38" width="95" height="80" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="267" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">SSG</text>
   <text x="267" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Pre-renderizzato</text>
-  <text x="267" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">al momento della costruzione</text>
-  <text x="267" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#38bdf8">Tempo di caricamento più veloce</text>
+  <text x="267" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">al momento della costruzione</text>
+  <text x="267" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#38bdf8">Tempo di caricamento più veloce</text>
   <text x="267" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Rischio di dati obsoleti</text>
   <!-- ISR -->
   <rect x="325" y="38" width="85" height="80" rx="10" stroke="#a78bfa" stroke-width="1.2"/>

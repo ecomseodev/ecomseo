@@ -8,7 +8,7 @@
   <!-- Offer -->
   <rect x="15" y="100" width="110" height="40" rx="9" stroke="#34d399" stroke-width="1.2"/>
   <text x="70" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Aanbod</text>
-  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">prijs, valuta, beschikbaarheid.</text>
+  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">prijs, valuta, beschikbaarheid.</text>
   <path d="M125 92 L80 100" stroke="#34d399" stroke-width="1"/>
   <!-- hasVariant -->
   <rect x="135" y="100" width="110" height="40" rx="9" stroke="#38bdf8" stroke-width="1.2"/>
@@ -17,8 +17,8 @@
   <path d="M190 88 L190 100" stroke="#38bdf8" stroke-width="1"/>
   <!-- AggregateRating -->
   <rect x="255" y="100" width="110" height="40" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="310" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">Geaggregeerde beoordeling</text>
-  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">beoordelingWaarde, beoordelingCount</text>
+  <text x="310" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#f59e0b">Geaggregeerde beoordeling</text>
+  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">beoordelingWaarde, beoordelingCount</text>
   <path d="M255 92 L300 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Supporting schemas -->
   <text x="190" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Ondersteunende schematypen</text>

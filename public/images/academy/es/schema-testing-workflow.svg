@@ -14,7 +14,7 @@
   <!-- Paso 2 -->
   <rect x="186" y="52" width="120" height="70" rx="12" stroke="#a78bfa" stroke-width="1.2" fill="none"/>
   <text x="246" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">2. Válidoar</text>
-  <text x="246" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Probar de resultados enriquecidos</text>
+  <text x="246" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Probar de resultados enriquecidos</text>
   <text x="246" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">+ Válidoador de Schema</text>
 
   <line x1="306" y1="87" x2="336" y2="87" stroke="#a78bfa" stroke-width="1.2"/>
