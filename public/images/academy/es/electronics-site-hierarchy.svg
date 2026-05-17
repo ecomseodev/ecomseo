@@ -1,44 +1,44 @@
 <svg viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Jerarquía de sitios de electrónica de 3 clics</text>
+  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Jerarquía de sitios de electrónica de 3 clics</text>
   <!-- Level 0: Página principal -->
   <rect x="170" y="32" width="80" height="28" rx="8" fill="#a78bfa" opacity="0.2" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="210" y="50" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Página principal</text>
+  <text x="210" y="50" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Página principal</text>
   <!-- Level 1: Departamentos -->
   <line x1="210" y1="60" x2="80" y2="80" stroke="#38bdf8" stroke-width="1"/>
   <line x1="210" y1="60" x2="210" y2="80" stroke="#38bdf8" stroke-width="1"/>
   <line x1="210" y1="60" x2="340" y2="80" stroke="#38bdf8" stroke-width="1"/>
   <rect x="30" y="80" width="100" height="24" rx="8" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
-  <text x="80" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Computadoras</text>
+  <text x="80" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Computadoras</text>
   <rect x="160" y="80" width="100" height="24" rx="8" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
-  <text x="210" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Monitores</text>
+  <text x="210" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Monitores</text>
   <rect x="290" y="80" width="100" height="24" rx="8" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
-  <text x="340" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Audio</text>
+  <text x="340" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Audio</text>
   <!-- Level 2: Categorías -->
   <line x1="80" y1="104" x2="40" y2="124" stroke="#34d399" stroke-width="1"/>
   <line x1="80" y1="104" x2="120" y2="124" stroke="#34d399" stroke-width="1"/>
   <rect x="5" y="124" width="70" height="24" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="40" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">portátiles</text>
+  <text x="40" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">portátiles</text>
   <rect x="85" y="124" width="70" height="24" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="120" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Escritorios</text>
+  <text x="120" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Escritorios</text>
   <line x1="210" y1="104" x2="185" y2="124" stroke="#34d399" stroke-width="1"/>
   <line x1="210" y1="104" x2="240" y2="124" stroke="#34d399" stroke-width="1"/>
   <rect x="155" y="124" width="60" height="24" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="185" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">IPS 4K</text>
+  <text x="185" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">IPS 4K</text>
   <rect x="220" y="124" width="60" height="24" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="250" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Ultraancho</text>
+  <text x="250" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Ultraancho</text>
   <!-- Level 3: Productoos -->
   <line x1="40" y1="148" x2="25" y2="168" stroke="#f59e0b" stroke-width="1"/>
   <line x1="40" y1="148" x2="60" y2="168" stroke="#f59e0b" stroke-width="1"/>
   <rect x="5" y="168" width="40" height="20" rx="7" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
-  <text x="25" y="181" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">SKU A</text>
+  <text x="25" y="181" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">SKU A</text>
   <rect x="50" y="168" width="40" height="20" rx="7" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
-  <text x="70" y="181" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Código B</text>
+  <text x="70" y="181" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Código B</text>
   <!-- Labels -->
-  <text x="400" y="50" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">Haga clic en 0</text>
-  <text x="400" y="96" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">Haga clic en 1</text>
-  <text x="400" y="140" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">Haga clic en 2</text>
-  <text x="400" y="181" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Haga clic en 3</text>
+  <text x="400" y="50" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Haga clic en 0</text>
+  <text x="400" y="96" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Haga clic en 1</text>
+  <text x="400" y="140" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Haga clic en 2</text>
+  <text x="400" y="181" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Haga clic en 3</text>
   <!-- Ecosystem links -->
   <path d="M70,188 Q210,215 250,148" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,2" fill="none"/>
-  <text x="210" y="210" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">Enlaces cruzados de ecosistemas</text>
+  <text x="210" y="210" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Enlaces cruzados de ecosistemas</text>
 </svg>

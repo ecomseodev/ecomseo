@@ -1,24 +1,24 @@
 <svg viewBox="0 0 480 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Quarterly Content Plan Per Category</text>
+  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Quarterly Content Plan Per Category</text>
   <!-- 4 content blocks -->
   <rect x="20" y="45" width="100" height="70" rx="12" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="70" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">1x</text>
-  <text x="70" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Buying Guide</text>
-  <text x="70" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">(Long-form)</text>
+  <text x="70" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">1x</text>
+  <text x="70" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Buying Guide</text>
+  <text x="70" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">(Long-form)</text>
   <rect x="140" y="45" width="100" height="70" rx="12" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="190" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">1x</text>
-  <text x="190" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Comparison</text>
-  <text x="190" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">(X vs Y)</text>
+  <text x="190" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">1x</text>
+  <text x="190" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Comparison</text>
+  <text x="190" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">(X vs Y)</text>
   <rect x="260" y="45" width="100" height="70" rx="12" fill="#34d399" opacity="0.15" stroke="#34d399" stroke-width="1.2"/>
-  <text x="310" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">2x</text>
-  <text x="310" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Blog Posts</text>
-  <text x="310" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">(Long-tail Q&A)</text>
+  <text x="310" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">2x</text>
+  <text x="310" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Blog Posts</text>
+  <text x="310" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">(Long-tail Q&A)</text>
   <rect x="380" y="45" width="80" height="70" rx="12" fill="#f59e0b" opacity="0.15" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="420" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">= 4</text>
-  <text x="420" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Pieces /</text>
-  <text x="420" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Quarter</text>
+  <text x="420" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">= 4</text>
+  <text x="420" y="85" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Pieces /</text>
+  <text x="420" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Quarter</text>
   <!-- Bottom summary -->
   <rect x="60" y="140" width="360" height="55" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="4"/>
-  <text x="240" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e2e8f0">10 categories x 4 pieces = 40 per quarter (~3/week)</text>
-  <text x="240" y="182" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b">Publish 4-6 weeks before seasonal peaks</text>
+  <text x="240" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">10 categories x 4 pieces = 40 per quarter (~3/week)</text>
+  <text x="240" y="182" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">Publish 4-6 weeks before seasonal peaks</text>
 </svg>

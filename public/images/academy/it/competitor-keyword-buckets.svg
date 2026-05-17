@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" fill="none">
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Gap tra le parole chiave della concorrenza: struttura a 4 bucket</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Gap tra le parole chiave della concorrenza: struttura a 4 bucket</text>
   <!-- Bucket 1 -->
   <rect x="20" y="50" width="150" height="130" rx="12" stroke="#34d399" stroke-width="1.2" fill="#34d399" fill-opacity="0.08"/>
-  <text x="95" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Secchio 1</text>
-  <text x="95" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Avere pagine,</text>
-  <text x="95" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Non classificarti</text>
+  <text x="95" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Secchio 1</text>
+  <text x="95" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Avere pagine,</text>
+  <text x="95" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Non classificarti</text>
   <line x1="40" y1="116" x2="150" y2="116" stroke="#34d399" stroke-width="0.5" stroke-opacity="0.4"/>
-  <text x="95" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Azione: ottimizza</text>
-  <text x="95" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">titolo, H1, contenuto</text>
-  <text x="95" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">Vince il più veloce</text>
+  <text x="95" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Azione: ottimizza</text>
+  <text x="95" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">titolo, H1, contenuto</text>
+  <text x="95" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600" fill="#34d399">Vince il più veloce</text>
   <!-- Bucket 2 -->
   <rect x="185" y="50" width="150" height="130" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="#38bdf8" fill-opacity="0.08"/>
-  <text x="260" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Secchio 2</text>
-  <text x="260" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Nessuna pagina,</text>
-  <text x="260" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Può creare</text>
+  <text x="260" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Secchio 2</text>
+  <text x="260" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Nessuna pagina,</text>
+  <text x="260" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Può creare</text>
   <line x1="205" y1="116" x2="315" y2="116" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.4"/>
-  <text x="260" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Azione: costruisci nuovo</text>
-  <text x="260" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">pagina categoria/prodotto</text>
-  <text x="260" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Risultati a 3-6 mesi</text>
+  <text x="260" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Azione: costruisci nuovo</text>
+  <text x="260" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">pagina categoria/prodotto</text>
+  <text x="260" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Risultati a 3-6 mesi</text>
   <!-- Bucket 3 -->
   <rect x="350" y="50" width="150" height="130" rx="12" stroke="#f59e0b" stroke-width="1.2" fill="#f59e0b" fill-opacity="0.08"/>
-  <text x="425" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Secchio 3</text>
-  <text x="425" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Hai bisogno di nuovo</text>
-  <text x="425" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Prodotti</text>
+  <text x="425" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Secchio 3</text>
+  <text x="425" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Hai bisogno di nuovo</text>
+  <text x="425" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Prodotti</text>
   <line x1="370" y1="116" x2="480" y2="116" stroke="#f59e0b" stroke-width="0.5" stroke-opacity="0.4"/>
-  <text x="425" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Azione: affari</text>
-  <text x="425" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">input di intelligenza</text>
-  <text x="425" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#f59e0b">Decisione sull'inventario</text>
+  <text x="425" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Azione: affari</text>
+  <text x="425" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">input di intelligenza</text>
+  <text x="425" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600" fill="#f59e0b">Decisione sull'inventario</text>
   <!-- Bucket 4 -->
   <rect x="515" y="50" width="145" height="130" rx="12" stroke="#94a3b8" stroke-width="1.2" fill="#94a3b8" fill-opacity="0.05"/>
-  <text x="588" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#94a3b8">Secchio 4</text>
-  <text x="588" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Non vale la pena</text>
-  <text x="588" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Perseguire</text>
+  <text x="588" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#94a3b8">Secchio 4</text>
+  <text x="588" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Non vale la pena</text>
+  <text x="588" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Perseguire</text>
   <line x1="535" y1="116" x2="640" y2="116" stroke="#94a3b8" stroke-width="0.5" stroke-opacity="0.4"/>
-  <text x="588" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Azione: salta</text>
-  <text x="588" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">posizionamento errato</text>
-  <text x="588" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">o mercato</text>
+  <text x="588" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Azione: salta</text>
+  <text x="588" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">posizionamento errato</text>
+  <text x="588" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">o mercato</text>
   <!-- Bottom annotation -->
   <rect x="100" y="210" width="480" height="36" rx="10" fill="#a78bfa" fill-opacity="0.06" stroke="#a78bfa" stroke-width="1"/>
   <text x="340" y="233" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e2e8f0">Buckets 1 &amp; 2 contain <tspan font-weight="700" fill="#a78bfa">80% delle opportunità realizzabili</tspan></text>
-  <text x="340" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Esegui l'analisi del gap per ogni concorrente individualmente. Ripeti trimestralmente per cogliere nuove opportunità.</text>
+  <text x="340" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Esegui l'analisi del gap per ogni concorrente individualmente. Ripeti trimestralmente per cogliere nuove opportunità.</text>
 </svg>

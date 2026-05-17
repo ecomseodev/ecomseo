@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" fill="none">
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Livelli e intento delle parole chiave Tassi di conversione</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Livelli e intento delle parole chiave Tassi di conversione</text>
   <!-- Tier 1 -->
   <rect x="20" y="50" width="640" height="56" rx="12" stroke="#34d399" stroke-width="1.2" fill="#34d399" fill-opacity="0.08"/>
-  <text x="40" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Livello 1: acquista ora</text>
-  <text x="40" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Nome del prodotto + acquisto/prezzo/ordine/SKU</text>
+  <text x="40" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Livello 1: acquista ora</text>
+  <text x="40" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Nome del prodotto + acquisto/prezzo/ordine/SKU</text>
   <rect x="460" y="62" width="80" height="30" rx="10" fill="#34d399" fill-opacity="0.15"/>
-  <text x="500" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">5-10%</text>
-  <text x="570" y="82" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Pagine dei prodotti</text>
+  <text x="500" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">5-10%</text>
+  <text x="570" y="82" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Pagine dei prodotti</text>
   <!-- Tier 2 -->
   <rect x="60" y="116" width="600" height="56" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="#38bdf8" fill-opacity="0.08"/>
-  <text x="80" y="138" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Livello 2: Confronto</text>
-  <text x="80" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">migliore / vs / recensione / top 10</text>
+  <text x="80" y="138" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Livello 2: Confronto</text>
+  <text x="80" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">migliore / vs / recensione / top 10</text>
   <rect x="460" y="128" width="80" height="30" rx="10" fill="#38bdf8" fill-opacity="0.15"/>
-  <text x="500" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#38bdf8">2-4%</text>
-  <text x="570" y="148" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Pagine di categoria</text>
+  <text x="500" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">2-4%</text>
+  <text x="570" y="148" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Pagine di categoria</text>
   <!-- Tier 3 -->
   <rect x="100" y="182" width="560" height="56" rx="12" stroke="#f59e0b" stroke-width="1.2" fill="#f59e0b" fill-opacity="0.08"/>
-  <text x="120" y="204" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Livello 3: ricerca di soluzioni</text>
-  <text x="120" y="224" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Descrizioni di problemi/casi d'uso</text>
+  <text x="120" y="204" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Livello 3: ricerca di soluzioni</text>
+  <text x="120" y="224" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Descrizioni di problemi/casi d'uso</text>
   <rect x="460" y="194" width="80" height="30" rx="10" fill="#f59e0b" fill-opacity="0.15"/>
-  <text x="500" y="214" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f59e0b">1-3%</text>
-  <text x="570" y="214" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Pagine filtrate</text>
+  <text x="500" y="214" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">1-3%</text>
+  <text x="570" y="214" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Pagine filtrate</text>
   <!-- Tier 4 -->
   <rect x="140" y="248" width="520" height="56" rx="12" stroke="#94a3b8" stroke-width="1.2" fill="#94a3b8" fill-opacity="0.05"/>
-  <text x="160" y="270" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#94a3b8">Livello 4: apprendimento</text>
-  <text x="160" y="290" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">come / cos'è / guida</text>
+  <text x="160" y="270" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#94a3b8">Livello 4: apprendimento</text>
+  <text x="160" y="290" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">come / cos'è / guida</text>
   <rect x="460" y="260" width="80" height="30" rx="10" fill="#94a3b8" fill-opacity="0.1"/>
-  <text x="500" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#94a3b8">&amp;lt;0,5%</text>
-  <text x="570" y="280" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Contenuto del blog</text>
+  <text x="500" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#94a3b8">&amp;lt;0,5%</text>
+  <text x="570" y="280" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Contenuto del blog</text>
   <!-- Intent arrow -->
-  <text x="12" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8" transform="rotate(-90, 12, 198)">Intenzione di acquisto più elevata</text>
+  <text x="12" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8" transform="rotate(-90, 12, 198)">Intenzione di acquisto più elevata</text>
   <line x1="12" y1="100" x2="12" y2="55" stroke="#34d399" stroke-width="1.2" marker-end="url(#arrowI)"/>
   <!-- Label -->
-  <text x="340" y="330" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Livelli più ristretti = conversione più elevata, volume inferiore. Dai priorità al livello 1-2 per le entrate.</text>
+  <text x="340" y="330" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Livelli più ristretti = conversione più elevata, volume inferiore. Dai priorità al livello 1-2 per le entrate.</text>
   <defs>
     <marker id="arrowI" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6" fill="none" stroke="#34d399" stroke-width="1"/>

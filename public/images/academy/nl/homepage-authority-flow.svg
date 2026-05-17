@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" fill="none">
-  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700">Homepage Autoriteitsdistributie</text>
+  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" letter-spacing="0.3" font-weight="700">Homepage Autoriteitsdistributie</text>
 
   <!-- External backlinks -->
   <rect x="40" y="50" width="120" height="28" rx="9" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="100" y="68" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Druk op Koppelingen</text>
+  <text x="100" y="68" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Druk op Koppelingen</text>
   <rect x="40" y="84" width="120" height="28" rx="9" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="100" y="102" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Partnerlinks</text>
+  <text x="100" y="102" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Partnerlinks</text>
   <rect x="40" y="118" width="120" height="28" rx="9" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="100" y="136" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Directory-koppelingen</text>
+  <text x="100" y="136" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Directory-koppelingen</text>
 
   <!-- Arrows to homepage -->
   <line x1="160" y1="64" x2="248" y2="100" stroke="#f59e0b" stroke-width="1"/>
@@ -16,8 +16,8 @@
 
   <!-- Homepage -->
   <rect x="250" y="78" width="180" height="50" rx="12" fill="#1e1e3a" stroke="#34d399" stroke-width="2"/>
-  <text x="340" y="100" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Startpagina</text>
-  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Pagina met de hoogste autoriteit</text>
+  <text x="340" y="100" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Startpagina</text>
+  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Pagina met de hoogste autoriteit</text>
 
   <!-- Navigation links down -->
   <line x1="280" y1="128" x2="140" y2="180" stroke="#34d399" stroke-width="1.2"/>
@@ -27,35 +27,35 @@
 
   <!-- Categories -->
   <rect x="70" y="180" width="140" height="32" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="140" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Hardloopschoenen</text>
+  <text x="140" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Hardloopschoenen</text>
 
   <rect x="220" y="180" width="120" height="32" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="280" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Kleding</text>
+  <text x="280" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Kleding</text>
 
   <rect x="350" y="180" width="120" height="32" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="410" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Accessoires</text>
+  <text x="410" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Accessoires</text>
 
   <rect x="480" y="180" width="120" height="32" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="540" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Nieuwkomers</text>
+  <text x="540" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Nieuwkomers</text>
 
   <!-- Authority percentage labels -->
-  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">ontvangt ~20% eigen vermogen</text>
-  <text x="280" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">~20% eigen vermogen</text>
-  <text x="410" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">~15% eigen vermogen</text>
-  <text x="540" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">~15% eigen vermogen</text>
+  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">ontvangt ~20% eigen vermogen</text>
+  <text x="280" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~20% eigen vermogen</text>
+  <text x="410" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% eigen vermogen</text>
+  <text x="540" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% eigen vermogen</text>
 
   <!-- Right side: content structure -->
   <rect x="510" y="56" width="150" height="80" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
-  <text x="585" y="72" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Startpagina moet hebben</text>
-  <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Beschrijvend H1</text>
-  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Inleiding van 100-200 woorden</text>
-  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Categorieblokken met links</text>
-  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Merksectie van 200-400 woorden</text>
+  <text x="585" y="72" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Startpagina moet hebben</text>
+  <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Beschrijvend H1</text>
+  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Inleiding van 100-200 woorden</text>
+  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Categorieblokken met links</text>
+  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Merksectie van 200-400 woorden</text>
 
   <!-- Warning box -->
   <rect x="120" y="250" width="440" height="36" rx="9" fill="#1a1a2e" stroke="#f87171" stroke-width="1"/>
-  <text x="340" y="266" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Veelgemaakte fout: linken naar 200 producten vanaf de startpagina</text>
-  <text x="340" y="280" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">De autoriteit is zo dun verspreid dat geen enkele schakel betekenisvol gewicht heeft</text>
+  <text x="340" y="266" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Veelgemaakte fout: linken naar 200 producten vanaf de startpagina</text>
+  <text x="340" y="280" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">De autoriteit is zo dun verspreid dat geen enkele schakel betekenisvol gewicht heeft</text>
 
-  <text x="340" y="310" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Houd de links naar uw startpagina gericht op uw top 10-15 van belangrijkste interne bestemmingen</text>
+  <text x="340" y="310" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Houd de links naar uw startpagina gericht op uw top 10-15 van belangrijkste interne bestemmingen</text>
 </svg>

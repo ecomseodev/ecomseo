@@ -1,33 +1,33 @@
 <svg viewBox="0 0 480 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Entscheidungsmatrix zur Inhaltsprüfung</text>
+  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Entscheidungsmatrix zur Inhaltsprüfung</text>
   <!-- 4 buckets -->
   <rect x="15" y="50" width="105" height="120" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
-  <text x="67" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">HALTEN</text>
-  <text x="67" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Fördert den Verkehr</text>
-  <text x="67" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Hat Backlinks</text>
-  <text x="67" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Konvertiert Besucher</text>
-  <text x="67" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Es sind keine Maßnahmen erforderlich</text>
+  <text x="67" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">HALTEN</text>
+  <text x="67" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Fördert den Verkehr</text>
+  <text x="67" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Hat Backlinks</text>
+  <text x="67" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Konvertiert Besucher</text>
+  <text x="67" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Es sind keine Maßnahmen erforderlich</text>
   <rect x="130" y="50" width="105" height="120" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="182" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">VERBESSERN</text>
-  <text x="182" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Hat Potenzial</text>
-  <text x="182" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Muss aktualisiert werden</text>
-  <text x="182" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Schwache Optimierung</text>
-  <text x="182" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">Inhalte aktualisieren</text>
+  <text x="182" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">VERBESSERN</text>
+  <text x="182" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Hat Potenzial</text>
+  <text x="182" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Muss aktualisiert werden</text>
+  <text x="182" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Schwache Optimierung</text>
+  <text x="182" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">Inhalte aktualisieren</text>
   <rect x="245" y="50" width="105" height="120" rx="10" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="297" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">VERSCHMELZEN</text>
-  <text x="297" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Überlappende Themen</text>
-  <text x="297" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Gleiche Schlüsselwörter</text>
-  <text x="297" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Kannibalisierung</text>
-  <text x="297" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">301 zu stärkste</text>
+  <text x="297" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">VERSCHMELZEN</text>
+  <text x="297" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Überlappende Themen</text>
+  <text x="297" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Gleiche Schlüsselwörter</text>
+  <text x="297" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Kannibalisierung</text>
+  <text x="297" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">301 zu stärkste</text>
   <rect x="360" y="50" width="105" height="120" rx="10" fill="#f87171" opacity="0.12" stroke="#f87171" stroke-width="1.2"/>
-  <text x="412" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">ENTFERNEN</text>
-  <text x="412" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Kein Verkehr</text>
-  <text x="412" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Keine Backlinks</text>
-  <text x="412" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Dünn / veraltet</text>
-  <text x="412" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171">410 oder Weiterleitung</text>
+  <text x="412" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">ENTFERNEN</text>
+  <text x="412" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Kein Verkehr</text>
+  <text x="412" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Keine Backlinks</text>
+  <text x="412" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Dünn / veraltet</text>
+  <text x="412" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f87171">410 oder Weiterleitung</text>
   <!-- Bottom arrow -->
   <line x1="67" y1="180" x2="412" y2="180" stroke="#e2e8f0" stroke-width="1" marker-end="url(#arrAudit)"/>
   <defs><marker id="arrAudit" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#e2e8f0"/></marker></defs>
-  <text x="240" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Zunehmende Handlungsschwere</text>
-  <text x="240" y="225" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b">Das Beschneiden führt in der Regel innerhalb von 6–8 Wochen zu einem Netto-Verkehrsgewinn</text>
+  <text x="240" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Zunehmende Handlungsschwere</text>
+  <text x="240" y="225" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Das Beschneiden führt in der Regel innerhalb von 6–8 Wochen zu einem Netto-Verkehrsgewinn</text>
 </svg>

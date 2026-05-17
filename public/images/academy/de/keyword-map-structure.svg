@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 310" fill="none">
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Keyword Map: Zuordnung von Seitentyp zu Keyword</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Keyword Map: Zuordnung von Seitentyp zu Keyword</text>
   <!-- Header row -->
   <rect x="20" y="48" width="120" height="30" rx="8" fill="#a78bfa" fill-opacity="0.15"/>
-  <text x="80" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Seitentyp</text>
+  <text x="80" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Seitentyp</text>
   <rect x="145" y="48" width="180" height="30" rx="8" fill="#a78bfa" fill-opacity="0.15"/>
-  <text x="235" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Primäres Schlüsselwort</text>
+  <text x="235" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Primäres Schlüsselwort</text>
   <rect x="330" y="48" width="140" height="30" rx="8" fill="#a78bfa" fill-opacity="0.15"/>
-  <text x="400" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Absicht</text>
+  <text x="400" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Absicht</text>
   <rect x="475" y="48" width="80" height="30" rx="8" fill="#a78bfa" fill-opacity="0.15"/>
-  <text x="515" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Volumen</text>
+  <text x="515" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Volumen</text>
   <rect x="560" y="48" width="100" height="30" rx="8" fill="#a78bfa" fill-opacity="0.15"/>
-  <text x="610" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Zielanzahl</text>
+  <text x="610" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Zielanzahl</text>
   <!-- Category row -->
   <rect x="20" y="84" width="120" height="36" rx="8" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-width="1"/>
-  <text x="80" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Kategorie</text>
+  <text x="80" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Kategorie</text>
   <rect x="145" y="84" width="180" height="36" rx="8" fill="#38bdf8" fill-opacity="0.04"/>
-  <text x="235" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Laufschuhe für Damen</text>
+  <text x="235" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Laufschuhe für Damen</text>
   <rect x="330" y="84" width="140" height="36" rx="8" fill="#38bdf8" fill-opacity="0.04"/>
-  <text x="400" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Kommerziell</text>
+  <text x="400" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Kommerziell</text>
   <rect x="475" y="84" width="80" height="36" rx="8" fill="#38bdf8" fill-opacity="0.04"/>
-  <text x="515" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">1K-50K</text>
+  <text x="515" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">1K-50K</text>
   <rect x="560" y="84" width="100" height="36" rx="8" fill="#38bdf8" fill-opacity="0.04"/>
-  <text x="610" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">~50 Seiten</text>
+  <text x="610" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">~50 Seiten</text>
   <!-- Product row -->
   <rect x="20" y="126" width="120" height="36" rx="8" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-width="1"/>
-  <text x="80" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600" fill="#34d399">Produkt</text>
+  <text x="80" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">Produkt</text>
   <rect x="145" y="126" width="180" height="36" rx="8" fill="#34d399" fill-opacity="0.04"/>
-  <text x="235" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Nike Air Zoom Pegasus 40</text>
+  <text x="235" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Nike Air Zoom Pegasus 40</text>
   <rect x="330" y="126" width="140" height="36" rx="8" fill="#34d399" fill-opacity="0.04"/>
-  <text x="400" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Transaktional</text>
+  <text x="400" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Transaktional</text>
   <rect x="475" y="126" width="80" height="36" rx="8" fill="#34d399" fill-opacity="0.04"/>
-  <text x="515" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">50-500</text>
+  <text x="515" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">50-500</text>
   <rect x="560" y="126" width="100" height="36" rx="8" fill="#34d399" fill-opacity="0.04"/>
-  <text x="610" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">~1.000 Seiten</text>
+  <text x="610" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">~1.000 Seiten</text>
   <!-- Blog row -->
   <rect x="20" y="168" width="120" height="36" rx="8" fill="#f59e0b" fill-opacity="0.08" stroke="#f59e0b" stroke-width="1"/>
-  <text x="80" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600" fill="#f59e0b">Blog / Leitfaden</text>
+  <text x="80" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#f59e0b">Blog / Leitfaden</text>
   <rect x="145" y="168" width="180" height="36" rx="8" fill="#f59e0b" fill-opacity="0.04"/>
-  <text x="235" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Wie wählt man Laufschuhe aus?</text>
+  <text x="235" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Wie wählt man Laufschuhe aus?</text>
   <rect x="330" y="168" width="140" height="36" rx="8" fill="#f59e0b" fill-opacity="0.04"/>
-  <text x="400" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Informativ</text>
+  <text x="400" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Informativ</text>
   <rect x="475" y="168" width="80" height="36" rx="8" fill="#f59e0b" fill-opacity="0.04"/>
-  <text x="515" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">500-5K</text>
+  <text x="515" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">500-5K</text>
   <rect x="560" y="168" width="100" height="36" rx="8" fill="#f59e0b" fill-opacity="0.04"/>
-  <text x="610" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">~20 Seiten</text>
+  <text x="610" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">~20 Seiten</text>
   <!-- Rule box -->
   <rect x="80" y="226" width="520" height="65" rx="12" stroke="#f87171" stroke-width="1.2" fill="#f87171" fill-opacity="0.05"/>
-  <text x="340" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f87171">Ein primäres Schlüsselwort = eine URL</text>
-  <text x="340" y="266" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Jedes Schlüsselwort sitzt genau an einem Platz. Doppelte Zuweisungen führen zu Kannibalisierung.</text>
-  <text x="340" y="282" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Fügen Sie für zusätzliche Abdeckung zwei bis drei sekundäre Keyword-Variationen pro Seite hinzu.</text>
+  <text x="340" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">Ein primäres Schlüsselwort = eine URL</text>
+  <text x="340" y="266" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Jedes Schlüsselwort sitzt genau an einem Platz. Doppelte Zuweisungen führen zu Kannibalisierung.</text>
+  <text x="340" y="282" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Fügen Sie für zusätzliche Abdeckung zwei bis drei sekundäre Keyword-Variationen pro Seite hinzu.</text>
 </svg>

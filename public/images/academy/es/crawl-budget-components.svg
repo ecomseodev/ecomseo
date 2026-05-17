@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Presupuesto de rastreo = Límite de tasa de rastreo + Demanda de rastreo</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Presupuesto de rastreo = Límite de tasa de rastreo + Demanda de rastreo</text>
 
   <!-- Límite de tasa de rastreo -->
   <rect x="40" y="52" width="260" height="170" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="170" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Límite de velocidad de rastreo</text>
-  <text x="170" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">Capacidad del servidor</text>
+  <text x="170" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Límite de velocidad de rastreo</text>
+  <text x="170" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Capacidad del servidor</text>
 
   <circle cx="80" cy="128" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="96" y="132" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Tiempo de respuesta del servidor</text>
+  <text x="96" y="132" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Tiempo de respuesta del servidor</text>
   <circle cx="80" cy="154" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="96" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Infraestructura de alojamiento</text>
+  <text x="96" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Infraestructura de alojamiento</text>
   <circle cx="80" cy="180" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="96" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Conexiones simultáneas</text>
+  <text x="96" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Conexiones simultáneas</text>
   <circle cx="80" cy="206" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="96" y="210" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Tasa de error (5xx ralentiza el rastreo)</text>
+  <text x="96" y="210" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Tasa de error (5xx ralentiza el rastreo)</text>
 
   <!-- Plus sign -->
   <text x="340" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" letter-spacing="0.3" font-weight="700" fill="#a78bfa">+</text>
 
   <!-- Demanda de rastreo -->
   <rect x="380" y="52" width="260" height="170" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="510" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Demanda de rastreo</text>
-  <text x="510" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#94a3b8">El interés de Google</text>
+  <text x="510" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Demanda de rastreo</text>
+  <text x="510" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">El interés de Google</text>
 
   <circle cx="420" cy="128" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="436" y="132" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Popularidad de la página</text>
+  <text x="436" y="132" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Popularidad de la página</text>
   <circle cx="420" cy="154" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="436" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Frescura del contenido</text>
+  <text x="436" y="158" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Frescura del contenido</text>
   <circle cx="420" cy="180" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="436" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Autoridad de vínculo de retroceso</text>
+  <text x="436" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Autoridad de vínculo de retroceso</text>
   <circle cx="420" cy="206" r="6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
-  <text x="436" y="210" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Señales del mapa del sitio</text>
+  <text x="436" y="210" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Señales del mapa del sitio</text>
 </svg>

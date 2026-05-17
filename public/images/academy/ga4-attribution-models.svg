@@ -1,32 +1,32 @@
 <svg viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">GA4 Attribution: SEO Credit Across Models</text>
-  <text x="210" y="42" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Organic Search > Email Retarget > Direct Visit > Purchase ($120)</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">GA4 Attribution: SEO Credit Across Models</text>
+  <text x="210" y="42" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Organic Search > Email Retarget > Direct Visit > Purchase ($120)</text>
   <g transform="translate(20,56)">
     <rect width="380" height="30" rx="10" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-width="1"/>
-    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">Last Click</text>
+    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Last Click</text>
     <rect x="280" y="6" width="18" height="18" rx="7" fill="#f87171" fill-opacity="0.2"/>
-    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">$0</text>
-    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">SEO gets $0</text>
+    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">$0</text>
+    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">SEO gets $0</text>
   </g>
   <g transform="translate(20,94)">
     <rect width="380" height="30" rx="10" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-width="1"/>
-    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#34d399">First Click</text>
+    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">First Click</text>
     <rect x="268" y="6" width="42" height="18" rx="7" fill="#34d399" fill-opacity="0.2"/>
-    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">$120</text>
-    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">SEO gets $120</text>
+    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">$120</text>
+    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">SEO gets $120</text>
   </g>
   <g transform="translate(20,132)">
     <rect width="380" height="30" rx="10" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">Position-Based</text>
+    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Position-Based</text>
     <rect x="266" y="6" width="46" height="18" rx="7" fill="#f59e0b" fill-opacity="0.2"/>
-    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">$48</text>
-    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">SEO gets 40%</text>
+    <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">$48</text>
+    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">SEO gets 40%</text>
   </g>
   <g transform="translate(20,170)">
     <rect width="380" height="30" rx="10" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="1.2"/>
-    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa">Data-Driven</text>
+    <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Data-Driven</text>
     <rect x="260" y="6" width="52" height="18" rx="7" fill="#a78bfa" fill-opacity="0.2"/>
-    <text x="286" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">~$55</text>
-    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">ML-weighted</text>
+    <text x="286" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">~$55</text>
+    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">ML-weighted</text>
   </g>
 </svg>

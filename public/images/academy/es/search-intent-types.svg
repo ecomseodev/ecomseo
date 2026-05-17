@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700">The Four Tipos of Search Intent</text>
+  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" letter-spacing="0.3" font-weight="700">The Four Tipos of Search Intent</text>
 
   <!-- Funnel stages -->
   <!-- Informativa -->
   <rect x="40" y="50" width="600" height="56" rx="12" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="80" y="74" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Informativa</text>
-  <text x="80" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">"how to choose running shoes"</text>
-  <text x="460" y="74" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Posts de blog, guías</text>
-  <text x="460" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Conversion: &lt;1% | Builds awareness</text>
+  <text x="80" y="74" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Informativa</text>
+  <text x="80" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"how to choose running shoes"</text>
+  <text x="460" y="74" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Posts de blog, guías</text>
+  <text x="460" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Conversion: &lt;1% | Builds awareness</text>
 
   <!-- Comercial -->
   <rect x="80" y="118" width="520" height="56" rx="12" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="120" y="142" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Comercial</text>
-  <text x="120" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">"best running shoes 2025"</text>
-  <text x="440" y="142" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Comparativas, category pages</text>
-  <text x="440" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Conversion: 2-4% | Evaluating options</text>
+  <text x="120" y="142" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Comercial</text>
+  <text x="120" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"best running shoes 2025"</text>
+  <text x="440" y="142" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Comparativas, category pages</text>
+  <text x="440" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Conversion: 2-4% | Evaluating options</text>
 
   <!-- Transaccional -->
   <rect x="120" y="186" width="440" height="56" rx="12" fill="#1a1a2e" stroke="#34d399" stroke-width="1.2"/>
-  <text x="160" y="210" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Transaccional</text>
-  <text x="160" y="228" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">"buy Nike Air Max 90"</text>
-  <text x="420" y="210" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Páginas de producto</text>
-  <text x="420" y="228" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Conversion: 5-10% | Ready to buy</text>
+  <text x="160" y="210" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Transaccional</text>
+  <text x="160" y="228" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"buy Nike Air Max 90"</text>
+  <text x="420" y="210" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Páginas de producto</text>
+  <text x="420" y="228" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Conversion: 5-10% | Ready to buy</text>
 
   <!-- Navegacional -->
   <rect x="160" y="254" width="360" height="56" rx="12" fill="#1a1a2e" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="200" y="278" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Navegacional</text>
-  <text x="200" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">"Nike store" / "Glossier skincare"</text>
-  <text x="420" y="278" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Marca/home pages</text>
-  <text x="420" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">La más alta intent | Already chose brand</text>
+  <text x="200" y="278" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Navegacional</text>
+  <text x="200" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"Nike store" / "Glossier skincare"</text>
+  <text x="420" y="278" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Marca/home pages</text>
+  <text x="420" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">La más alta intent | Already chose brand</text>
 
   <!-- Right side arrow label -->
-  <text x="660" y="145" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" text-anchor="middle" transform="rotate(90,660,145)">Altoer purchase intent</text>
+  <text x="660" y="145" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" text-anchor="middle" transform="rotate(90,660,145)">Altoer purchase intent</text>
   <line x1="652" y1="60" x2="652" y2="300" stroke="#475569" stroke-width="1"/>
   <polygon points="648,295 652,305 656,295" fill="#475569"/>
 
-  <text x="340" y="332" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Match each intent type with the right page type for maximum rankings and conversions</text>
+  <text x="340" y="332" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Match each intent type with the right page type for maximum rankings and conversions</text>
 </svg>

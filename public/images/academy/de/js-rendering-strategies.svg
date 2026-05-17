@@ -1,36 +1,36 @@
 <svg viewBox="0 0 420 210" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Vergleich der Rendering-Strategien</text>
+  <text x="210" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Vergleich der Rendering-Strategien</text>
   <!-- CSR -->
   <rect x="10" y="38" width="95" height="80" rx="10" stroke="#f87171" stroke-width="1.2"/>
-  <text x="57" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">CSR</text>
-  <text x="57" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Leere HTML-Shell</text>
-  <text x="57" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">JS-Builds-Seite</text>
-  <text x="57" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">Am schlimmsten für SEO</text>
-  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Tage-Wochen-Verzögerung</text>
+  <text x="57" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">CSR</text>
+  <text x="57" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Leere HTML-Shell</text>
+  <text x="57" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">JS-Builds-Seite</text>
+  <text x="57" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Am schlimmsten für SEO</text>
+  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Tage-Wochen-Verzögerung</text>
   <!-- SSR -->
   <rect x="115" y="38" width="95" height="80" rx="10" stroke="#34d399" stroke-width="1.2"/>
-  <text x="162" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">SSR</text>
-  <text x="162" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Vollständiges HTML aktiviert</text>
-  <text x="162" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">jede Anfrage</text>
-  <text x="162" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">Am besten für Produkte</text>
-  <text x="162" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Sofortige Indizierung</text>
+  <text x="162" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">SSR</text>
+  <text x="162" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Vollständiges HTML aktiviert</text>
+  <text x="162" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">jede Anfrage</text>
+  <text x="162" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Am besten für Produkte</text>
+  <text x="162" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Sofortige Indizierung</text>
   <!-- SSG -->
   <rect x="220" y="38" width="95" height="80" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="267" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">SSG</text>
-  <text x="267" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Vorgerendert</text>
-  <text x="267" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">zur Bauzeit</text>
-  <text x="267" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">Schnellste Ladezeit</text>
-  <text x="267" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Risiko veralteter Daten</text>
+  <text x="267" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">SSG</text>
+  <text x="267" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Vorgerendert</text>
+  <text x="267" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">zur Bauzeit</text>
+  <text x="267" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Schnellste Ladezeit</text>
+  <text x="267" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Risiko veralteter Daten</text>
   <!-- ISR -->
   <rect x="325" y="38" width="85" height="80" rx="10" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="367" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">ISR</text>
-  <text x="367" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Statisch + periodisch</text>
-  <text x="367" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Verlängerung</text>
-  <text x="367" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">Das Beste von beidem</text>
-  <text x="367" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Next.js/Nuxt</text>
+  <text x="367" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">ISR</text>
+  <text x="367" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Statisch + periodisch</text>
+  <text x="367" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Verlängerung</text>
+  <text x="367" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Das Beste von beidem</text>
+  <text x="367" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Next.js/Nuxt</text>
   <!-- Recommendation -->
   <rect x="30" y="140" width="360" height="60" rx="10" stroke="#34d399" stroke-width="1" stroke-dasharray="4"/>
-  <text x="210" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#34d399">Empfohlener Hybridansatz</text>
-  <text x="210" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">SSG: Kategorieseiten | SSR: Produktseiten | CSR: Nur Warenkorb/Wunschliste</text>
-  <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Passen Sie die Rendering-Strategie an die Indexierungspriorität pro Seitentyp an</text>
+  <text x="210" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Empfohlener Hybridansatz</text>
+  <text x="210" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">SSG: Kategorieseiten | SSR: Produktseiten | CSR: Nur Warenkorb/Wunschliste</text>
+  <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Passen Sie die Rendering-Strategie an die Indexierungspriorität pro Seitentyp an</text>
 </svg>

@@ -1,27 +1,27 @@
 <svg viewBox="0 0 400 180" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Checklist SEO Image Pack</text>
+  <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Checklist SEO Image Pack</text>
   <!-- Image element -->
   <rect x="20" y="38" width="170" height="90" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="105" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">Immagine del prodotto</text>
-  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">File: red-leather-bag-front.jpg</text>
-  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Alt: "Borsa a tracolla in pelle rossa"</text>
-  <text x="30" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Dimensioni: 1200px+ bordo più lungo</text>
-  <text x="30" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Formato: WebP + srcset</text>
-  <text x="30" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Posizione: above the fold</text>
+  <text x="105" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Immagine del prodotto</text>
+  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">File: red-leather-bag-front.jpg</text>
+  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Alt: "Borsa a tracolla in pelle rossa"</text>
+  <text x="30" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Dimensioni: 1200px+ bordo più lungo</text>
+  <text x="30" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Formato: WebP + srcset</text>
+  <text x="30" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Posizione: above the fold</text>
   <!-- Connection arrow -->
   <path d="M195 82 L215 82" stroke="#a78bfa" stroke-width="1.2" marker-end="url(#arI)"/>
   <!-- Schema connection -->
   <rect x="220" y="38" width="165" height="90" rx="10" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="302" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa">Collegamento allo schema del prodotto</text>
-  <text x="230" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"image": "url-to-image"</text>
-  <text x="230" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"name": "Borsa in pelle rossa"</text>
-  <text x="230" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"price": "$149"</text>
-  <text x="230" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"aggregateRating": 4,8</text>
-  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">Schema + immagine = 2x visibilità</text>
+  <text x="302" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Collegamento allo schema del prodotto</text>
+  <text x="230" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"image": "url-to-image"</text>
+  <text x="230" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"name": "Borsa in pelle rossa"</text>
+  <text x="230" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"price": "$149"</text>
+  <text x="230" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"aggregateRating": 4,8</text>
+  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Schema + immagine = 2x visibilità</text>
   <!-- Appears in -->
-  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Appare nel 30-40% delle ricerche di prodotti</text>
+  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Appare nel 30-40% delle ricerche di prodotti</text>
   <!-- Tips -->
-  <text x="200" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Angoli multipli per prodotto = più opportunità di pacchetti di immagini</text>
+  <text x="200" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b">Angoli multipli per prodotto = più opportunità di pacchetti di immagini</text>
   <defs>
     <marker id="arI" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>
   </defs>

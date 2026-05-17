@@ -1,35 +1,35 @@
 <svg viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Impact-Effort-Matrix für SEO-Aufgaben</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Impact-Effort-Matrix für SEO-Aufgaben</text>
   <line x1="60" y1="240" x2="400" y2="240" stroke="#475569" stroke-width="1"/>
   <line x1="60" y1="40" x2="60" y2="240" stroke="#475569" stroke-width="1"/>
   <line x1="60" y1="140" x2="400" y2="140" stroke="#475569" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.3"/>
   <line x1="230" y1="40" x2="230" y2="240" stroke="#475569" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.3"/>
-  <text x="55" y="46" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Hoch</text>
-  <text x="55" y="244" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Niedrig</text>
-  <text x="55" y="140" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Auswirkungen</text>
-  <text x="400" y="254" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Hoher Aufwand</text>
-  <text x="70" y="254" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Geringer Aufwand</text>
+  <text x="55" y="46" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Hoch</text>
+  <text x="55" y="244" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Niedrig</text>
+  <text x="55" y="140" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Auswirkungen</text>
+  <text x="400" y="254" text-anchor="end" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Hoher Aufwand</text>
+  <text x="70" y="254" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Geringer Aufwand</text>
   <rect x="68" y="48" width="155" height="86" rx="12" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-width="1"/>
-  <text x="145" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">Schnelle Erfolge</text>
-  <text x="145" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Titel-Tag wird neu geschrieben</text>
-  <text x="145" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Schema auf den oberen Seiten</text>
-  <text x="145" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Beheben Sie Crawling-Fehler</text>
-  <text x="145" y="126" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">TUN SIE ZUERST</text>
+  <text x="145" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Schnelle Erfolge</text>
+  <text x="145" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Titel-Tag wird neu geschrieben</text>
+  <text x="145" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Schema auf den oberen Seiten</text>
+  <text x="145" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Beheben Sie Crawling-Fehler</text>
+  <text x="145" y="126" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">TUN SIE ZUERST</text>
   <rect x="238" y="48" width="155" height="86" rx="12" fill="#38bdf8" fill-opacity="0.08" stroke="#38bdf8" stroke-width="1"/>
-  <text x="315" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">Strategische Projekte</text>
-  <text x="315" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Neuaufbau der Site-Architektur</text>
-  <text x="315" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Start des Content-Hubs</text>
-  <text x="315" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Plattformmigration</text>
-  <text x="315" y="126" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">PLANEN SIE VIERTELJÄHRLICH</text>
+  <text x="315" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Strategische Projekte</text>
+  <text x="315" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Neuaufbau der Site-Architektur</text>
+  <text x="315" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Start des Content-Hubs</text>
+  <text x="315" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Plattformmigration</text>
+  <text x="315" y="126" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">PLANEN SIE VIERTELJÄHRLICH</text>
   <rect x="68" y="148" width="155" height="86" rx="12" fill="#f59e0b" fill-opacity="0.08" stroke="#f59e0b" stroke-width="1"/>
-  <text x="145" y="165" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">Wartung</text>
-  <text x="145" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Alt-Tags korrigieren</text>
-  <text x="145" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Saubere Weiterleitungen</text>
-  <text x="145" y="204" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Fußzeilen aktualisieren</text>
-  <text x="145" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">CHARGEN WÖCHENTLICH</text>
+  <text x="145" y="165" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Wartung</text>
+  <text x="145" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Alt-Tags korrigieren</text>
+  <text x="145" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Saubere Weiterleitungen</text>
+  <text x="145" y="204" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Fußzeilen aktualisieren</text>
+  <text x="145" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">CHARGEN WÖCHENTLICH</text>
   <rect x="238" y="148" width="155" height="86" rx="12" fill="#f87171" fill-opacity="0.08" stroke="#f87171" stroke-width="1"/>
-  <text x="315" y="165" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">Überspringen oder aufschieben</text>
-  <text x="315" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Schreiben Sie 300 wenig Verkehr um</text>
-  <text x="315" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Produktbeschreibungen</text>
-  <text x="315" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">AUS DER LISTE ENTFERNEN</text>
+  <text x="315" y="165" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Überspringen oder aufschieben</text>
+  <text x="315" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Schreiben Sie 300 wenig Verkehr um</text>
+  <text x="315" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Produktbeschreibungen</text>
+  <text x="315" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f87171">AUS DER LISTE ENTFERNEN</text>
 </svg>

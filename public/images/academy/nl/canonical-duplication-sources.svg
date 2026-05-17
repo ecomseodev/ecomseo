@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">5 URL's, 1 product: waarom Canonicals ertoe doen</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">5 URL's, 1 product: waarom Canonicals ertoe doen</text>
 
   <!-- Product box center -->
   <rect x="260" y="44" width="160" height="44" rx="10" stroke="#34d399" stroke-width="2" fill="none"/>
-  <text x="340" y="63" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Blauwe hardloopschoenen</text>
-  <text x="340" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Enkel product</text>
+  <text x="340" y="63" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Blauwe hardloopschoenen</text>
+  <text x="340" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Enkel product</text>
 
   <!-- URL boxes -->
   <rect x="10" y="120" width="130" height="50" rx="10" stroke="#38bdf8" stroke-width="1" fill="none"/>
-  <text x="75" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Directe URL</text>
-  <text x="75" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/producten/blauwe schoenen</text>
+  <text x="75" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Directe URL</text>
+  <text x="75" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">/producten/blauwe schoenen</text>
 
   <rect x="148" y="120" width="130" height="50" rx="10" stroke="#f59e0b" stroke-width="1" fill="none"/>
-  <text x="213" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Filter-URL</text>
-  <text x="213" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/schoenen?kleur=blauw</text>
+  <text x="213" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Filter-URL</text>
+  <text x="213" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">/schoenen?kleur=blauw</text>
 
   <rect x="286" y="120" width="130" height="50" rx="10" stroke="#f59e0b" stroke-width="1" fill="none"/>
-  <text x="351" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Zoek-URL</text>
-  <text x="351" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/search?q=blauw+schoenen</text>
+  <text x="351" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Zoek-URL</text>
+  <text x="351" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">/search?q=blauw+schoenen</text>
 
   <rect x="424" y="120" width="130" height="50" rx="10" stroke="#f59e0b" stroke-width="1" fill="none"/>
-  <text x="489" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">UTM-URL</text>
-  <text x="489" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/blue-shoes?utm_src=em</text>
+  <text x="489" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">UTM-URL</text>
+  <text x="489" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">/blue-shoes?utm_src=em</text>
 
   <rect x="562" y="120" width="110" height="50" rx="10" stroke="#f59e0b" stroke-width="1" fill="none"/>
-  <text x="617" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Sessie-URL</text>
-  <text x="617" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/blauwe schoenen?sid=abc</text>
+  <text x="617" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Sessie-URL</text>
+  <text x="617" y="156" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">/blauwe schoenen?sid=abc</text>
 
   <!-- Arrows from product to URLs -->
   <line x1="300" y1="88" x2="75" y2="118" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4"/>
@@ -36,7 +36,7 @@
   <line x1="380" y1="88" x2="617" y2="118" stroke="#f59e0b" stroke-width="1" stroke-dasharray="4"/>
 
   <!-- Canonical arrows -->
-  <text x="340" y="200" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">rel="canoniek"</text>
+  <text x="340" y="200" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#a78bfa">rel="canoniek"</text>
   <line x1="213" y1="170" x2="105" y2="210" stroke="#34d399" stroke-width="1.2"/>
   <polygon points="102,205 105,215 112,208" fill="#34d399"/>
   <line x1="351" y1="170" x2="105" y2="225" stroke="#34d399" stroke-width="1.2"/>
@@ -45,9 +45,9 @@
 
   <!-- Canonical target -->
   <rect x="20" y="210" width="170" height="50" rx="12" stroke="#34d399" stroke-width="2" fill="none"/>
-  <text x="105" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="700" fill="#34d399">Canonieke URL</text>
-  <text x="105" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/producten/blauwe schoenen</text>
+  <text x="105" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Canonieke URL</text>
+  <text x="105" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/producten/blauwe schoenen</text>
 
   <!-- Result -->
-  <text x="340" y="288" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Alle rangschikkingssignalen geconsolideerd in één URL</text>
+  <text x="340" y="288" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Alle rangschikkingssignalen geconsolideerd in één URL</text>
 </svg>

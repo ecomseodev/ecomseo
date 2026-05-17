@@ -1,24 +1,24 @@
 <svg viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Structure du rapport exécutif SEO</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Structure du rapport exécutif SEO</text>
   <g transform="translate(30,38)">
     <rect width="360" height="34" rx="10" fill="#a78bfa" fill-opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
-    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa">PARTIE 1</text>
-    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">KPI principaux : revenus, trafic, CVR, nouveaux clients</text>
+    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">PARTIE 1</text>
+    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">KPI principaux : revenus, trafic, CVR, nouveaux clients</text>
   </g>
   <g transform="translate(30,80)">
     <rect width="360" height="34" rx="10" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-width="1"/>
-    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">PARTIE 2</text>
-    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">Graphique de tendance sur 12 mois avec superpositions d'événements</text>
+    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">PARTIE 2</text>
+    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">Graphique de tendance sur 12 mois avec superpositions d'événements</text>
   </g>
   <g transform="translate(30,122)">
     <rect width="360" height="34" rx="10" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-width="1"/>
-    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">PARTIE 3</text>
-    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">Part de voix compétitive par rapport à 2-3 rivaux</text>
+    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">PARTIE 3</text>
+    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">Part de voix compétitive par rapport à 2-3 rivaux</text>
   </g>
   <g transform="translate(30,164)">
     <rect width="360" height="34" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
-    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">PARTIE 4</text>
-    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#e2e8f0">3 à 5 prochaines étapes prioritaires avec impact projeté</text>
+    <text x="18" y="14" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">PARTIE 4</text>
+    <text x="18" y="27" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">3 à 5 prochaines étapes prioritaires avec impact projeté</text>
   </g>
-  <text x="210" y="214" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Envoyez le résumé 24h avant la réunion pour un meilleur engagement des parties prenantes</text>
+  <text x="210" y="214" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Envoyez le résumé 24h avant la réunion pour un meilleur engagement des parties prenantes</text>
 </svg>

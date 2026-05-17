@@ -1,46 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250" fill="none">
-  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Funciones de SEO integradas de BigCommerce</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Funciones de SEO integradas de BigCommerce</text>
   <!-- Grid of features -->
   <!-- Row 1 -->
   <rect x="25" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="82" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Metaetiquetas</text>
-  <text x="82" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Título, descripción, slug</text>
-  <text x="82" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">por página en admin</text>
+  <text x="82" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Metaetiquetas</text>
+  <text x="82" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Título, descripción, slug</text>
+  <text x="82" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">por página en admin</text>
 
   <rect x="152" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="210" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Mapa del sitio XML</text>
-  <text x="210" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Generado automáticamente</text>
-  <text x="210" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">control por página</text>
+  <text x="210" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Mapa del sitio XML</text>
+  <text x="210" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Generado automáticamente</text>
+  <text x="210" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">control por página</text>
 
   <rect x="279" y="42" width="115" height="50" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="337" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">CDN de Akamai</text>
-  <text x="337" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Conversión automática de WebP</text>
-  <text x="337" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">imágenes responsivas</text>
+  <text x="337" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">CDN de Akamai</text>
+  <text x="337" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Conversión automática de WebP</text>
+  <text x="337" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">imágenes responsivas</text>
 
   <!-- Row 2 -->
   <rect x="25" y="104" width="115" height="50" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="82" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Esquema del producto</text>
-  <text x="82" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">JSON-LD con precio,</text>
-  <text x="82" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">opiniones, disponibilidad</text>
+  <text x="82" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">Esquema del producto</text>
+  <text x="82" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">JSON-LD con precio,</text>
+  <text x="82" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">opiniones, disponibilidad</text>
 
   <rect x="152" y="104" width="115" height="50" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="210" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Robots.txt</text>
-  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Editable vía</text>
-  <text x="210" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">panel de administración</text>
+  <text x="210" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">Robots.txt</text>
+  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Editable vía</text>
+  <text x="210" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">panel de administración</text>
 
   <rect x="279" y="104" width="115" height="50" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="337" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Etiquetas canónicas</text>
-  <text x="337" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Generado automáticamente</text>
-  <text x="337" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">para todos los productos</text>
+  <text x="337" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">Etiquetas canónicas</text>
+  <text x="337" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Generado automáticamente</text>
+  <text x="337" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">para todos los productos</text>
 
   <!-- Comparison bar -->
   <rect x="25" y="175" width="369" height="32" rx="10" stroke="#a78bfa" stroke-width="1" fill="none"/>
-  <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa">Todo nativo: no se requieren aplicaciones de terceros para el SEO principal</text>
-  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Falta: esquema de ruta de navegación, esquema de preguntas frecuentes, hreflang (agregar manualmente en Plantilla)</text>
+  <text x="210" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Todo nativo: no se requieren aplicaciones de terceros para el SEO principal</text>
+  <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Falta: esquema de ruta de navegación, esquema de preguntas frecuentes, hreflang (agregar manualmente en Plantilla)</text>
 
   <!-- Legend -->
   <rect x="110" y="225" width="8" height="8" rx="6" fill="#34d399"/>
-  <text x="123" y="233" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Controles de contenido</text>
+  <text x="123" y="233" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Controles de contenido</text>
   <rect x="220" y="225" width="8" height="8" rx="6" fill="#38bdf8"/>
-  <text x="233" y="233" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">SEO técnico</text>
+  <text x="233" y="233" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">SEO técnico</text>
 </svg>

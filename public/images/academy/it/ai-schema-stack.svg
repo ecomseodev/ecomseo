@@ -1,35 +1,35 @@
 <svg viewBox="0 0 380 210" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="190" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Stack di markup dello schema per la visibilità dell'intelligenza artificiale</text>
+  <text x="190" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Stack di markup dello schema per la visibilità dell'intelligenza artificiale</text>
   <!-- Product Schema (center) -->
   <rect x="120" y="38" width="140" height="50" rx="10" stroke="#a78bfa" stroke-width="2"/>
-  <text x="190" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Schema del prodotto</text>
-  <text x="190" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">nome, marca, sku, gtin, mpn</text>
-  <text x="190" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">colore, dimensione, materiale, peso</text>
+  <text x="190" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Schema del prodotto</text>
+  <text x="190" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">nome, marca, sku, gtin, mpn</text>
+  <text x="190" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">colore, dimensione, materiale, peso</text>
   <!-- Offer -->
   <rect x="15" y="100" width="110" height="40" rx="9" stroke="#34d399" stroke-width="1.2"/>
-  <text x="70" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Offerta</text>
-  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">prezzo, valuta, disp.</text>
+  <text x="70" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Offerta</text>
+  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">prezzo, valuta, disp.</text>
   <path d="M125 92 L80 100" stroke="#34d399" stroke-width="1"/>
   <!-- hasVariant -->
   <rect x="135" y="100" width="110" height="40" rx="9" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="190" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">hasVariant</text>
-  <text x="190" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Voci ProductModel</text>
+  <text x="190" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">hasVariant</text>
+  <text x="190" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Voci ProductModel</text>
   <path d="M190 88 L190 100" stroke="#38bdf8" stroke-width="1"/>
   <!-- AggregateRating -->
   <rect x="255" y="100" width="110" height="40" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="310" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Valutazione aggregata</text>
-  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">valutazioneValore, revisioneConteggio</text>
+  <text x="310" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">Valutazione aggregata</text>
+  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">valutazioneValore, revisioneConteggio</text>
   <path d="M255 92 L300 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Supporting schemas -->
-  <text x="190" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#e2e8f0">Supporto dei tipi di schema</text>
+  <text x="190" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Supporto dei tipi di schema</text>
   <rect x="10" y="170" width="80" height="28" rx="8" stroke="#38bdf8" stroke-width="1" stroke-dasharray="3"/>
-  <text x="50" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">Elenco breadcrumb</text>
+  <text x="50" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Elenco breadcrumb</text>
   <rect x="100" y="170" width="60" height="28" rx="8" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3"/>
-  <text x="130" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">Pagina FAQ</text>
+  <text x="130" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Pagina FAQ</text>
   <rect x="170" y="170" width="55" height="28" rx="8" stroke="#34d399" stroke-width="1" stroke-dasharray="3"/>
-  <text x="197" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">Come</text>
+  <text x="197" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Come</text>
   <rect x="235" y="170" width="60" height="28" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
-  <text x="265" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Elenco articoli</text>
+  <text x="265" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Elenco articoli</text>
   <rect x="305" y="170" width="65" height="28" rx="8" stroke="#f87171" stroke-width="1" stroke-dasharray="3"/>
-  <text x="337" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">Organizzazione</text>
+  <text x="337" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Organizzazione</text>
 </svg>

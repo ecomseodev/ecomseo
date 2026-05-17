@@ -1,33 +1,33 @@
 <svg viewBox="0 0 480 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Beslissingsmatrix voor inhoudscontrole</text>
+  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Beslissingsmatrix voor inhoudscontrole</text>
   <!-- 4 buckets -->
   <rect x="15" y="50" width="105" height="120" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
-  <text x="67" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">HOUDEN</text>
-  <text x="67" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Zorgt voor verkeer</text>
-  <text x="67" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Heeft backlinks</text>
-  <text x="67" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Converteert bezoekers</text>
-  <text x="67" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Geen actie nodig</text>
+  <text x="67" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">HOUDEN</text>
+  <text x="67" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Zorgt voor verkeer</text>
+  <text x="67" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Heeft backlinks</text>
+  <text x="67" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Converteert bezoekers</text>
+  <text x="67" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Geen actie nodig</text>
   <rect x="130" y="50" width="105" height="120" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="182" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">VERBETEREN</text>
-  <text x="182" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Heeft potentieel</text>
-  <text x="182" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Moet worden bijgewerkt</text>
-  <text x="182" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Zwakke optimalisatie</text>
-  <text x="182" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">Inhoud vernieuwen</text>
+  <text x="182" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">VERBETEREN</text>
+  <text x="182" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Heeft potentieel</text>
+  <text x="182" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Moet worden bijgewerkt</text>
+  <text x="182" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Zwakke optimalisatie</text>
+  <text x="182" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">Inhoud vernieuwen</text>
   <rect x="245" y="50" width="105" height="120" rx="10" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="297" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">SAMENVOEGEN</text>
-  <text x="297" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Overlappende onderwerpen</text>
-  <text x="297" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Dezelfde trefwoorden</text>
-  <text x="297" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Kannibalisatie</text>
-  <text x="297" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">301 tot sterkste</text>
+  <text x="297" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">SAMENVOEGEN</text>
+  <text x="297" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Overlappende onderwerpen</text>
+  <text x="297" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Dezelfde trefwoorden</text>
+  <text x="297" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Kannibalisatie</text>
+  <text x="297" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">301 tot sterkste</text>
   <rect x="360" y="50" width="105" height="120" rx="10" fill="#f87171" opacity="0.12" stroke="#f87171" stroke-width="1.2"/>
-  <text x="412" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">VERWIJDEREN</text>
-  <text x="412" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Geen verkeer</text>
-  <text x="412" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Geen backlinks</text>
-  <text x="412" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Dun/verouderd</text>
-  <text x="412" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171">410 of omleiding</text>
+  <text x="412" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">VERWIJDEREN</text>
+  <text x="412" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Geen verkeer</text>
+  <text x="412" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Geen backlinks</text>
+  <text x="412" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Dun/verouderd</text>
+  <text x="412" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f87171">410 of omleiding</text>
   <!-- Bottom arrow -->
   <line x1="67" y1="180" x2="412" y2="180" stroke="#e2e8f0" stroke-width="1" marker-end="url(#arrAudit)"/>
   <defs><marker id="arrAudit" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#e2e8f0"/></marker></defs>
-  <text x="240" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Het verhogen van de ernst van de actie</text>
-  <text x="240" y="225" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b">Snoeien levert doorgaans binnen zes tot acht weken netto verkeerswinst op</text>
+  <text x="240" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Het verhogen van de ernst van de actie</text>
+  <text x="240" y="225" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Snoeien levert doorgaans binnen zes tot acht weken netto verkeerswinst op</text>
 </svg>

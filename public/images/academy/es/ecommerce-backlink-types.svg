@@ -1,5 +1,5 @@
 <svg viewBox="0 0 420 230" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Tipos de vínculos de retroceso de comercio electrónico</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Tipos de vínculos de retroceso de comercio electrónico</text>
   <line x1="210" y1="44" x2="210" y2="58" stroke="#a78bfa" stroke-width="1.2"/>
   <line x1="60" y1="58" x2="360" y2="58" stroke="#a78bfa" stroke-width="1.2"/>
   <line x1="60" y1="58" x2="60" y2="72" stroke="#a78bfa" stroke-width="1.2"/>
@@ -7,26 +7,26 @@
   <line x1="260" y1="58" x2="260" y2="72" stroke="#a78bfa" stroke-width="1.2"/>
   <line x1="360" y1="58" x2="360" y2="72" stroke="#a78bfa" stroke-width="1.2"/>
   <rect x="10" y="72" rx="10" width="100" height="68" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="60" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">Producto</text>
-  <text x="60" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Reseñas, resúmenes,</text>
-  <text x="60" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">guías de regalos</text>
-  <text x="60" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">Directo a las páginas de productos</text>
+  <text x="60" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Producto</text>
+  <text x="60" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Reseñas, resúmenes,</text>
+  <text x="60" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">guías de regalos</text>
+  <text x="60" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">Directo a las páginas de productos</text>
   <rect x="110" y="72" rx="10" width="100" height="68" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="160" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">Recurso</text>
-  <text x="160" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">guías de compra,</text>
-  <text x="160" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">tutoriales, gráficos</text>
-  <text x="160" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">A páginas de información</text>
+  <text x="160" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Recurso</text>
+  <text x="160" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">guías de compra,</text>
+  <text x="160" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">tutoriales, gráficos</text>
+  <text x="160" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">A páginas de información</text>
   <rect x="210" y="72" rx="10" width="100" height="68" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
-  <text x="260" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">Marca</text>
-  <text x="260" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Prensa, asociaciones,</text>
-  <text x="260" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">menciones, UGC</text>
-  <text x="260" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">A la página de inicio/marca</text>
+  <text x="260" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Marca</text>
+  <text x="260" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Prensa, asociaciones,</text>
+  <text x="260" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">menciones, UGC</text>
+  <text x="260" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">A la página de inicio/marca</text>
   <rect x="310" y="72" rx="10" width="100" height="68" stroke="#a78bfa" stroke-width="1.2" fill="none"/>
-  <text x="360" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Proveedor</text>
-  <text x="360" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Directorios de distribuidores,</text>
-  <text x="360" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">listas de minoristas</text>
-  <text x="360" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">Poco esfuerzo, relevante</text>
+  <text x="360" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Proveedor</text>
+  <text x="360" y="104" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Directorios de distribuidores,</text>
+  <text x="360" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">listas de minoristas</text>
+  <text x="360" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">Poco esfuerzo, relevante</text>
   <rect x="50" y="160" rx="10" width="320" height="56" stroke="#a78bfa" stroke-width="1" stroke-dasharray="4" fill="none"/>
-  <text x="210" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Flujos de autoridad: los enlaces de productos impulsan las páginas comerciales directamente.</text>
-  <text x="210" y="196" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Los enlaces de recursos + marca + proveedores transmiten capital a través de enlaces internos.</text>
+  <text x="210" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Flujos de autoridad: los enlaces de productos impulsan las páginas comerciales directamente.</text>
+  <text x="210" y="196" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Los enlaces de recursos + marca + proveedores transmiten capital a través de enlaces internos.</text>
 </svg>

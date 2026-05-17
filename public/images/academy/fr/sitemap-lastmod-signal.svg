@@ -1,38 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Plan du site Lastmod : précis ou incorrect</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Plan du site Lastmod : précis ou incorrect</text>
 
   <!-- Correct -->
   <rect x="30" y="48" width="290" height="180" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
-  <text x="175" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Lastmod précis</text>
+  <text x="175" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Lastmod précis</text>
 
-  <text x="50" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-a 2025-04-01</text>
-  <text x="250" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">le prix a changé</text>
-  <text x="50" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-b 2025-03-15</text>
-  <text x="250" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">nouvelle critique</text>
-  <text x="50" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-c 2025-01-20</text>
-  <text x="250" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">inchangé</text>
-  <text x="50" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-d 2025-04-05</text>
-  <text x="250" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">réapprovisionné</text>
+  <text x="50" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-a 2025-04-01</text>
+  <text x="250" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">le prix a changé</text>
+  <text x="50" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-b 2025-03-15</text>
+  <text x="250" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">nouvelle critique</text>
+  <text x="50" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-c 2025-01-20</text>
+  <text x="250" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">inchangé</text>
+  <text x="50" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-d 2025-04-05</text>
+  <text x="250" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">réapprovisionné</text>
 
   <rect x="50" y="176" width="250" height="36" rx="8" stroke="#34d399" stroke-width="1" fill="none"/>
-  <text x="175" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Résultat : une indexation 30 % plus rapide</text>
-  <text x="175" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Google fait confiance et utilise le signal</text>
+  <text x="175" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="700" fill="#34d399">Résultat : une indexation 30 % plus rapide</text>
+  <text x="175" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Google fait confiance et utilise le signal</text>
 
   <!-- Incorrect -->
   <rect x="360" y="48" width="290" height="180" rx="10" stroke="#f87171" stroke-width="1.2" fill="none"/>
-  <text x="505" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f87171">Tous à la même date</text>
+  <text x="505" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">Tous à la même date</text>
 
-  <text x="380" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-a 2025-04-07</text>
-  <text x="562" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">aujourd'hui</text>
-  <text x="380" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-b 2025-04-07</text>
-  <text x="562" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">aujourd'hui</text>
-  <text x="380" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-c 2025-04-07</text>
-  <text x="562" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">aujourd'hui</text>
-  <text x="380" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">/produit-d 2025-04-07</text>
-  <text x="562" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">aujourd'hui</text>
+  <text x="380" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-a 2025-04-07</text>
+  <text x="562" y="100" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">aujourd'hui</text>
+  <text x="380" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-b 2025-04-07</text>
+  <text x="562" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">aujourd'hui</text>
+  <text x="380" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-c 2025-04-07</text>
+  <text x="562" y="140" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">aujourd'hui</text>
+  <text x="380" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">/produit-d 2025-04-07</text>
+  <text x="562" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">aujourd'hui</text>
 
   <rect x="380" y="176" width="250" height="36" rx="8" stroke="#f87171" stroke-width="1" fill="none"/>
-  <text x="505" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">Résultat : Signal détruit</text>
-  <text x="505" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Google ignore complètement LastMod</text>
+  <text x="505" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f87171">Résultat : Signal détruit</text>
+  <text x="505" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Google ignore complètement LastMod</text>
 </svg>

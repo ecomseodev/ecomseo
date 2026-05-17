@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 300" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700">Los cuatro pilares del SEO para el comercio electrónico</text>
+  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Los cuatro pilares del SEO para el comercio electrónico</text>
 
   <!-- Fundamentos bar -->
   <rect x="60" y="230" width="560" height="36" rx="10" fill="#1a1a2e" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="340" y="252" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Crecimiento de ingresos a través de la búsqueda orgánica</text>
+  <text x="340" y="252" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Crecimiento de ingresos a través de la búsqueda orgánica</text>
 
   <!-- Pillar 1 -->
   <rect x="72" y="80" width="120" height="146" rx="10" fill="#1a1a2e" stroke="#34d399" stroke-width="1.2"/>
-  <text x="132" y="104" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Técnico</text>
-  <text x="132" y="118" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">SEO</text>
-  <text x="132" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Capacidad de rastreo</text>
-  <text x="132" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Velocidad de página</text>
-  <text x="132" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Datos estructurados</text>
-  <text x="132" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Indexación</text>
-  <text x="132" y="210" text-anchor="middle" fill="#334155" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">BASE</text>
+  <text x="132" y="104" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Técnico</text>
+  <text x="132" y="118" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">SEO</text>
+  <text x="132" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Capacidad de rastreo</text>
+  <text x="132" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Velocidad de página</text>
+  <text x="132" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Datos estructurados</text>
+  <text x="132" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Indexación</text>
+  <text x="132" y="210" text-anchor="middle" fill="#334155" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">BASE</text>
 
   <!-- Pillar 2 -->
   <rect x="206" y="80" width="120" height="146" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="266" y="104" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">En la página</text>
-  <text x="266" y="118" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">SEO</text>
-  <text x="266" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Palabras clave</text>
-  <text x="266" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Etiquetas de título</text>
-  <text x="266" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Descripciones</text>
-  <text x="266" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Encabezamientos</text>
+  <text x="266" y="104" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">En la página</text>
+  <text x="266" y="118" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">SEO</text>
+  <text x="266" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Palabras clave</text>
+  <text x="266" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Etiquetas de título</text>
+  <text x="266" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Descripciones</text>
+  <text x="266" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Encabezamientos</text>
 
   <!-- Pillar 3 -->
   <rect x="340" y="80" width="120" height="146" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="400" y="104" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Contenido</text>
-  <text x="400" y="118" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Estrategia</text>
-  <text x="400" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">guías de compra</text>
-  <text x="400" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Comparaciones</text>
-  <text x="400" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Publicaciones de blog</text>
-  <text x="400" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Enlace interno</text>
+  <text x="400" y="104" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Contenido</text>
+  <text x="400" y="118" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Estrategia</text>
+  <text x="400" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">guías de compra</text>
+  <text x="400" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Comparaciones</text>
+  <text x="400" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Publicaciones de blog</text>
+  <text x="400" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Enlace interno</text>
 
   <!-- Pillar 4 -->
   <rect x="474" y="80" width="120" height="146" rx="10" fill="#1a1a2e" stroke="#f87171" stroke-width="1.2"/>
-  <text x="534" y="104" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Fuera de página</text>
-  <text x="534" y="118" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">SEO</text>
-  <text x="534" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Vínculos de retroceso</text>
-  <text x="534" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Relaciones públicas digitales</text>
-  <text x="534" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Menciones de marca</text>
-  <text x="534" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Autoridad</text>
+  <text x="534" y="104" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Fuera de página</text>
+  <text x="534" y="118" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">SEO</text>
+  <text x="534" y="140" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Vínculos de retroceso</text>
+  <text x="534" y="154" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Relaciones públicas digitales</text>
+  <text x="534" y="168" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Menciones de marca</text>
+  <text x="534" y="182" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Autoridad</text>
 
   <!-- Top label -->
-  <text x="132" y="65" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Empieza aquí</text>
+  <text x="132" y="65" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Empieza aquí</text>
   <line x1="132" y1="68" x2="132" y2="78" stroke="#34d399" stroke-width="1"/>
   <polygon points="128,76 132,82 136,76" fill="#34d399"/>
 
-  <text x="340" y="286" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Los cuatro pilares trabajan juntos. Comience con SEO técnico para desbloquear todo lo demás.</text>
+  <text x="340" y="286" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Los cuatro pilares trabajan juntos. Comience con SEO técnico para desbloquear todo lo demás.</text>
 </svg>
