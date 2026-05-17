@@ -11,7 +11,7 @@
   <polygon points="156,71 164,75 156,79" fill="#94a3b8"/>
   <g transform="translate(164,40)">
     <rect width="120" height="70" rx="12" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-width="1.2"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Maandelijks overzicht</text>
+    <text x="60" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#38bdf8">Maandelijks overzicht</text>
     <text x="60" y="36" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Beoordeling van 30 minuten</text>
     <text x="60" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Backlog opnieuw prioriteren</text>
     <text x="60" y="60" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Vroege signalen controleren</text>

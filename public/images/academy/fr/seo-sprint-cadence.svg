@@ -2,7 +2,7 @@
   <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Système de cadence de sprint SEO</text>
   <g transform="translate(20,40)">
     <rect width="120" height="70" rx="12" fill="#34d399" fill-opacity="0.1" stroke="#34d399" stroke-width="1.2"/>
-    <text x="60" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Sprint hebdomadaire</text>
+    <text x="60" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#34d399">Sprint hebdomadaire</text>
     <text x="60" y="36" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">3-5 tâches</text>
     <text x="60" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Exécution tactique</text>
     <text x="60" y="60" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Effacer les propriétaires</text>
@@ -13,8 +13,8 @@
     <rect width="120" height="70" rx="12" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-width="1.2"/>
     <text x="60" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Revue mensuelle</text>
     <text x="60" y="36" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Évaluation de 30 minutes</text>
-    <text x="60" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Redéfinir les priorités du backlog</text>
-    <text x="60" y="60" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Vérifiez les premiers signaux</text>
+    <text x="60" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Redéfinir les priorités du backlog</text>
+    <text x="60" y="60" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Vérifiez les premiers signaux</text>
   </g>
   <line x1="292" y1="75" x2="302" y2="75" stroke="#94a3b8" stroke-width="1.2"/>
   <polygon points="300,71 308,75 300,79" fill="#94a3b8"/>
