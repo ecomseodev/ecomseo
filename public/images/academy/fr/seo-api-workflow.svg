@@ -27,7 +27,7 @@
   <text x="72" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Redirection automatique 301</text>
   <rect x="142" y="125" width="115" height="30" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <text x="199" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Price changed</text>
-  <text x="199" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Synchroniser schéma + page</text>
+  <text x="199" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Synchroniser schéma + page</text>
   <rect x="270" y="125" width="115" height="30" rx="8" stroke="#38bdf8" stroke-width="1" stroke-dasharray="3"/>
   <text x="327" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Visibilité,</text>
   <text x="327" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Propager sur Amazon</text>

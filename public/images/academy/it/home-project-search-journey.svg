@@ -14,7 +14,7 @@
   <text x="210" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">Pianificazione</text>
   <text x="210" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">"guida alle dimensioni del mobile"</text>
   <text x="210" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">"come costruire un letto rialzato"</text>
-  <text x="210" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">"calcolatore della copertura della vernice"</text>
+  <text x="210" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">"calcolatore della copertura della vernice"</text>
   <text x="210" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Guide pratiche, strumenti</text>
   <!-- Arrow 2 -->
   <line x1="270" y1="77" x2="283" y2="77" stroke="#34d399" stroke-width="2"/>

@@ -18,7 +18,7 @@
   <!-- AggregateRating -->
   <rect x="255" y="100" width="110" height="40" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="310" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">Valutazione aggregata</text>
-  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">valutazioneValore, revisioneConteggio</text>
+  <text x="310" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">valutazioneValore, revisioneConteggio</text>
   <path d="M255 92 L300 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Supporting schemas -->
   <text x="190" y="160" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Supporto dei tipi di schema</text>
@@ -31,5 +31,5 @@
   <rect x="235" y="170" width="60" height="28" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <text x="265" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Elenco articoli</text>
   <rect x="305" y="170" width="65" height="28" rx="8" stroke="#f87171" stroke-width="1" stroke-dasharray="3"/>
-  <text x="337" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Organizzazione</text>
+  <text x="337" y="188" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f87171">Organizzazione</text>
 </svg>

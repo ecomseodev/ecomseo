@@ -12,7 +12,7 @@
   <polygon points="148,73 156,77 148,81" fill="#a78bfa"/>
   <!-- Center: Landing page hub -->
   <rect x="150" y="40" width="120" height="75" rx="10" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="210" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa" font-weight="bold">Centre d'ingrédients</text>
+  <text x="210" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Centre d'ingrédients</text>
   <text x="210" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Ce que ça fait</text>
   <text x="210" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">À qui cela profite-t-il</text>
   <text x="210" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Comment utiliser</text>
@@ -36,6 +36,6 @@
   <rect x="205" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="245" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Acide tranexamique</text>
   <rect x="295" y="152" width="100" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="345" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Extraits de champignons</text>
+  <text x="345" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Extraits de champignons</text>
   <text x="210" y="200" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Créez des pages pour les ingrédients tendances avant que les concurrents n'établissent des positions de classement</text>
 </svg>

@@ -19,5 +19,5 @@
   <!-- Bottom target -->
   <rect x="60" y="155" width="280" height="35" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="200" y="172" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#34d399">Cible : 70 à 80 % de taux d'exploration productif</text>
-  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">Comparez la base de données du produit avec les données du journal de 90 jours pour trouver les orphelins</text>
+  <text x="200" y="184" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#e2e8f0">Comparez la base de données du produit avec les données du journal de 90 jours pour trouver les orphelins</text>
 </svg>

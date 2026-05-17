@@ -15,7 +15,7 @@
   <text x="199" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">+ Einzelautorität</text>
   <text x="199" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">+ Ein Crawl-Budget</text>
   <text x="199" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">+ Flexibles Targeting</text>
-  <text x="199" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">- Schwächeres lokales Signal</text>
+  <text x="199" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b">- Schwächeres lokales Signal</text>
   <!-- Subdomain -->
   <rect x="270" y="38" width="115" height="90" rx="10" stroke="#f87171" stroke-width="1.2"/>
   <text x="327" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Subdomain</text>
@@ -23,7 +23,7 @@
   <text x="327" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">- Halbgetrennt</text>
   <text x="327" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">- Budgets aufteilen</text>
   <text x="327" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">- Kein lokales Vertrauen</text>
-  <text x="327" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">- Das Schlimmste von beidem</text>
+  <text x="327" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f87171">- Das Schlimmste von beidem</text>
   <!-- Recommendation -->
   <rect x="100" y="145" width="200" height="28" rx="9" stroke="#34d399" stroke-width="1.2"/>
   <text x="200" y="163" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#34d399">Empfohlen für die meisten Geschäfte</text>

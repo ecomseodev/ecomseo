@@ -18,8 +18,8 @@
   <rect x="280" y="38" width="105" height="55" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="332" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Automatizza </text>
   <text x="332" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Aggiornamenti meta tag</text>
-  <text x="332" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Creazione reindirizzamento</text>
-  <text x="332" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Freschezza dei contenuti</text>
+  <text x="332" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Creazione reindirizzamento</text>
+  <text x="332" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Freschezza dei contenuti</text>
   <!-- Automated actions -->
   <text x="200" y="115" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Azioni automatizzate</text>
   <rect x="15" y="125" width="115" height="30" rx="8" stroke="#34d399" stroke-width="1" stroke-dasharray="3"/>
@@ -27,7 +27,7 @@
   <text x="72" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Reindirizzamento automatico 301</text>
   <rect x="142" y="125" width="115" height="30" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <text x="199" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Prezzo modificato dal</text>
-  <text x="199" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Sincronizza schema + pagina</text>
+  <text x="199" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Sincronizza schema + pagina</text>
   <rect x="270" y="125" width="115" height="30" rx="8" stroke="#38bdf8" stroke-width="1" stroke-dasharray="3"/>
   <text x="327" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Multi-canale</text>
   <text x="327" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Propaga su Amazon</text>

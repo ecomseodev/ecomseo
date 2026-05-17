@@ -2,7 +2,7 @@
   <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Indexation en deux phases de Googlebot</text>
   <!-- Phase 1 -->
   <rect x="20" y="38" width="160" height="55" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="100" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Phase 1 : Récupération HTML</text>
+  <text x="100" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#38bdf8">Phase 1 : Récupération HTML</text>
   <text x="100" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">HTML brut exploré</text>
   <text x="100" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Instantané</text>
   <!-- Arrow with delay label -->

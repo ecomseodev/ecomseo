@@ -30,9 +30,9 @@
   <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Mobilier + Luminaires + Plantes</text>
   <rect x="150" y="152" width="120" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Les essentiels du bureau à domicile</text>
-  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Bureau + Chaise + Éclairage + Rangement</text>
+  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#e2e8f0">Bureau + Chaise + Éclairage + Rangement</text>
   <rect x="285" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#f59e0b" font-weight="bold">Rafraîchissement de la chambre confo…</text>
+  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#f59e0b" font-weight="bold">Rafraîchissement de la chambre confo…</text>
   <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Textiles + Luminaires + Décoration</text>
   <!-- Breadcrumb example -->
   <rect x="60" y="198" width="300" height="22" rx="8" fill="#34d399" opacity="0.08" stroke="#34d399" stroke-width="1"/>

@@ -7,13 +7,13 @@
   <text x="107" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Factor de impacto más alto</text>
   <rect x="225" y="40" rx="12" width="175" height="90" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="312" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">2. Autoridad</text>
-  <text x="312" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Calificación / confianza del dominio</text>
+  <text x="312" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Calificación / confianza del dominio</text>
   <text x="312" y="93" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">del sitio web de enlace</text>
   <text x="312" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">DR 50+ = señal fuerte</text>
   <rect x="20" y="150" rx="12" width="175" height="90" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
   <text x="107" y="172" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">3. Colocación</text>
   <text x="107" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Enlaces editoriales dentro del contenido</text>
-  <text x="107" y="203" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">superar los enlaces de pie de página/barra lateral</text>
+  <text x="107" y="203" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">superar los enlaces de pie de página/barra lateral</text>
   <text x="107" y="228" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">Texto del cuerpo = mayor valor</text>
   <rect x="225" y="150" rx="12" width="175" height="90" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="312" y="172" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">4. seguir</text>

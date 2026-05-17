@@ -8,7 +8,7 @@
   <text x="145" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#34d399">Rank Tracker</text>
   <text x="145" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Daily positions</text>
   <rect x="195" y="38" width="80" height="35" rx="9" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="235" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#a78bfa">Rich Resultados API</text>
+  <text x="235" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#a78bfa">Rich Resultados API</text>
   <text x="235" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Schema validity</text>
   <rect x="285" y="38" width="100" height="35" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="335" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#f59e0b">PageSpeed API</text>

@@ -13,6 +13,6 @@
   <text x="355" y="105" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">canonieke duplicaten</text>
   <path d="M300 100 L350 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Bottom: lifecycle -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" font-weight="bold" fill="#e2e8f0">Levenscyclus: Verrijk &amp;#8594; Index &amp;#8594; Monitor &amp;#8594; Met pensioen gaan (301/410)</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" font-weight="bold" fill="#e2e8f0">Levenscyclus: Verrijk &amp;#8594; Index &amp;#8594; Monitor &amp;#8594; Met pensioen gaan (301/410)</text>
   <rect x="50" y="165" width="300" height="22" rx="8" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3"/>
 </svg>

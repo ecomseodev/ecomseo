@@ -29,11 +29,11 @@
   <text x="82" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Completa l'installazione del patio</text>
   <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Mobili + Illuminazione + Piante</text>
   <rect x="150" y="152" width="120" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Elementi essenziali per l'ufficio domestico</text>
-  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">Scrivania + Sedia + Illuminazione + Portaog…</text>
+  <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#f59e0b" font-weight="bold">Elementi essenziali per l'ufficio domestico</text>
+  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#e2e8f0">Scrivania + Sedia + Illuminazione + Portaog…</text>
   <rect x="285" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
-  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#f59e0b" font-weight="bold">Rinfresco della camera da letto accogli…</text>
-  <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Tessili + Illuminazione + Arredamento</text>
+  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#f59e0b" font-weight="bold">Rinfresco della camera da letto accogli…</text>
+  <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#e2e8f0">Tessili + Illuminazione + Arredamento</text>
   <!-- Breadcrumb example -->
   <rect x="60" y="198" width="300" height="22" rx="8" fill="#34d399" opacity="0.08" stroke="#34d399" stroke-width="1"/>
   <text x="210" y="213" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Elenco breadcrumb: Home &amp;gt; All'aperto &amp;gt; Mobili da giardino &amp;gt; Set da pranzo</text>

@@ -4,7 +4,7 @@
   <rect x="15" y="35" width="120" height="85" rx="10" fill="#a78bfa" opacity="0.12" stroke="#a78bfa" stroke-width="1.2"/>
   <text x="75" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa" font-weight="bold">Inspiration</text>
   <text x="75" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">„Moderne Küchenideen“</text>
-  <text x="75" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">„Kleine Terrassengestaltung“</text>
+  <text x="75" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">„Kleine Terrassengestaltung“</text>
   <text x="75" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">„Badezimmer-Umgestaltung“</text>
   <text x="75" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Styleguides, Lookbooks</text>
   <!-- Arrow 1 -->

@@ -7,7 +7,7 @@
 
   <!-- Authority score label -->
   <rect x="430" y="48" width="80" height="28" rx="8" fill="#34d399" fill-opacity="0.1"/>
-  <text x="470" y="66" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Autorität: 100</text>
+  <text x="470" y="66" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Autorität: 100</text>
 
   <!-- Arrows to categories -->
   <line x1="290" y1="82" x2="160" y2="120" stroke="#34d399" stroke-width="1.2"/>

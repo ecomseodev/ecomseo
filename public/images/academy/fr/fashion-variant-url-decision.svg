@@ -11,10 +11,10 @@
   <line x1="60" y1="108" x2="40" y2="130" stroke="#34d399" stroke-width="1"/>
   <line x1="140" y1="108" x2="155" y2="130" stroke="#f59e0b" stroke-width="1"/>
   <rect x="5" y="130" width="75" height="40" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="42" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#34d399" font-weight="bold">La recherche a-t-elle un v…</text>
+  <text x="42" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="4" fill="#34d399" font-weight="bold">La recherche a-t-elle un v…</text>
   <text x="42" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Propre URL + photos</text>
   <rect x="115" y="130" width="75" height="40" rx="8" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
-  <text x="152" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">Pas de vol de recherche ?</text>
+  <text x="152" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#f59e0b" font-weight="bold">Pas de vol de recherche ?</text>
   <text x="152" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Sélecteur d'échantillons</text>
   <!-- Branch: Size -->
   <line x1="250" y1="58" x2="320" y2="80" stroke="#f87171" stroke-width="1.2"/>
@@ -33,7 +33,7 @@
   <rect x="150" y="185" width="120" height="50" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">/blazer (URL unique)</text>
   <text x="210" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Échantillons de couleurs sur la page</text>
-  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Pas de frais d'exploration supplémentaires</text>
+  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">Pas de frais d'exploration supplémentaires</text>
   <line x1="152" y1="170" x2="210" y2="185" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3,2"/>
   <rect x="295" y="185" width="120" height="50" rx="8" fill="#f87171" opacity="0.1" stroke="#f87171" stroke-width="1"/>
   <text x="355" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171" font-weight="bold">/blazer?taille=m</text>
