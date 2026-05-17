@@ -1,31 +1,31 @@
 <svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Funzionalità SERP che influiscono sul CTR dell'e-commerce</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Funzionalità SERP che influiscono sul CTR dell'e-commerce</text>
   <g transform="translate(30,38)">
-    <rect width="360" height="38" rx="6" fill="#f97316" fill-opacity="0.12" stroke="#f97316" stroke-width="1"/>
-    <text x="14" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#f97316">Carosello Shopping</text>
-    <text x="14" y="30" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Riduce il CTR della Pos 1 organica da ~30% a 15-20%</text>
-    <rect x="260" y="10" width="88" height="18" rx="4" fill="#ef4444" fill-opacity="0.15"/>
-    <text x="304" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ef4444">Alto impatto</text>
+    <rect width="360" height="38" rx="10" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
+    <text x="14" y="16" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">Carosello Shopping</text>
+    <text x="14" y="30" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Riduce il CTR della Pos 1 organica da ~30% a 15-20%</text>
+    <rect x="260" y="10" width="88" height="18" rx="8" fill="#f87171" fill-opacity="0.15"/>
+    <text x="304" y="23" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171">Alto impatto</text>
   </g>
   <g transform="translate(30,84)">
-    <rect width="360" height="38" rx="6" fill="#60a5fa" fill-opacity="0.12" stroke="#60a5fa" stroke-width="1"/>
-    <text x="14" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#60a5fa">Feaetured Snippet</text>
-    <text x="14" y="30" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Cattura il 35-50% dei clic sulle query di confronto</text>
-    <rect x="260" y="10" width="88" height="18" rx="4" fill="#f97316" fill-opacity="0.15"/>
-    <text x="304" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#f97316">Medio-alto</text>
+    <rect width="360" height="38" rx="10" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-width="1"/>
+    <text x="14" y="16" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">Feaetured Snippet</text>
+    <text x="14" y="30" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Cattura il 35-50% dei clic sulle query di confronto</text>
+    <rect x="260" y="10" width="88" height="18" rx="8" fill="#f59e0b" fill-opacity="0.15"/>
+    <text x="304" y="23" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">Medio-alto</text>
   </g>
   <g transform="translate(30,130)">
-    <rect width="360" height="38" rx="6" fill="#4ade80" fill-opacity="0.12" stroke="#4ade80" stroke-width="1"/>
-    <text x="14" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#4ade80">Image Pack</text>
-    <text x="14" y="30" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Visibilità extra per moda, arredamento, elettronica</text>
-    <rect x="260" y="10" width="88" height="18" rx="4" fill="#4ade80" fill-opacity="0.15"/>
-    <text x="304" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#4ade80">Opportunità</text>
+    <rect width="360" height="38" rx="10" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-width="1"/>
+    <text x="14" y="16" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#34d399">Image Pack</text>
+    <text x="14" y="30" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Visibilità extra per moda, arredamento, elettronica</text>
+    <rect x="260" y="10" width="88" height="18" rx="8" fill="#34d399" fill-opacity="0.15"/>
+    <text x="304" y="23" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Opportunità</text>
   </g>
   <g transform="translate(30,176)">
-    <rect width="360" height="38" rx="6" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1"/>
-    <text x="14" y="16" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#a78bfa">Le persone chiedono anche</text>
-    <text x="14" y="30" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Spinge i risultati organici verso il basso, ma è vincente con i contenuti delle FAQ</text>
-    <rect x="260" y="10" width="88" height="18" rx="4" fill="#60a5fa" fill-opacity="0.15"/>
-    <text x="304" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Medio</text>
+    <rect width="360" height="38" rx="10" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1"/>
+    <text x="14" y="16" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#a78bfa">Le persone chiedono anche</text>
+    <text x="14" y="30" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Spinge i risultati organici verso il basso, ma è vincente con i contenuti delle FAQ</text>
+    <rect x="260" y="10" width="88" height="18" rx="8" fill="#38bdf8" fill-opacity="0.15"/>
+    <text x="304" y="23" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">Medio</text>
   </g>
 </svg>

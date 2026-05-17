@@ -1,33 +1,33 @@
 <svg viewBox="0 0 480 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="240" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Matrice de décision d’audit de contenu</text>
+  <text x="240" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Matrice de décision d’audit de contenu</text>
   <!-- 4 buckets -->
-  <rect x="15" y="50" width="105" height="120" rx="10" fill="#4ade80" opacity="0.12" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="67" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#4ade80">GARDER</text>
-  <text x="67" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Génère du trafic</text>
-  <text x="67" y="114" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">A des backlinks</text>
-  <text x="67" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Convertit les visiteurs</text>
-  <text x="67" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#4ade80">Aucune action nécessaire</text>
-  <rect x="130" y="50" width="105" height="120" rx="10" fill="#60a5fa" opacity="0.12" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="182" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#60a5fa">AMÉLIORER</text>
-  <text x="182" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">A du potentiel</text>
-  <text x="182" y="114" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Besoin d'une mise à jour</text>
-  <text x="182" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Faible optimisation</text>
-  <text x="182" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa">Actualiser le contenu</text>
-  <rect x="245" y="50" width="105" height="120" rx="10" fill="#f97316" opacity="0.12" stroke="#f97316" stroke-width="1.5"/>
-  <text x="297" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#f97316">FUSIONNER</text>
-  <text x="297" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Sujets qui se chevauchent</text>
-  <text x="297" y="114" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Mêmes mots-clés</text>
-  <text x="297" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Cannibalisation</text>
-  <text x="297" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#f97316">301 au plus fort</text>
-  <rect x="360" y="50" width="105" height="120" rx="10" fill="#ef4444" opacity="0.12" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="412" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#ef4444">RETIRER</text>
-  <text x="412" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Zéro trafic</text>
-  <text x="412" y="114" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Pas de backlinks</text>
-  <text x="412" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Mince / obsolète</text>
-  <text x="412" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ef4444">410 ou redirection</text>
+  <rect x="15" y="50" width="105" height="120" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
+  <text x="67" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">GARDER</text>
+  <text x="67" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Génère du trafic</text>
+  <text x="67" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">A des backlinks</text>
+  <text x="67" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Convertit les visiteurs</text>
+  <text x="67" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">Aucune action nécessaire</text>
+  <rect x="130" y="50" width="105" height="120" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="182" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">AMÉLIORER</text>
+  <text x="182" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">A du potentiel</text>
+  <text x="182" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Besoin d'une mise à jour</text>
+  <text x="182" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Faible optimisation</text>
+  <text x="182" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">Actualiser le contenu</text>
+  <rect x="245" y="50" width="105" height="120" rx="10" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="297" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">FUSIONNER</text>
+  <text x="297" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Sujets qui se chevauchent</text>
+  <text x="297" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Mêmes mots-clés</text>
+  <text x="297" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Cannibalisation</text>
+  <text x="297" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b">301 au plus fort</text>
+  <rect x="360" y="50" width="105" height="120" rx="10" fill="#f87171" opacity="0.12" stroke="#f87171" stroke-width="1.2"/>
+  <text x="412" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">RETIRER</text>
+  <text x="412" y="100" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Zéro trafic</text>
+  <text x="412" y="114" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Pas de backlinks</text>
+  <text x="412" y="128" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Mince / obsolète</text>
+  <text x="412" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171">410 ou redirection</text>
   <!-- Bottom arrow -->
   <line x1="67" y1="180" x2="412" y2="180" stroke="#e2e8f0" stroke-width="1" marker-end="url(#arrAudit)"/>
   <defs><marker id="arrAudit" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#e2e8f0"/></marker></defs>
-  <text x="240" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Augmentation de la sévérité des actions</text>
-  <text x="240" y="225" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#f97316">L'élagage produit généralement un gain net de trafic en 6 à 8 semaines.</text>
+  <text x="240" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Augmentation de la sévérité des actions</text>
+  <text x="240" y="225" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b">L'élagage produit généralement un gain net de trafic en 6 à 8 semaines.</text>
 </svg>

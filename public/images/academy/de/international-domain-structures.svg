@@ -1,32 +1,32 @@
 <svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="200" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Optionen für die Struktur internationaler Domains</text>
+  <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Optionen für die Struktur internationaler Domains</text>
   <!-- ccTLD -->
-  <rect x="15" y="38" width="115" height="90" rx="6" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="72" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#60a5fa">ccTLD</text>
-  <text x="72" y="68" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">shop.de / shop.fr</text>
-  <text x="72" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">+ Starkes Geosignal</text>
-  <text x="72" y="94" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">+ Lokales Vertrauen</text>
-  <text x="72" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Gespaltene Autorität</text>
-  <text x="72" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Hohe Kosten</text>
+  <rect x="15" y="38" width="115" height="90" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="72" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">ccTLD</text>
+  <text x="72" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">shop.de / shop.fr</text>
+  <text x="72" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">+ Starkes Geosignal</text>
+  <text x="72" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">+ Lokales Vertrauen</text>
+  <text x="72" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Gespaltene Autorität</text>
+  <text x="72" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Hohe Kosten</text>
   <!-- Subdirectory -->
-  <rect x="142" y="38" width="115" height="90" rx="6" stroke="#4ade80" stroke-width="2"/>
-  <text x="199" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#4ade80">Unterverzeichnis</text>
-  <text x="199" y="68" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">shop.com/de/</text>
-  <text x="199" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">+ Einzelautorität</text>
-  <text x="199" y="94" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">+ Ein Crawl-Budget</text>
-  <text x="199" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">+ Flexibles Targeting</text>
-  <text x="199" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#f97316">- Schwächeres lokales Signal</text>
+  <rect x="142" y="38" width="115" height="90" rx="10" stroke="#34d399" stroke-width="2"/>
+  <text x="199" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">Unterverzeichnis</text>
+  <text x="199" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">shop.com/de/</text>
+  <text x="199" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">+ Einzelautorität</text>
+  <text x="199" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">+ Ein Crawl-Budget</text>
+  <text x="199" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">+ Flexibles Targeting</text>
+  <text x="199" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">- Schwächeres lokales Signal</text>
   <!-- Subdomain -->
-  <rect x="270" y="38" width="115" height="90" rx="6" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="327" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#ef4444">Subdomain</text>
-  <text x="327" y="68" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">de.shop.com</text>
-  <text x="327" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Halbgetrennt</text>
-  <text x="327" y="94" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Budgets aufteilen</text>
-  <text x="327" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Kein lokales Vertrauen</text>
-  <text x="327" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#ef4444">- Das Schlimmste von beidem</text>
+  <rect x="270" y="38" width="115" height="90" rx="10" stroke="#f87171" stroke-width="1.2"/>
+  <text x="327" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f87171">Subdomain</text>
+  <text x="327" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">de.shop.com</text>
+  <text x="327" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Halbgetrennt</text>
+  <text x="327" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Budgets aufteilen</text>
+  <text x="327" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Kein lokales Vertrauen</text>
+  <text x="327" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">- Das Schlimmste von beidem</text>
   <!-- Recommendation -->
-  <rect x="100" y="145" width="200" height="28" rx="5" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="200" y="163" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#4ade80">Empfohlen für die meisten Geschäfte</text>
-  <path d="M200 140 L200 145" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="200" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#94a3b8">Verwenden Sie das internationale Targeting der Search Console für die geografische Zuordnung von Unterverzeichnissen</text>
+  <rect x="100" y="145" width="200" height="28" rx="9" stroke="#34d399" stroke-width="1.2"/>
+  <text x="200" y="163" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#34d399">Empfohlen für die meisten Geschäfte</text>
+  <path d="M200 140 L200 145" stroke="#34d399" stroke-width="1.2"/>
+  <text x="200" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Verwenden Sie das internationale Targeting der Search Console für die geografische Zuordnung von Unterverzeichnissen</text>
 </svg>

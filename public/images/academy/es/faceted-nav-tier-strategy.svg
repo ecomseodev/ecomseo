@@ -1,56 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#a78bfa">Estrategia de navegación facetada de 3 niveles</text>
+  <text x="340" y="24" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700" fill="#a78bfa">Estrategia de navegación facetada de 3 niveles</text>
 
   <!-- Tier 1 -->
-  <rect x="30" y="48" width="190" height="260" rx="10" stroke="#4ade80" stroke-width="1.5" fill="none"/>
-  <text x="125" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#4ade80">Nivel 1: Índice</text>
-  <text x="125" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#94a3b8">Alta demanda de búsqueda</text>
+  <rect x="30" y="48" width="190" height="260" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
+  <text x="125" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#34d399">Nivel 1: Índice</text>
+  <text x="125" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Alta demanda de búsqueda</text>
 
-  <text x="50" y="116" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Filtros de marca</text>
-  <text x="50" y="136" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Tipo de producto</text>
-  <text x="50" y="156" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Materiales clave</text>
+  <text x="50" y="116" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Filtros de marca</text>
+  <text x="50" y="136" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Tipo de producto</text>
+  <text x="50" y="156" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Materiales clave</text>
 
-  <rect x="45" y="176" width="160" height="36" rx="4" stroke="#4ade80" stroke-width="1" fill="none"/>
-  <text x="125" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#4ade80">Limpiar URL</text>
-  <text x="125" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">/zapatos/nike/</text>
+  <rect x="45" y="176" width="160" height="36" rx="8" stroke="#34d399" stroke-width="1" fill="none"/>
+  <text x="125" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Limpiar URL</text>
+  <text x="125" y="205" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/zapatos/nike/</text>
 
-  <rect x="45" y="222" width="160" height="36" rx="4" stroke="#4ade80" stroke-width="1" fill="none"/>
-  <text x="125" y="238" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#4ade80">Contenido único</text>
-  <text x="125" y="251" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">H1 personalizado, meta, introducción</text>
+  <rect x="45" y="222" width="160" height="36" rx="8" stroke="#34d399" stroke-width="1" fill="none"/>
+  <text x="125" y="238" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Contenido único</text>
+  <text x="125" y="251" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">H1 personalizado, meta, introducción</text>
 
-  <rect x="45" y="268" width="160" height="28" rx="4" stroke="#4ade80" stroke-width="1" fill="none"/>
-  <text x="125" y="286" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#4ade80">Enlaces internos</text>
+  <rect x="45" y="268" width="160" height="28" rx="8" stroke="#34d399" stroke-width="1" fill="none"/>
+  <text x="125" y="286" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Enlaces internos</text>
 
   <!-- Tier 2 -->
-  <rect x="245" y="48" width="190" height="260" rx="10" stroke="#f97316" stroke-width="1.5" fill="none"/>
-  <text x="340" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#f97316">Nivel 2: cauteloso</text>
-  <text x="340" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#94a3b8">Algún potencial de búsqueda</text>
+  <rect x="245" y="48" width="190" height="260" rx="10" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
+  <text x="340" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Nivel 2: cauteloso</text>
+  <text x="340" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Algún potencial de búsqueda</text>
 
-  <text x="265" y="116" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Filtros de color</text>
-  <text x="265" y="136" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Filtros de estilo</text>
-  <text x="265" y="156" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Categorías secundarias</text>
+  <text x="265" y="116" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Filtros de color</text>
+  <text x="265" y="136" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Filtros de estilo</text>
+  <text x="265" y="156" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Categorías secundarias</text>
 
-  <rect x="260" y="176" width="160" height="36" rx="4" stroke="#f97316" stroke-width="1" fill="none"/>
-  <text x="340" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#f97316">URL de parámetros</text>
-  <text x="340" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">/zapatos?color=negro</text>
+  <rect x="260" y="176" width="160" height="36" rx="8" stroke="#f59e0b" stroke-width="1" fill="none"/>
+  <text x="340" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">URL de parámetros</text>
+  <text x="340" y="205" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">/zapatos?color=negro</text>
 
-  <rect x="260" y="222" width="160" height="36" rx="4" stroke="#f97316" stroke-width="1" fill="none"/>
-  <text x="340" y="238" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#f97316">Autorreferenciación</text>
-  <text x="340" y="251" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">etiquetas canónicas</text>
+  <rect x="260" y="222" width="160" height="36" rx="8" stroke="#f59e0b" stroke-width="1" fill="none"/>
+  <text x="340" y="238" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Autorreferenciación</text>
+  <text x="340" y="251" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">etiquetas canónicas</text>
 
   <!-- Tier 3 -->
-  <rect x="460" y="48" width="190" height="260" rx="10" stroke="#ef4444" stroke-width="1.5" fill="none"/>
-  <text x="555" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#ef4444">Nivel 3: Bloque</text>
-  <text x="555" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#94a3b8">Sin valor de búsqueda</text>
+  <rect x="460" y="48" width="190" height="260" rx="10" stroke="#f87171" stroke-width="1.2" fill="none"/>
+  <text x="555" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700" fill="#f87171">Nivel 3: Bloque</text>
+  <text x="555" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Sin valor de búsqueda</text>
 
-  <text x="480" y="116" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Combinaciones de selección múltiple</text>
-  <text x="480" y="136" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Ordenar órdenes</text>
-  <text x="480" y="156" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Rangos de precios</text>
-  <text x="480" y="176" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Filtros de calificación</text>
-  <text x="480" y="196" font-family="Arial,sans-serif" font-size="10" fill="#e2e8f0">Más de 3 combinaciones de filtros</text>
+  <text x="480" y="116" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Combinaciones de selección múltiple</text>
+  <text x="480" y="136" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Ordenar órdenes</text>
+  <text x="480" y="156" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Rangos de precios</text>
+  <text x="480" y="176" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Filtros de calificación</text>
+  <text x="480" y="196" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#e2e8f0">Más de 3 combinaciones de filtros</text>
 
-  <rect x="475" y="216" width="160" height="36" rx="4" stroke="#ef4444" stroke-width="1" fill="none"/>
-  <text x="555" y="232" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#ef4444">bloque robots.txt</text>
-  <text x="555" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">+ canónico para padres</text>
+  <rect x="475" y="216" width="160" height="36" rx="8" stroke="#f87171" stroke-width="1" fill="none"/>
+  <text x="555" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">bloque robots.txt</text>
+  <text x="555" y="245" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">+ canónico para padres</text>
 </svg>

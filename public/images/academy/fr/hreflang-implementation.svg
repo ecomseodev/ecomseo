@@ -1,30 +1,30 @@
 <svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="200" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Liens bidirectionnels Hreflang</text>
+  <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Liens bidirectionnels Hreflang</text>
   <!-- Page A (English) -->
-  <rect x="30" y="45" width="130" height="55" rx="6" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="95" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#60a5fa">Page en anglais</text>
-  <text x="95" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">hreflang="fr"</text>
-  <text x="95" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#94a3b8">shop.com/product-a</text>
+  <rect x="30" y="45" width="130" height="55" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="95" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">Page en anglais</text>
+  <text x="95" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">hreflang="fr"</text>
+  <text x="95" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">shop.com/product-a</text>
   <!-- Page B (German) -->
-  <rect x="240" y="45" width="130" height="55" rx="6" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="305" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#4ade80">Page allemande</text>
-  <text x="305" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">hreflang="de"</text>
-  <text x="305" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#94a3b8">shop.com/de/product-a</text>
+  <rect x="240" y="45" width="130" height="55" rx="10" stroke="#34d399" stroke-width="1.2"/>
+  <text x="305" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#34d399">Page allemande</text>
+  <text x="305" y="76" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">hreflang="de"</text>
+  <text x="305" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">shop.com/de/product-a</text>
   <!-- Bidirectional arrows -->
-  <path d="M165 60 L235 60" stroke="#a78bfa" stroke-width="1.5" marker-end="url(#arH1)"/>
-  <path d="M235 85 L165 85" stroke="#a78bfa" stroke-width="1.5" marker-end="url(#arH2)"/>
-  <text x="200" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#a78bfa">références de</text>
-  <text x="200" y="95" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#a78bfa">références en retour</text>
+  <path d="M165 60 L235 60" stroke="#a78bfa" stroke-width="1.2" marker-end="url(#arH1)"/>
+  <path d="M235 85 L165 85" stroke="#a78bfa" stroke-width="1.2" marker-end="url(#arH2)"/>
+  <text x="200" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">références de</text>
+  <text x="200" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">références en retour</text>
   <!-- Self-reference note -->
-  <path d="M55 105 C55 118, 55 118, 55 105" stroke="#60a5fa" stroke-width="1" fill="none"/>
-  <text x="95" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#60a5fa">+ hreflang auto-référencé</text>
+  <path d="M55 105 C55 118, 55 118, 55 105" stroke="#38bdf8" stroke-width="1" fill="none"/>
+  <text x="95" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">+ hreflang auto-référencé</text>
   <!-- x-default -->
-  <rect x="140" y="130" width="120" height="30" rx="5" stroke="#f97316" stroke-width="1.5"/>
-  <text x="200" y="149" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#f97316">x-repli par défaut</text>
-  <path d="M155 130 L95 105" stroke="#f97316" stroke-width="1" stroke-dasharray="3"/>
+  <rect x="140" y="130" width="120" height="30" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="200" y="149" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">x-repli par défaut</text>
+  <path d="M155 130 L95 105" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <!-- Common errors -->
-  <text x="200" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#ef4444">Erreur courante : balises de retour manquantes = ignorées par Google</text>
-  <text x="200" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Utilisez des plans de site XML pour les magasins proposant des milliers de produits dans toutes les langues</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Erreur courante : balises de retour manquantes = ignorées par Google</text>
+  <text x="200" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Utilisez des plans de site XML pour les magasins proposant des milliers de produits dans toutes les langues</text>
   <defs>
     <marker id="arH1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>
     <marker id="arH2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>

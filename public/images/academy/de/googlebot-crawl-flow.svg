@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="14" font-weight="700">So crawlt der Googlebot Ihren Shop</text>
+  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700">So crawlt der Googlebot Ihren Shop</text>
 
   <!-- Googlebot -->
-  <rect x="270" y="40" width="140" height="36" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1.5"/>
-  <text x="340" y="63" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="12" font-weight="600">Googlebot</text>
+  <rect x="270" y="40" width="140" height="36" rx="12" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="340" y="63" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Googlebot</text>
 
   <!-- Arrow -->
-  <line x1="340" y1="76" x2="340" y2="98" stroke="#a78bfa" stroke-width="1.5"/>
+  <line x1="340" y1="76" x2="340" y2="98" stroke="#a78bfa" stroke-width="1.2"/>
   <polygon points="335,94 340,104 345,94" fill="#a78bfa"/>
 
   <!-- Homepage -->
-  <rect x="265" y="104" width="150" height="32" rx="6" fill="#1a1a2e" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="340" y="125" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="11" font-weight="600">Homepage</text>
-  <text x="340" y="125" text-anchor="middle" fill="#4ade80" font-family="Arial,sans-serif" font-size="7" dy="11">Mehrmals pro Tag gecrawlt</text>
+  <rect x="265" y="104" width="150" height="32" rx="10" fill="#1a1a2e" stroke="#34d399" stroke-width="1.2"/>
+  <text x="340" y="125" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Homepage</text>
+  <text x="340" y="125" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" dy="11">Mehrmals pro Tag gecrawlt</text>
 
   <!-- Lines to categories -->
   <line x1="290" y1="136" x2="120" y2="170" stroke="#475569" stroke-width="1"/>
@@ -21,19 +21,19 @@
   <line x1="390" y1="136" x2="560" y2="170" stroke="#475569" stroke-width="1"/>
 
   <!-- Categories -->
-  <rect x="40" y="170" width="160" height="30" rx="5" fill="#1a1a2e" stroke="#60a5fa" stroke-width="1"/>
-  <text x="120" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="10">Schuhe (15 Unterkategorien)</text>
+  <rect x="40" y="170" width="160" height="30" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
+  <text x="120" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Schuhe (15 Unterkategorien)</text>
 
-  <rect x="260" y="170" width="160" height="30" rx="5" fill="#1a1a2e" stroke="#60a5fa" stroke-width="1"/>
-  <text x="340" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="10">Kleidung (20 Unterkategorien)</text>
+  <rect x="260" y="170" width="160" height="30" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
+  <text x="340" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Kleidung (20 Unterkategorien)</text>
 
-  <rect x="480" y="170" width="160" height="30" rx="5" fill="#1a1a2e" stroke="#60a5fa" stroke-width="1"/>
-  <text x="560" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="10">Zubehör (10 Unterkategorien)</text>
+  <rect x="480" y="170" width="160" height="30" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
+  <text x="560" y="189" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Zubehör (10 Unterkategorien)</text>
 
   <!-- Crawl freq label -->
-  <text x="120" y="210" text-anchor="middle" fill="#60a5fa" font-family="Arial,sans-serif" font-size="7">täglich gekrochen</text>
-  <text x="340" y="210" text-anchor="middle" fill="#60a5fa" font-family="Arial,sans-serif" font-size="7">täglich gekrochen</text>
-  <text x="560" y="210" text-anchor="middle" fill="#60a5fa" font-family="Arial,sans-serif" font-size="7">täglich gekrochen</text>
+  <text x="120" y="210" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">täglich gekrochen</text>
+  <text x="340" y="210" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">täglich gekrochen</text>
+  <text x="560" y="210" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">täglich gekrochen</text>
 
   <!-- Lines to products -->
   <line x1="80" y1="200" x2="55" y2="230" stroke="#334155" stroke-width="0.8"/>
@@ -49,50 +49,50 @@
   <line x1="600" y1="200" x2="625" y2="230" stroke="#334155" stroke-width="0.8"/>
 
   <!-- Products row 1 -->
-  <rect x="30" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="55" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="95" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="120" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="160" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="185" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
+  <rect x="30" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="55" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="95" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="120" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="160" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="185" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
 
-  <rect x="250" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="275" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="315" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="340" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="380" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="405" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
+  <rect x="250" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="275" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="315" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="340" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="380" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="405" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
 
-  <rect x="470" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="495" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="535" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="560" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
-  <rect x="600" y="230" width="50" height="24" rx="3" fill="#1a1a2e" stroke="#f97316" stroke-width="0.8"/>
-  <text x="625" y="246" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">Produkt</text>
+  <rect x="470" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="495" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="535" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="560" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
+  <rect x="600" y="230" width="50" height="24" rx="7" fill="#1a1a2e" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="625" y="246" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Produkt</text>
 
   <!-- Product freq label -->
-  <text x="340" y="270" text-anchor="middle" fill="#f97316" font-family="Arial,sans-serif" font-size="7">alle 1–4 Wochen gecrawlt (niedrige Priorität)</text>
+  <text x="340" y="270" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">alle 1–4 Wochen gecrawlt (niedrige Priorität)</text>
 
   <!-- Dots indicating more -->
-  <text x="120" y="262" text-anchor="middle" fill="#475569" font-family="Arial,sans-serif" font-size="10">...</text>
-  <text x="340" y="262" text-anchor="middle" fill="#475569" font-family="Arial,sans-serif" font-size="10">...</text>
-  <text x="560" y="262" text-anchor="middle" fill="#475569" font-family="Arial,sans-serif" font-size="10">...</text>
+  <text x="120" y="262" text-anchor="middle" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">...</text>
+  <text x="340" y="262" text-anchor="middle" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">...</text>
+  <text x="560" y="262" text-anchor="middle" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">...</text>
 
   <!-- Crawl budget bar -->
-  <rect x="80" y="295" width="520" height="28" rx="6" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
-  <rect x="80" y="295" width="130" height="28" rx="6" fill="#4ade80" fill-opacity="0.15"/>
-  <text x="145" y="313" text-anchor="middle" fill="#4ade80" font-family="Arial,sans-serif" font-size="9" font-weight="600">Gebraucht: 25 %</text>
-  <text x="400" y="313" text-anchor="middle" fill="#64748b" font-family="Arial,sans-serif" font-size="9">Verschwendung durch Filter, Paginierung, Sitzungs-URLs: 75 %</text>
+  <rect x="80" y="295" width="520" height="28" rx="10" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
+  <rect x="80" y="295" width="130" height="28" rx="10" fill="#34d399" fill-opacity="0.15"/>
+  <text x="145" y="313" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Gebraucht: 25 %</text>
+  <text x="400" y="313" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Verschwendung durch Filter, Paginierung, Sitzungs-URLs: 75 %</text>
 
   <!-- Legend -->
-  <rect x="140" y="340" width="10" height="10" rx="2" fill="none" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="156" y="349" fill="#94a3b8" font-family="Arial,sans-serif" font-size="9">Hohe Priorität</text>
+  <rect x="140" y="340" width="10" height="10" rx="6" fill="none" stroke="#34d399" stroke-width="1.2"/>
+  <text x="156" y="349" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Hohe Priorität</text>
 
-  <rect x="270" y="340" width="10" height="10" rx="2" fill="none" stroke="#60a5fa" stroke-width="1"/>
-  <text x="286" y="349" fill="#94a3b8" font-family="Arial,sans-serif" font-size="9">Mittlere Priorität</text>
+  <rect x="270" y="340" width="10" height="10" rx="6" fill="none" stroke="#38bdf8" stroke-width="1"/>
+  <text x="286" y="349" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Mittlere Priorität</text>
 
-  <rect x="410" y="340" width="10" height="10" rx="2" fill="none" stroke="#f97316" stroke-width="1"/>
-  <text x="426" y="349" fill="#94a3b8" font-family="Arial,sans-serif" font-size="9">Niedrige Priorität</text>
+  <rect x="410" y="340" width="10" height="10" rx="6" fill="none" stroke="#f59e0b" stroke-width="1"/>
+  <text x="426" y="349" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Niedrige Priorität</text>
 
-  <text x="340" y="372" text-anchor="middle" fill="#64748b" font-family="Arial,sans-serif" font-size="8">Typisches Crawling-Budget: 5.000–15.000 Seiten/Tag für mittelgroße Geschäfte</text>
+  <text x="340" y="372" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Typisches Crawling-Budget: 5.000–15.000 Seiten/Tag für mittelgroße Geschäfte</text>
 </svg>

@@ -1,41 +1,41 @@
 <svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Op ingrediënten gebaseerde zoekstrategie</text>
+  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Op ingrediënten gebaseerde zoekstrategie</text>
   <!-- Left: Informational -->
-  <rect x="15" y="40" width="120" height="75" rx="6" fill="#60a5fa" opacity="0.12" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="75" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#60a5fa" font-weight="bold">Informatief</text>
-  <text x="75" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"wat is niacinamide"</text>
-  <text x="75" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"retinolvoordelen"</text>
-  <text x="75" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"hyaluronzuur voor de huid"</text>
-  <text x="75" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#60a5fa">Pagina's met ingrediëntengidsen</text>
+  <rect x="15" y="40" width="120" height="75" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="75" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#38bdf8" font-weight="bold">Informatief</text>
+  <text x="75" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"wat is niacinamide"</text>
+  <text x="75" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"retinolvoordelen"</text>
+  <text x="75" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"hyaluronzuur voor de huid"</text>
+  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">Pagina's met ingrediëntengidsen</text>
   <!-- Arrow -->
-  <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.5"/>
+  <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.2"/>
   <polygon points="148,73 156,77 148,81" fill="#a78bfa"/>
   <!-- Center: Landing page hub -->
-  <rect x="150" y="40" width="120" height="75" rx="6" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.5"/>
-  <text x="210" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Ingrediëntenhub</text>
-  <text x="210" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Wat het doet</text>
-  <text x="210" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Voor wie het voordelig is</text>
-  <text x="210" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Hoe te gebruiken</text>
-  <text x="210" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#a78bfa">+ Productraster hieronder</text>
+  <rect x="150" y="40" width="120" height="75" rx="10" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="210" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#a78bfa" font-weight="bold">Ingrediëntenhub</text>
+  <text x="210" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Wat het doet</text>
+  <text x="210" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Voor wie het voordelig is</text>
+  <text x="210" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Hoe te gebruiken</text>
+  <text x="210" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">+ Productraster hieronder</text>
   <!-- Arrow -->
-  <line x1="270" y1="77" x2="285" y2="77" stroke="#4ade80" stroke-width="1.5"/>
-  <polygon points="283,73 291,77 283,81" fill="#4ade80"/>
+  <line x1="270" y1="77" x2="285" y2="77" stroke="#34d399" stroke-width="1.2"/>
+  <polygon points="283,73 291,77 283,81" fill="#34d399"/>
   <!-- Right: Commercial -->
-  <rect x="285" y="40" width="120" height="75" rx="6" fill="#4ade80" opacity="0.12" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="345" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#4ade80" font-weight="bold">Commercieel</text>
-  <text x="345" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"niacinamide-serum"</text>
-  <text x="345" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"retinol vochtinbrengende crème"</text>
-  <text x="345" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"vitamine C serum kopen"</text>
-  <text x="345" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#4ade80">Productpagina's</text>
+  <rect x="285" y="40" width="120" height="75" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
+  <text x="345" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#34d399" font-weight="bold">Commercieel</text>
+  <text x="345" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"niacinamide-serum"</text>
+  <text x="345" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"retinol vochtinbrengende crème"</text>
+  <text x="345" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"vitamine C serum kopen"</text>
+  <text x="345" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Productpagina's</text>
   <!-- Trending section below -->
-  <text x="210" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#f97316" font-weight="bold">Opkomende ingrediëntentrends om te volgen</text>
-  <rect x="25" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="65" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Bakoechiol</text>
-  <rect x="115" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="155" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Peptiden</text>
-  <rect x="205" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="245" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Tranexaminezuur</text>
-  <rect x="295" y="152" width="100" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="345" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Paddestoelenextracten</text>
-  <text x="210" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Bouw pagina's voor populaire ingrediënten voordat concurrenten een rankingpositie innemen</text>
+  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Opkomende ingrediëntentrends om te volgen</text>
+  <rect x="25" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="65" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Bakoechiol</text>
+  <rect x="115" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="155" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Peptiden</text>
+  <rect x="205" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="245" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Tranexaminezuur</text>
+  <rect x="295" y="152" width="100" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="345" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Paddestoelenextracten</text>
+  <text x="210" y="200" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Bouw pagina's voor populaire ingrediënten voordat concurrenten een rankingpositie innemen</text>
 </svg>

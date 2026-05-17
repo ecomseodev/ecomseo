@@ -1,28 +1,28 @@
 <svg viewBox="0 0 420 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="210" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Strategia del flusso di link per i post degli ospiti</text>
-  <rect x="30" y="50" rx="8" width="110" height="52" stroke="#60a5fa" stroke-width="1.5" fill="none"/>
-  <text x="85" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#60a5fa">Messaggio ospite</text>
-  <text x="85" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Sul blog dell'ospite</text>
-  <text x="85" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">(RD 50+)</text>
-  <path d="M142 76 L172 76" stroke="#4ade80" stroke-width="1.5" marker-end="url(#arr3)"/>
-  <text x="157" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#4ade80">collegamento</text>
-  <rect x="175" y="50" rx="8" width="110" height="52" stroke="#4ade80" stroke-width="1.5" fill="none"/>
-  <text x="230" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#4ade80">La tua guida</text>
-  <text x="230" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Guida all'acquisto o</text>
-  <text x="230" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">pagina di ricerca</text>
-  <path d="M287 76 L317 76" stroke="#f97316" stroke-width="1.5" marker-end="url(#arr3)"/>
-  <text x="302" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#f97316">interno</text>
-  <rect x="320" y="50" rx="8" width="80" height="52" stroke="#f97316" stroke-width="1.5" fill="none"/>
-  <text x="360" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#f97316">Prodotto</text>
-  <text x="360" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">Commerciale</text>
-  <text x="360" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">pagine</text>
-  <rect x="50" y="120" rx="6" width="320" height="28" stroke="#ef4444" stroke-width="1.5" fill="none"/>
-  <text x="210" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#ef4444">Link diretto al guest post alla pagina del prodotto = sembra forzato, spesso rifiutato</text>
-  <rect x="50" y="156" rx="6" width="320" height="28" stroke="#4ade80" stroke-width="1.5" fill="none"/>
-  <text x="210" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#4ade80">Collegamento a contenuti informativi che collegano internamente ai prodotti = naturale, accettato</text>
+  <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Strategia del flusso di link per i post degli ospiti</text>
+  <rect x="30" y="50" rx="12" width="110" height="52" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
+  <text x="85" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8">Messaggio ospite</text>
+  <text x="85" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Sul blog dell'ospite</text>
+  <text x="85" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">(RD 50+)</text>
+  <path d="M142 76 L172 76" stroke="#34d399" stroke-width="1.2" marker-end="url(#arr3)"/>
+  <text x="157" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">collegamento</text>
+  <rect x="175" y="50" rx="12" width="110" height="52" stroke="#34d399" stroke-width="1.2" fill="none"/>
+  <text x="230" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#34d399">La tua guida</text>
+  <text x="230" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Guida all'acquisto o</text>
+  <text x="230" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">pagina di ricerca</text>
+  <path d="M287 76 L317 76" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arr3)"/>
+  <text x="302" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">interno</text>
+  <rect x="320" y="50" rx="12" width="80" height="52" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
+  <text x="360" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#f59e0b">Prodotto</text>
+  <text x="360" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Commerciale</text>
+  <text x="360" y="96" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">pagine</text>
+  <rect x="50" y="120" rx="10" width="320" height="28" stroke="#f87171" stroke-width="1.2" fill="none"/>
+  <text x="210" y="139" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f87171">Link diretto al guest post alla pagina del prodotto = sembra forzato, spesso rifiutato</text>
+  <rect x="50" y="156" rx="10" width="320" height="28" stroke="#34d399" stroke-width="1.2" fill="none"/>
+  <text x="210" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#34d399">Collegamento a contenuti informativi che collegano internamente ai prodotti = naturale, accettato</text>
   <defs>
     <marker id="arr3" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
-      <path d="M0,0 L6,3 L0,6" fill="none" stroke="#4ade80" stroke-width="1"/>
+      <path d="M0,0 L6,3 L0,6" fill="none" stroke="#34d399" stroke-width="1"/>
     </marker>
   </defs>
 </svg>

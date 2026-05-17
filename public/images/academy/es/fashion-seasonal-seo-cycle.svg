@@ -1,22 +1,22 @@
 <svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Ciclo estacional de SEO de moda</text>
+  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Ciclo estacional de SEO de moda</text>
   <!-- Circular timeline -->
   <circle cx="210" cy="130" r="85" stroke="#a78bfa" stroke-width="1" opacity="0.3" fill="none"/>
   <!-- Season segments -->
-  <path d="M210,45 A85,85 0 0,1 295,130" stroke="#f97316" stroke-width="3" fill="none"/>
-  <text x="278" y="78" font-family="Arial,sans-serif" font-size="9" fill="#f97316" font-weight="bold">Primavera/Verano</text>
-  <text x="278" y="90" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">febrero-julio</text>
-  <path d="M295,130 A85,85 0 0,1 210,215" stroke="#ef4444" stroke-width="3" fill="none"/>
-  <text x="278" y="178" font-family="Arial,sans-serif" font-size="9" fill="#ef4444" font-weight="bold">Otoño/Invierno</text>
-  <text x="278" y="190" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">agosto-enero</text>
-  <path d="M210,215 A85,85 0 0,1 125,130" stroke="#60a5fa" stroke-width="3" fill="none"/>
-  <text x="88" y="190" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa" font-weight="bold" text-anchor="end">Ventas y Autorización</text>
-  <text x="88" y="202" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0" text-anchor="end">enero, julio</text>
-  <path d="M125,130 A85,85 0 0,1 210,45" stroke="#4ade80" stroke-width="3" fill="none"/>
-  <text x="88" y="78" font-family="Arial,sans-serif" font-size="9" fill="#4ade80" font-weight="bold" text-anchor="end">Exploración de tendencias</text>
-  <text x="88" y="90" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0" text-anchor="end">En curso</text>
+  <path d="M210,45 A85,85 0 0,1 295,130" stroke="#f59e0b" stroke-width="3" fill="none"/>
+  <text x="278" y="78" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b" font-weight="bold">Primavera/Verano</text>
+  <text x="278" y="90" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">febrero-julio</text>
+  <path d="M295,130 A85,85 0 0,1 210,215" stroke="#f87171" stroke-width="3" fill="none"/>
+  <text x="278" y="178" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171" font-weight="bold">Otoño/Invierno</text>
+  <text x="278" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">agosto-enero</text>
+  <path d="M210,215 A85,85 0 0,1 125,130" stroke="#38bdf8" stroke-width="3" fill="none"/>
+  <text x="88" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold" text-anchor="end">Ventas y Autorización</text>
+  <text x="88" y="202" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="end">enero, julio</text>
+  <path d="M125,130 A85,85 0 0,1 210,45" stroke="#34d399" stroke-width="3" fill="none"/>
+  <text x="88" y="78" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399" font-weight="bold" text-anchor="end">Exploración de tendencias</text>
+  <text x="88" y="90" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="end">En curso</text>
   <!-- Center label -->
-  <text x="210" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Publicar páginas</text>
-  <text x="210" y="138" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">8+ semanas antes</text>
-  <text x="210" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e2e8f0">cada temporada pico</text>
+  <text x="210" y="125" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#a78bfa" font-weight="bold">Publicar páginas</text>
+  <text x="210" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">8+ semanas antes</text>
+  <text x="210" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">cada temporada pico</text>
 </svg>

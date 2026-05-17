@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 260" fill="none">
   <!-- Title -->
-  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="14" font-weight="700">Prioriteit geven op basis van impact, niet op basis van checklistvolgorde</text>
+  <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" letter-spacing="0.3" font-weight="700">Prioriteit geven op basis van impact, niet op basis van checklistvolgorde</text>
 
   <!-- Decision tree -->
   <!-- Root question -->
-  <rect x="210" y="44" width="260" height="36" rx="8" fill="#1a1a2e" stroke="#a78bfa" stroke-width="1.5"/>
-  <text x="340" y="66" text-anchor="middle" fill="#a78bfa" font-family="Arial,sans-serif" font-size="11" font-weight="600">Wat laat uw audit zien?</text>
+  <rect x="210" y="44" width="260" height="36" rx="12" fill="#1a1a2e" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="340" y="66" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="600">Wat laat uw audit zien?</text>
 
   <!-- Branch lines -->
   <line x1="260" y1="80" x2="140" y2="110" stroke="#475569" stroke-width="1"/>
@@ -13,25 +13,25 @@
   <line x1="420" y1="80" x2="540" y2="110" stroke="#475569" stroke-width="1"/>
 
   <!-- Branch 1: Technical issues -->
-  <rect x="40" y="110" width="200" height="60" rx="6" fill="#1a1a2e" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="140" y="132" text-anchor="middle" fill="#ef4444" font-family="Arial,sans-serif" font-size="10" font-weight="600">40% pagina's geeft 404 terug?</text>
-  <text x="140" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="9">Los EERST technische problemen op</text>
-  <text x="140" y="162" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">vóór enig zoekwoordonderzoek</text>
+  <rect x="40" y="110" width="200" height="60" rx="10" fill="#1a1a2e" stroke="#f87171" stroke-width="1.2"/>
+  <text x="140" y="132" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600">40% pagina's geeft 404 terug?</text>
+  <text x="140" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Los EERST technische problemen op</text>
+  <text x="140" y="162" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">vóór enig zoekwoordonderzoek</text>
 
   <!-- Branch 2: Ranking page 2 -->
-  <rect x="250" y="110" width="180" height="60" rx="6" fill="#1a1a2e" stroke="#f97316" stroke-width="1.5"/>
-  <text x="340" y="132" text-anchor="middle" fill="#f97316" font-family="Arial,sans-serif" font-size="10" font-weight="600">Rangschikken pagina's op pagina 2?</text>
-  <text x="340" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="9">On-page optimalisatie</text>
-  <text x="340" y="162" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">beweegt de naald het snelst</text>
+  <rect x="250" y="110" width="180" height="60" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="340" y="132" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600">Rangschikken pagina's op pagina 2?</text>
+  <text x="340" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">On-page optimalisatie</text>
+  <text x="340" y="162" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">beweegt de naald het snelst</text>
 
   <!-- Branch 3: No content -->
-  <rect x="440" y="110" width="200" height="60" rx="6" fill="#1a1a2e" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="540" y="132" text-anchor="middle" fill="#60a5fa" font-family="Arial,sans-serif" font-size="10" font-weight="600">Geen ondersteunende inhoud?</text>
-  <text x="540" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="9">Bouw content + links</text>
-  <text x="540" y="162" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">voor groei van autoriteit</text>
+  <rect x="440" y="110" width="200" height="60" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="540" y="132" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600">Geen ondersteunende inhoud?</text>
+  <text x="540" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Bouw content + links</text>
+  <text x="540" y="162" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">voor groei van autoriteit</text>
 
   <!-- Bottom: common mistake -->
-  <rect x="100" y="195" width="480" height="40" rx="8" fill="#ef4444" fill-opacity="0.06" stroke="#ef4444" stroke-width="1"/>
-  <text x="340" y="214" text-anchor="middle" fill="#ef4444" font-family="Arial,sans-serif" font-size="10" font-weight="600">Veelgemaakte fout: naar inhoud springen voordat problemen met crawl/index worden opgelost</text>
-  <text x="340" y="228" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="8">We hebben gezien dat teams meer dan100 blogposts schrijven terwijl Google hun productpagina's niet indexeerde</text>
+  <rect x="100" y="195" width="480" height="40" rx="12" fill="#f87171" fill-opacity="0.06" stroke="#f87171" stroke-width="1"/>
+  <text x="340" y="214" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" letter-spacing="0.3" font-weight="600">Veelgemaakte fout: naar inhoud springen voordat problemen met crawl/index worden opgelost</text>
+  <text x="340" y="228" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">We hebben gezien dat teams meer dan100 blogposts schrijven terwijl Google hun productpagina's niet indexeerde</text>
 </svg>

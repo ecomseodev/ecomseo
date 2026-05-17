@@ -1,41 +1,41 @@
 <svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Stratégie de recherche basée sur les ingrédients</text>
+  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Stratégie de recherche basée sur les ingrédients</text>
   <!-- Left: Informational -->
-  <rect x="15" y="40" width="120" height="75" rx="6" fill="#60a5fa" opacity="0.12" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="75" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#60a5fa" font-weight="bold">Informatif</text>
-  <text x="75" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"qu'est-ce que la niacinamide"</text>
-  <text x="75" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"les avantages du rétinol"</text>
-  <text x="75" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"acide hyaluronique pour la peau"</text>
-  <text x="75" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#60a5fa">Pages du guide des ingrédients</text>
+  <rect x="15" y="40" width="120" height="75" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="75" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#38bdf8" font-weight="bold">Informatif</text>
+  <text x="75" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"qu'est-ce que la niacinamide"</text>
+  <text x="75" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"les avantages du rétinol"</text>
+  <text x="75" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"acide hyaluronique pour la peau"</text>
+  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">Pages du guide des ingrédients</text>
   <!-- Arrow -->
-  <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.5"/>
+  <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.2"/>
   <polygon points="148,73 156,77 148,81" fill="#a78bfa"/>
   <!-- Center: Landing page hub -->
-  <rect x="150" y="40" width="120" height="75" rx="6" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.5"/>
-  <text x="210" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#a78bfa" font-weight="bold">Centre d'ingrédients</text>
-  <text x="210" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Ce que ça fait</text>
-  <text x="210" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">À qui cela profite-t-il</text>
-  <text x="210" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Comment utiliser</text>
-  <text x="210" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#a78bfa">+ Grille produits ci-dessous</text>
+  <rect x="150" y="40" width="120" height="75" rx="10" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="210" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#a78bfa" font-weight="bold">Centre d'ingrédients</text>
+  <text x="210" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Ce que ça fait</text>
+  <text x="210" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">À qui cela profite-t-il</text>
+  <text x="210" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Comment utiliser</text>
+  <text x="210" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">+ Grille produits ci-dessous</text>
   <!-- Arrow -->
-  <line x1="270" y1="77" x2="285" y2="77" stroke="#4ade80" stroke-width="1.5"/>
-  <polygon points="283,73 291,77 283,81" fill="#4ade80"/>
+  <line x1="270" y1="77" x2="285" y2="77" stroke="#34d399" stroke-width="1.2"/>
+  <polygon points="283,73 291,77 283,81" fill="#34d399"/>
   <!-- Right: Commercial -->
-  <rect x="285" y="40" width="120" height="75" rx="6" fill="#4ade80" opacity="0.12" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="345" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#4ade80" font-weight="bold">Commercial</text>
-  <text x="345" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"sérum niacinamide"</text>
-  <text x="345" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"hydratant rétinol"</text>
-  <text x="345" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">"acheter sérum vitamine C"</text>
-  <text x="345" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#4ade80">Pages produits</text>
+  <rect x="285" y="40" width="120" height="75" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
+  <text x="345" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#34d399" font-weight="bold">Commercial</text>
+  <text x="345" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"sérum niacinamide"</text>
+  <text x="345" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"hydratant rétinol"</text>
+  <text x="345" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"acheter sérum vitamine C"</text>
+  <text x="345" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Pages produits</text>
   <!-- Trending section below -->
-  <text x="210" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#f97316" font-weight="bold">Tendances émergentes en matière d’ingrédients à suivre</text>
-  <rect x="25" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="65" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Bakouchiol</text>
-  <rect x="115" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="155" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Peptides</text>
-  <rect x="205" y="152" width="80" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="245" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Acide tranexamique</text>
-  <rect x="295" y="152" width="100" height="28" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="345" y="170" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Extraits de champignons</text>
-  <text x="210" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Créez des pages pour les ingrédients tendances avant que les concurrents n'établissent des positions de classement</text>
+  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Tendances émergentes en matière d’ingrédients à suivre</text>
+  <rect x="25" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="65" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Bakouchiol</text>
+  <rect x="115" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="155" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Peptides</text>
+  <rect x="205" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="245" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Acide tranexamique</text>
+  <rect x="295" y="152" width="100" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="345" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Extraits de champignons</text>
+  <text x="210" y="200" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Créez des pages pour les ingrédients tendances avant que les concurrents n'établissent des positions de classement</text>
 </svg>

@@ -1,40 +1,40 @@
 <svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <text x="210" y="18" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Architecture de catégories multi-angles</text>
+  <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#a78bfa">Architecture de catégories multi-angles</text>
   <!-- Three navigation angles -->
-  <rect x="15" y="35" width="120" height="70" rx="6" fill="#a78bfa" opacity="0.12" stroke="#a78bfa" stroke-width="1.5"/>
-  <text x="75" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa" font-weight="bold">Par chambre</text>
-  <text x="75" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Salon</text>
-  <text x="75" y="77" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Cuisine</text>
-  <text x="75" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">De plein air</text>
-  <text x="75" y="99" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Salle de bain</text>
-  <rect x="150" y="35" width="120" height="70" rx="6" fill="#60a5fa" opacity="0.12" stroke="#60a5fa" stroke-width="1.5"/>
-  <text x="210" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#60a5fa" font-weight="bold">Par projet</text>
-  <text x="210" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Rénovation</text>
-  <text x="210" y="77" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Décoration</text>
-  <text x="210" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Organisation</text>
-  <text x="210" y="99" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Jardinage</text>
-  <rect x="285" y="35" width="120" height="70" rx="6" fill="#4ade80" opacity="0.12" stroke="#4ade80" stroke-width="1.5"/>
-  <text x="345" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#4ade80" font-weight="bold">Par catégorie</text>
-  <text x="345" y="66" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Meubles</text>
-  <text x="345" y="77" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Éclairage</text>
-  <text x="345" y="88" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Textiles</text>
-  <text x="345" y="99" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Outils</text>
+  <rect x="15" y="35" width="120" height="70" rx="10" fill="#a78bfa" opacity="0.12" stroke="#a78bfa" stroke-width="1.2"/>
+  <text x="75" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa" font-weight="bold">Par chambre</text>
+  <text x="75" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Salon</text>
+  <text x="75" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Cuisine</text>
+  <text x="75" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">De plein air</text>
+  <text x="75" y="99" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Salle de bain</text>
+  <rect x="150" y="35" width="120" height="70" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="210" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">Par projet</text>
+  <text x="210" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Rénovation</text>
+  <text x="210" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Décoration</text>
+  <text x="210" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Organisation</text>
+  <text x="210" y="99" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Jardinage</text>
+  <rect x="285" y="35" width="120" height="70" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
+  <text x="345" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399" font-weight="bold">Par catégorie</text>
+  <text x="345" y="66" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Meubles</text>
+  <text x="345" y="77" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Éclairage</text>
+  <text x="345" y="88" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Textiles</text>
+  <text x="345" y="99" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Outils</text>
   <!-- Cross-links -->
   <line x1="135" y1="70" x2="150" y2="70" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,2"/>
   <line x1="270" y1="70" x2="285" y2="70" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3,2"/>
-  <text x="210" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#a78bfa">Réticulé entre tous les angles de navigation</text>
+  <text x="210" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#a78bfa">Réticulé entre tous les angles de navigation</text>
   <!-- Mission-based pages -->
-  <text x="210" y="142" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#f97316" font-weight="bold">Pages de mission inter-catégories</text>
-  <rect x="30" y="152" width="105" height="35" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="82" y="166" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#f97316" font-weight="bold">Configuration complète du patio</text>
-  <text x="82" y="179" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Mobilier + Luminaires + Plantes</text>
-  <rect x="150" y="152" width="120" height="35" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="210" y="166" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#f97316" font-weight="bold">Les essentiels du bureau à domicile</text>
-  <text x="210" y="179" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Bureau + Chaise + Éclairage + Rangement</text>
-  <rect x="285" y="152" width="105" height="35" rx="4" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
-  <text x="337" y="166" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#f97316" font-weight="bold">Rafraîchissement de la chambre confortable</text>
-  <text x="337" y="179" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#e2e8f0">Textiles + Luminaires + Décoration</text>
+  <text x="210" y="142" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#f59e0b" font-weight="bold">Pages de mission inter-catégories</text>
+  <rect x="30" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="82" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Configuration complète du patio</text>
+  <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Mobilier + Luminaires + Plantes</text>
+  <rect x="150" y="152" width="120" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Les essentiels du bureau à domicile</text>
+  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Bureau + Chaise + Éclairage + Rangement</text>
+  <rect x="285" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
+  <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Rafraîchissement de la chambre confortable</text>
+  <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Textiles + Luminaires + Décoration</text>
   <!-- Breadcrumb example -->
-  <rect x="60" y="198" width="300" height="22" rx="4" fill="#4ade80" opacity="0.08" stroke="#4ade80" stroke-width="1"/>
-  <text x="210" y="213" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#e2e8f0">Fil d'Ariane : Accueil &gt; Extérieur &gt; Meubles de patio &gt; Ensembles de salle à manger</text>
+  <rect x="60" y="198" width="300" height="22" rx="8" fill="#34d399" opacity="0.08" stroke="#34d399" stroke-width="1"/>
+  <text x="210" y="213" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Fil d'Ariane : Accueil &gt; Extérieur &gt; Meubles de patio &gt; Ensembles de salle à manger</text>
 </svg>
