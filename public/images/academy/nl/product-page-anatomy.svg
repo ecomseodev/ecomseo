@@ -15,7 +15,7 @@
   <!-- Image + details layout -->
   <rect x="180" y="96" width="140" height="100" rx="8" fill="none" stroke="#475569" stroke-width="1"/>
   <text x="250" y="150" text-anchor="middle" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Productafbeelding</text>
-  <text x="250" y="164" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Beschrijvende alternatieve tekst</text>
+  <text x="250" y="164" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Beschrijvende alternatieve tekst</text>
   <text x="250" y="176" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">WebP-formaat</text>
 
   <!-- Price + CTA -->
@@ -29,12 +29,12 @@
   <rect x="330" y="150" width="170" height="46" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
   <text x="340" y="166" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Unieke beschrijving</text>
   <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">De voordelen staan ​​voorop, niet de features eerst</text>
-  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">100-600 woorden op basis van prijs</text>
+  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">100-600 woorden op basis van prijs</text>
 
   <!-- Specifications -->
   <rect x="180" y="204" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#38bdf8" stroke-width="1"/>
   <text x="190" y="223" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Specificaties</text>
-  <text x="380" y="223" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Materiaal, afmetingen, gewicht</text>
+  <text x="380" y="223" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Materiaal, afmetingen, gewicht</text>
 
   <!-- Reviews -->
   <rect x="180" y="240" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#34d399" stroke-width="1"/>
@@ -44,7 +44,7 @@
   <!-- Related Products -->
   <rect x="180" y="276" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
   <text x="190" y="295" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Gerelateerde producten</text>
-  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Interne koppelingsmogelijkheid</text>
+  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Interne koppelingsmogelijkheid</text>
 
   <!-- Schema badge -->
   <rect x="180" y="314" width="320" height="28" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
@@ -54,7 +54,7 @@
   <text x="540" y="80" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Zoekwoordrijke H1</text>
   <text x="540" y="114" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Vertrouwen + conversie</text>
   <text x="540" y="172" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Geen kopie van de fabrikant</text>
-  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">+15-35% CTR door rijke resultaten</text>
+  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">+15-35% CTR door rijke resultaten</text>
 
   <text x="340" y="374" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Pagina’s die hoog scoren op alle elementen genereren 30-50% meer organisch verkeer per product</text>
 </svg>

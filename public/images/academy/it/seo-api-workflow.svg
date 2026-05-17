@@ -24,7 +24,7 @@
   <text x="200" y="115" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Azioni automatizzate</text>
   <rect x="15" y="125" width="115" height="30" rx="8" stroke="#34d399" stroke-width="1" stroke-dasharray="3"/>
   <text x="72" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">(prodotto&amp;#10;&lt;x id="1"/&gt;fuori produzione)</text>
-  <text x="72" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Reindirizzamento automatico 301</text>
+  <text x="72" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Reindirizzamento automatico 301</text>
   <rect x="142" y="125" width="115" height="30" rx="8" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <text x="199" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Prezzo modificato dal</text>
   <text x="199" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Sincronizza schema + pagina</text>
@@ -32,7 +32,7 @@
   <text x="327" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Multi-canale</text>
   <text x="327" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Propaga su Amazon</text>
   <!-- Note -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Inizia in piccolo: un flusso di lavoro che risolve il tuo più grande punto dolente</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b">Inizia in piccolo: un flusso di lavoro che risolve il tuo più grande punto dolente</text>
   <text x="200" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Quindi espandi fino allo stack di automazione completo</text>
   <defs>
     <marker id="arW1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#38bdf8"/></marker>

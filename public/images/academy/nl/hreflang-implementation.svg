@@ -17,13 +17,13 @@
   <text x="200" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">referenties nl terug</text>
   <!-- Self-reference note -->
   <path d="M55 105 C55 118, 55 118, 55 105" stroke="#38bdf8" stroke-width="1" fill="none"/>
-  <text x="95" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">+ naar zichzelf verwijzende hreflang</text>
+  <text x="95" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#38bdf8">+ naar zichzelf verwijzende hreflang</text>
   <!-- x-default -->
   <rect x="140" y="130" width="120" height="30" rx="9" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="200" y="149" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">x-standaard terugval</text>
   <path d="M155 130 L95 105" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <!-- Common errors -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#f87171">Veel voorkomende fout: ontbrekende retourtags = genegeerd door Google</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#f87171">Veel voorkomende fout: ontbrekende retourtags = genegeerd door Google</text>
   <text x="200" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Gebruik XML-sitemaps voor winkels met duizenden producten in verschillende talen</text>
   <defs>
     <marker id="arH1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>

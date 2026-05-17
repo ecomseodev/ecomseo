@@ -8,7 +8,7 @@
   <text x="125" y="74" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Bewustzijn</text>
   <text x="125" y="92" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"wat voor aantal threads</text>
   <text x="125" y="104" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">betekent voor lakens"</text>
-  <text x="125" y="124" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Blogberichten &amp;amp; gidsen</text>
+  <text x="125" y="124" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Blogberichten &amp;amp; gidsen</text>
 
   <!-- Arrow 1 -->
   <line x1="222" y1="94" x2="242" y2="94" stroke="#475569" stroke-width="1.2"/>

@@ -21,10 +21,10 @@
   <line x1="345" y1="148" x2="385" y2="148" stroke="#f87171" stroke-width="1.2" marker-end="url(#arrRdR)"/>
   <rect x="385" y="130" width="85" height="35" rx="10" fill="#f59e0b" opacity="0.15" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="427" y="152" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f59e0b">Cible</text>
-  <text x="240" y="185" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f87171">Each hop loses equity + adds latency</text>
+  <text x="240" y="185" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Each hop loses equity + adds latency</text>
   <!-- Decision guide -->
   <rect x="40" y="200" width="400" height="30" rx="10" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="4"/>
-  <text x="240" y="220" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Server-level redirects (.htaccess / nginx) | Test every redirect post-deploy</text>
+  <text x="240" y="220" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Server-level redirects (.htaccess / nginx) | Test every redirect post-deploy</text>
   <defs>
     <marker id="arrRd" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8Z" fill="#34d399"/></marker>
     <marker id="arrRdR" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8Z" fill="#f87171"/></marker>

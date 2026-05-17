@@ -30,7 +30,7 @@
   <text x="82" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Furniture + Lighting + Plants</text>
   <rect x="150" y="152" width="120" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">Home Office Essentials</text>
-  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Desk + Chair + Lighting + Storage</text>
+  <text x="210" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Desk + Chair + Lighting + Storage</text>
   <rect x="285" y="152" width="105" height="35" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="337" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">Cozy Bedroom Refresh</text>
   <text x="337" y="179" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Textiles + Lighting + Decor</text>

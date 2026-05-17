@@ -24,11 +24,11 @@
   <!-- Content block below -->
   <rect x="200" y="226" width="280" height="44" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="340" y="245" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Detailed Content Block (300-500 words)</text>
-  <text x="340" y="260" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Buying guide, sizing, FAQ, comparisons</text>
+  <text x="340" y="260" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Buying guide, sizing, FAQ, comparisons</text>
 
   <!-- FAQ section -->
   <rect x="200" y="278" width="280" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
-  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">FAQ Section (H2 + structured data)</text>
+  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">FAQ Section (H2 + structured data)</text>
 
   <!-- Arrows with labels on left -->
   <text x="170" y="99" text-anchor="end" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Above fold</text>

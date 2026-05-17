@@ -2,22 +2,22 @@
   <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Tácticas de enlace con la competencia de ingeniería inversa</text>
   <rect x="20" y="42" rx="12" width="175" height="70" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="107" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Publicaciones de invitados</text>
-  <text x="107" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Enlaces de biografía del autor de blogs.</text>
-  <text x="107" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Señal: biografía que enlaza con el sitio</text>
-  <text x="107" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Replicable: lanzar los mismos blogs</text>
+  <text x="107" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Enlaces de biografía del autor de blogs.</text>
+  <text x="107" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Señal: biografía que enlaza con el sitio</text>
+  <text x="107" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Replicable: lanzar los mismos blogs</text>
   <rect x="225" y="42" rx="12" width="175" height="70" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
   <text x="312" y="62" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Relaciones públicas digitales</text>
-  <text x="312" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Enlaces editoriales de noticias/revistas</text>
-  <text x="312" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Señal: texto de anclaje de marca</text>
-  <text x="312" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Adaptar: ángulos de historia similares</text>
+  <text x="312" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Enlaces editoriales de noticias/revistas</text>
+  <text x="312" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Señal: texto de anclaje de marca</text>
+  <text x="312" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Adaptar: ángulos de historia similares</text>
   <rect x="20" y="130" rx="12" width="175" height="70" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="107" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Páginas de recursos</text>
   <text x="107" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">URL con /recursos/, /enlaces/</text>
-  <text x="107" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Signal: listas de enlaces seleccionados</text>
-  <text x="107" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Enviar: su contenido equivalente</text>
+  <text x="107" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Signal: listas de enlaces seleccionados</text>
+  <text x="107" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Enviar: su contenido equivalente</text>
   <rect x="225" y="130" rx="12" width="175" height="70" stroke="#f87171" stroke-width="1.2" fill="none"/>
   <text x="312" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f87171">Construcción de enlaces rotos</text>
-  <text x="312" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Páginas con enlaces salientes inactivos</text>
-  <text x="312" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Señal: 404 en las mismas páginas.</text>
-  <text x="312" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#34d399">Uso: misma táctica de enlace roto</text>
+  <text x="312" y="166" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Páginas con enlaces salientes inactivos</text>
+  <text x="312" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Señal: 404 en las mismas páginas.</text>
+  <text x="312" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Uso: misma táctica de enlace roto</text>
 </svg>

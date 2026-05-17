@@ -28,7 +28,7 @@
   <text x="345" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">„Vitamin-C-Serum kaufen“</text>
   <text x="345" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Produktseiten</text>
   <!-- Trending section below -->
-  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Aufkommende Trends bei Inhaltsstoffen, die es zu verfolgen gilt</text>
+  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b" font-weight="bold">Aufkommende Trends bei Inhaltsstoffen, die es zu verfolgen gilt</text>
   <rect x="25" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="65" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Bakuchiol</text>
   <rect x="115" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>

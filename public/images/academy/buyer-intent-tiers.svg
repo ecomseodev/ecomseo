@@ -3,7 +3,7 @@
   <!-- Tier 1 -->
   <rect x="20" y="50" width="640" height="56" rx="12" stroke="#34d399" stroke-width="1.2" fill="#34d399" fill-opacity="0.08"/>
   <text x="40" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Tier 1 - Buy Now</text>
-  <text x="40" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Product name + buy/price/order/SKU</text>
+  <text x="40" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Product name + buy/price/order/SKU</text>
   <rect x="460" y="62" width="80" height="30" rx="10" fill="#34d399" fill-opacity="0.15"/>
   <text x="500" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">5-10%</text>
   <text x="570" y="82" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Product Pages</text>
@@ -32,7 +32,7 @@
   <text x="12" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8" transform="rotate(-90, 12, 198)">Higher Purchase Intent</text>
   <line x1="12" y1="100" x2="12" y2="55" stroke="#34d399" stroke-width="1.2" marker-end="url(#arrowI)"/>
   <!-- Label -->
-  <text x="340" y="330" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Narrower tiers = higher conversion, lower volume. Prioritize Tier 1-2 for revenue.</text>
+  <text x="340" y="330" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Narrower tiers = higher conversion, lower volume. Prioritize Tier 1-2 for revenue.</text>
   <defs>
     <marker id="arrowI" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6" fill="none" stroke="#34d399" stroke-width="1"/>

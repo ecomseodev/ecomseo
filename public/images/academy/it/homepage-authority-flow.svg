@@ -39,7 +39,7 @@
   <text x="540" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Nuovi Arrivi</text>
 
   <!-- Authority percentage labels -->
-  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">riceve circa il 20% di capitale</text>
+  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">riceve circa il 20% di capitale</text>
   <text x="280" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~20% di patrimonio netto</text>
   <text x="410" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% di patrimonio netto</text>
   <text x="540" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% di patrimonio netto</text>
@@ -48,9 +48,9 @@
   <rect x="510" y="56" width="150" height="80" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="585" y="72" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">La home page deve avere</text>
   <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Descrittivo H1</text>
-  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Introduzione di 100-200 parole</text>
-  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Blocchi di categorie con collegamenti</text>
-  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sezione del marchio da 200-400 parole</text>
+  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Introduzione di 100-200 parole</text>
+  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Blocchi di categorie con collegamenti</text>
+  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Sezione del marchio da 200-400 parole</text>
 
   <!-- Warning box -->
   <rect x="120" y="250" width="440" height="36" rx="9" fill="#1a1a2e" stroke="#f87171" stroke-width="1"/>

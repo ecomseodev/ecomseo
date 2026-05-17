@@ -2,7 +2,7 @@
   <text x="210" y="18" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Albero decisionale dell'URL delle varianti</text>
   <!-- Start node -->
   <rect x="140" y="30" width="140" height="28" rx="14" fill="#a78bfa" opacity="0.2" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="210" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Tipo di variante del prodotto?</text>
+  <text x="210" y="48" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Tipo di variante del prodotto?</text>
   <!-- Branch: Color -->
   <line x1="170" y1="58" x2="100" y2="80" stroke="#38bdf8" stroke-width="1.2"/>
   <rect x="30" y="80" width="140" height="28" rx="8" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
@@ -32,8 +32,8 @@
   <line x1="42" y1="170" x2="65" y2="185" stroke="#34d399" stroke-width="1" stroke-dasharray="3,2"/>
   <rect x="150" y="185" width="120" height="50" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">/blazer (URL singolo)</text>
-  <text x="210" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Campioni di colore sulla pagina</text>
-  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Nessun costo di scansione aggiuntivo</text>
+  <text x="210" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Campioni di colore sulla pagina</text>
+  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Nessun costo di scansione aggiuntivo</text>
   <line x1="152" y1="170" x2="210" y2="185" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3,2"/>
   <rect x="295" y="185" width="120" height="50" rx="8" fill="#f87171" opacity="0.1" stroke="#f87171" stroke-width="1"/>
   <text x="355" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171" font-weight="bold">/giacca?taglia=m</text>

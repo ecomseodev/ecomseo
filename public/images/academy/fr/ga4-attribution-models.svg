@@ -1,6 +1,6 @@
 <svg viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg" fill="none">
   <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Attribution GA4 : crédit SEO sur tous les modèles</text>
-  <text x="210" y="42" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Recherche organique &gt; Retarget d'e-mails &gt; Visite directe &gt; Achat (120 $)</text>
+  <text x="210" y="42" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Recherche organique &gt; Retarget d'e-mails &gt; Visite directe &gt; Achat (120 $)</text>
   <g transform="translate(20,56)">
     <rect width="380" height="30" rx="10" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-width="1"/>
     <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Dernier clic</text>
@@ -13,7 +13,7 @@
     <text x="12" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Premier clic</text>
     <rect x="268" y="6" width="42" height="18" rx="7" fill="#34d399" fill-opacity="0.2"/>
     <text x="289" y="19" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">120 $</text>
-    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Le référencement obtient 120 $</text>
+    <text x="320" y="20" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Le référencement obtient 120 $</text>
   </g>
   <g transform="translate(20,132)">
     <rect width="380" height="30" rx="10" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1"/>

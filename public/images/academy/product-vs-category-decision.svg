@@ -12,21 +12,21 @@
   <line x1="400" y1="86" x2="530" y2="120" stroke="#38bdf8" stroke-width="1.2"/>
   <rect x="410" y="110" width="240" height="48" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="#38bdf8" fill-opacity="0.08"/>
   <text x="530" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Category / Listing Pages</text>
-  <text x="530" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Collections, comparisons, grids</text>
+  <text x="530" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Collections, comparisons, grids</text>
   <!-- Product examples -->
   <rect x="30" y="174" width="240" height="80" rx="10" stroke="#34d399" stroke-width="1" fill="#34d399" fill-opacity="0.04"/>
   <text x="150" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">Target with Product Pages:</text>
-  <text x="150" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Exact product names &amp; model numbers</text>
-  <text x="150" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">SKU-level terms &amp; specific specs</text>
-  <text x="150" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"Nike Air Zoom Pegasus 40 women's"</text>
+  <text x="150" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Exact product names &amp; model numbers</text>
+  <text x="150" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">SKU-level terms &amp; specific specs</text>
+  <text x="150" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"Nike Air Zoom Pegasus 40 women's"</text>
   <!-- Category examples -->
   <rect x="410" y="174" width="240" height="80" rx="10" stroke="#38bdf8" stroke-width="1" fill="#38bdf8" fill-opacity="0.04"/>
   <text x="530" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Target with Category Pages:</text>
-  <text x="530" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Product type + broad modifiers</text>
+  <text x="530" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Product type + broad modifiers</text>
   <text x="530" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Brand + category combinations</text>
-  <text x="530" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"men's waterproof hiking boots"</text>
+  <text x="530" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"men's waterproof hiking boots"</text>
   <!-- Cannibalization warning -->
   <rect x="140" y="274" width="400" height="50" rx="12" stroke="#f87171" stroke-width="1.2" fill="#f87171" fill-opacity="0.06"/>
   <text x="340" y="296" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">Cannibalization Risk</text>
-  <text x="340" y="314" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Assign one primary keyword per page. Never target the same term on both page types.</text>
+  <text x="340" y="314" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Assign one primary keyword per page. Never target the same term on both page types.</text>
 </svg>

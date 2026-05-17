@@ -28,23 +28,23 @@
 
   <!-- FAQ section -->
   <rect x="200" y="278" width="280" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
-  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sección de preguntas frecuentes (H2 + datos estructurados)</text>
+  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Sección de preguntas frecuentes (H2 + datos estructurados)</text>
 
   <!-- Arrows with labels on left -->
   <text x="170" y="99" text-anchor="end" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Doblez superior</text>
   <line x1="174" y1="95" x2="198" y2="95" stroke="#34d399" stroke-width="0.8"/>
 
-  <text x="170" y="170" text-anchor="end" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Experiencia de usuario primaria</text>
+  <text x="170" y="170" text-anchor="end" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Experiencia de usuario primaria</text>
   <line x1="174" y1="166" x2="198" y2="166" stroke="#38bdf8" stroke-width="0.8"/>
 
   <text x="170" y="250" text-anchor="end" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Valor SEO</text>
   <line x1="174" y1="246" x2="198" y2="246" stroke="#f59e0b" stroke-width="0.8"/>
 
   <!-- Right side annotations -->
-  <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Coincide con la consulta de búsqueda</text>
+  <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Coincide con la consulta de búsqueda</text>
   <text x="510" y="99" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Confirma relevancia</text>
   <text x="510" y="170" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">24-48 productos por página</text>
-  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Apunta a palabras clave secundarias</text>
+  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Apunta a palabras clave secundarias</text>
 
   <text x="340" y="334" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">El contenido arriba + debajo de la cuadrícula brinda contexto a Google sin perjudicar la experiencia de compra.</text>
 </svg>

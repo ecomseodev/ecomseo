@@ -29,7 +29,7 @@
   <rect x="330" y="150" width="170" height="46" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
   <text x="340" y="166" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Descrizione unica</text>
   <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Innanzitutto i vantaggi, non le funzionalità</text>
-  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">100-600 parole in base al prezzo</text>
+  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">100-600 parole in base al prezzo</text>
 
   <!-- Specifications -->
   <rect x="180" y="204" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#38bdf8" stroke-width="1"/>
@@ -44,7 +44,7 @@
   <!-- Related Products -->
   <rect x="180" y="276" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
   <text x="190" y="295" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Prodotti correlati</text>
-  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Opportunità di collegamento interno</text>
+  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Opportunità di collegamento interno</text>
 
   <!-- Schema badge -->
   <rect x="180" y="314" width="320" height="28" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
@@ -54,7 +54,7 @@
   <text x="540" y="80" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">H1 ricco di parole chiave</text>
   <text x="540" y="114" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Fiducia + conversione</text>
   <text x="540" y="172" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Non copia del produttore</text>
-  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">+15-35% CTR dai risultati multimediali</text>
+  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">+15-35% CTR dai risultati multimediali</text>
 
   <text x="340" y="374" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Le pagine con punteggi elevati su tutti gli elementi vedono il 30-50% in più di traffico organico per prodotto</text>
 </svg>

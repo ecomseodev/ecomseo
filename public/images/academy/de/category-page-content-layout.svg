@@ -27,7 +27,7 @@
 
   <!-- FAQ section -->
   <rect x="200" y="278" width="280" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
-  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">FAQ-Bereich (H2 + strukturierte Daten)</text>
+  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">FAQ-Bereich (H2 + strukturierte Daten)</text>
 
   <!-- Arrows with labels on left -->
   <text x="170" y="99" text-anchor="end" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Oberhalb der Falte</text>
@@ -43,7 +43,7 @@
   <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Entspricht der Suchanfrage</text>
   <text x="510" y="99" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Bestätigt Relevanz</text>
   <text x="510" y="170" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">24-48 Produkte pro Seite</text>
-  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Zielt auf sekundäre Schlüsselwörter ab</text>
+  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Zielt auf sekundäre Schlüsselwörter ab</text>
 
   <text x="340" y="334" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Inhalte oberhalb und unterhalb des Rasters bieten Google-Kontext, ohne das Einkaufserlebnis zu beeinträchtigen</text>
 </svg>

@@ -25,24 +25,24 @@
   <!-- Rastreadas not indexed -->
   <rect x="60" y="110" width="270" height="70" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
   <text x="195" y="130" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Rastreado: actualmente no indexado</text>
-  <text x="195" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Google visitó pero rechazó la página.</text>
+  <text x="195" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Google visitó pero rechazó la página.</text>
   <text x="195" y="166" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Solución: mejore la calidad del contenido, agregue texto único</text>
 
   <!-- Descubiertas not indexed -->
   <rect x="350" y="110" width="270" height="70" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="485" y="130" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Descubierto: actualmente no indexado</text>
-  <text x="485" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Google conoce la URL pero no la ha rastreado</text>
+  <text x="485" y="148" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Google conoce la URL pero no la ha rastreado</text>
   <text x="485" y="166" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Solución: fortalecer los enlaces internos, mejorar el mapa del sitio</text>
 
   <!-- Acción items -->
   <rect x="60" y="200" width="560" height="65" rx="12" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="340" y="220" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Lista de verificación de seguimiento mensual</text>
-  <text x="150" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Seguimiento del recuento indexado</text>
-  <text x="310" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Motivos de exclusión de exportaciones</text>
+  <text x="150" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Seguimiento del recuento indexado</text>
+  <text x="310" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Motivos de exclusión de exportaciones</text>
   <text x="490" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Agrupar por tipo de página</text>
-  <text x="150" y="255" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Esté atento a caídas repentinas</text>
+  <text x="150" y="255" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Esté atento a caídas repentinas</text>
   <text x="310" y="255" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Categorizar por patrones</text>
-  <text x="490" y="255" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Apunte a correcciones sistemáticas</text>
+  <text x="490" y="255" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Apunte a correcciones sistemáticas</text>
 
   <text x="340" y="285" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Objetivo saludable: 85-95% de las URL de productos enviados indexadas</text>
 </svg>

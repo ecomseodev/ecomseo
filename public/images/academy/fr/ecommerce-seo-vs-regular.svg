@@ -21,28 +21,28 @@
   <text x="200" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Contenu long unique par page</text>
 
   <rect x="360" y="112" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Descriptions partagées des fabricants</text>
+  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Descriptions partagées des fabricants</text>
 
   <!-- Row 3: Updates -->
   <rect x="60" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Persistant, change rarement</text>
 
   <rect x="360" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">L'inventaire tourne hebdomadairement/mensuellement</text>
+  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">L'inventaire tourne hebdomadairement/mensuellement</text>
 
   <!-- Row 4: Technical -->
   <rect x="60" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Structure d'URL simple</text>
 
   <rect x="360" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Filtres, variantes, facettes = gonflement des URL</text>
+  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Filtres, variantes, facettes = gonflement des URL</text>
 
   <!-- Row 5: Intent -->
   <rect x="60" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Intention principalement informative</text>
+  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Intention principalement informative</text>
 
   <rect x="360" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Mixte : transactionnel + commercial + info</text>
+  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Mixte : transactionnel + commercial + info</text>
 
   <!-- Bottom note -->
   <text x="340" y="300" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Le référencement du commerce électronique nécessite différentes stratégies en termes d'échelle, de duplication et de complexité technique</text>

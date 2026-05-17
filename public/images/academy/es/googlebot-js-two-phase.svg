@@ -13,9 +13,9 @@
   <rect x="220" y="38" width="160" height="55" rx="10" stroke="#a78bfa" stroke-width="1.2"/>
   <text x="300" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Fase 2: Renderizado JS</text>
   <text x="300" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Cromo sin cabeza</text>
-  <text x="300" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f87171">tiempo de espera de 5 segundos</text>
+  <text x="300" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">tiempo de espera de 5 segundos</text>
   <!-- Limitations -->
-  <text x="200" y="115" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">Limitaciones del robot de Google</text>
+  <text x="200" y="115" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">Limitaciones del robot de Google</text>
   <circle cx="60" cy="140" r="4" stroke="#f87171" stroke-width="1.2" fill="none"/>
   <text x="60" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">X</text>
   <text x="60" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Sin clics</text>

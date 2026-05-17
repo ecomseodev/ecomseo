@@ -11,7 +11,7 @@
   <text x="310" y="82" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Marca</text>
   <text x="360" y="82" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">|</text>
   <text x="380" y="82" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Store Name</text>
-  <text x="60" y="98" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Organic Cotton Bath Towels Set of 4 - Sage Green | Brooklinen</text>
+  <text x="60" y="98" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Organic Cotton Bath Towels Set of 4 - Sage Green | Brooklinen</text>
 
   <!-- Category page formula -->
   <text x="40" y="130" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Pagine di categoria</text>
@@ -21,7 +21,7 @@
   <text x="215" y="156" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Qualifier</text>
   <text x="285" y="156" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">|</text>
   <text x="305" y="156" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Store Name</text>
-  <text x="60" y="172" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Women's Running Shoes - Top Brands, Free Returns | FitGear</text>
+  <text x="60" y="172" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Women's Running Shoes - Top Brands, Free Returns | FitGear</text>
 
   <!-- Homepage formula -->
   <text x="40" y="204" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Home page</text>
@@ -31,7 +31,7 @@
   <text x="175" y="230" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Parola chiave primaria</text>
   <text x="300" y="230" fill="#475569" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">|</text>
   <text x="320" y="230" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Differentiator</text>
-  <text x="60" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">TrailGear | Outdoor Gear &amp;amp; Camping Equipment | Free Shipping Over $50</text>
+  <text x="60" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">TrailGear | Outdoor Gear &amp;amp; Camping Equipment | Free Shipping Over $50</text>
 
   <!-- Character count guide -->
   <rect x="40" y="268" width="600" height="36" rx="10" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>

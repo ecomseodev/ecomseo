@@ -35,7 +35,7 @@
   <text x="382" y="152" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f87171">Editorial</text>
   <!-- Calidad gate -->
   <rect x="100" y="180" width="220" height="30" rx="10" stroke="#f87171" stroke-width="1.2"/>
-  <text x="210" y="199" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#f87171">Calidad Gate: 70% data completeness minimum</text>
+  <text x="210" y="199" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f87171">Calidad Gate: 70% data completeness minimum</text>
   <defs>
     <marker id="arr1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#38bdf8"/></marker>
     <marker id="arr2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#34d399"/></marker>

@@ -24,11 +24,11 @@
   <!-- Content block below -->
   <rect x="200" y="226" width="280" height="44" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="340" y="245" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" letter-spacing="0.3" font-weight="600">Gedetailleerd contentblok (300-500 woorden)</text>
-  <text x="340" y="260" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Koopgids, maatgids, FAQ, vergelijkingen</text>
+  <text x="340" y="260" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Koopgids, maatgids, FAQ, vergelijkingen</text>
 
   <!-- FAQ section -->
   <rect x="200" y="278" width="280" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
-  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">FAQ-sectie (H2 + gestructureerde data)</text>
+  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">FAQ-sectie (H2 + gestructureerde data)</text>
 
   <!-- Arrows with labels on left -->
   <text x="170" y="99" text-anchor="end" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Boven de vouw</text>
@@ -44,7 +44,7 @@
   <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Past bij zoekopdracht</text>
   <text x="510" y="99" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Bevestigt relevantie</text>
   <text x="510" y="170" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">24-48 producten per pagina</text>
-  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Richt zich op secundaire zoekwoorden</text>
+  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Richt zich op secundaire zoekwoorden</text>
 
   <text x="340" y="334" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Content boven + onder het raster geeft Google context zonder de winkelervaring te schaden</text>
 </svg>

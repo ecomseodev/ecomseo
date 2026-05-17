@@ -18,31 +18,31 @@
 
   <!-- Row 2: Content -->
   <rect x="60" y="112" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="200" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Unieke long-form content per pagina</text>
+  <text x="200" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Unieke long-form content per pagina</text>
 
   <rect x="360" y="112" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Gedeelde fabrikantbeschrijvingen</text>
+  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Gedeelde fabrikantbeschrijvingen</text>
 
   <!-- Row 3: Updates -->
   <rect x="60" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Evergreen, verandert zelden</text>
 
   <rect x="360" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Voorraad roteert wekelijks/maandelijks</text>
+  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Voorraad roteert wekelijks/maandelijks</text>
 
   <!-- Row 4: Technical -->
   <rect x="60" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Eenvoudige URL-structuur</text>
 
   <rect x="360" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Filters, varianten, facetten = URL-wildgroei</text>
+  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Filters, varianten, facetten = URL-wildgroei</text>
 
   <!-- Row 5: Intent -->
   <rect x="60" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Voornamelijk informatieve zoekintentie</text>
+  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Voornamelijk informatieve zoekintentie</text>
 
   <rect x="360" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Gemengd: transactioneel + commercieel + info</text>
+  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Gemengd: transactioneel + commercieel + info</text>
 
   <!-- Bottom note -->
   <text x="340" y="300" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Ecommerce-SEO vereist andere strategieën voor schaal, duplicatie en technische complexiteit</text>

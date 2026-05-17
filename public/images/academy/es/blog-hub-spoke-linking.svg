@@ -8,22 +8,22 @@
 
   <!-- Blog spokes -->
   <rect x="20" y="40" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Cómo elegir zapatillas para correr</text>
+  <text x="105" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Cómo elegir zapatillas para correr</text>
 
   <rect x="20" y="140" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Los mejores zapatos para pies planos</text>
+  <text x="105" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Los mejores zapatos para pies planos</text>
 
   <rect x="20" y="240" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Prevención de lesiones al correr</text>
+  <text x="105" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Prevención de lesiones al correr</text>
 
   <rect x="490" y="40" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Correr por sendero o por carretera</text>
+  <text x="575" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Correr por sendero o por carretera</text>
 
   <rect x="490" y="140" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Guía de preparación para la carrera</text>
+  <text x="575" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Guía de preparación para la carrera</text>
 
   <rect x="490" y="240" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Cuidado del calzado y Mantenimiento</text>
+  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Cuidado del calzado y Mantenimiento</text>
 
   <!-- Arrows from blogs to hub -->
   <line x1="190" y1="58" x2="250" y2="130" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4,3"/>

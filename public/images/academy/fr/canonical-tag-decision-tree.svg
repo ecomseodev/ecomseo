@@ -12,7 +12,7 @@
 
   <!-- Question 1 -->
   <rect x="200" y="124" width="280" height="40" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="340" y="149" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Les utilisateurs doivent-ils accéder aux deux URL ?</text>
+  <text x="340" y="149" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Les utilisateurs doivent-ils accéder aux deux URL ?</text>
 
   <!-- Left branch: NO -->
   <line x1="200" y1="144" x2="100" y2="144" stroke="#38bdf8" stroke-width="1.2"/>
@@ -33,7 +33,7 @@
 
   <!-- Question 2 -->
   <rect x="440" y="196" width="240" height="40" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
-  <text x="560" y="221" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Une version doit-elle être classée ?</text>
+  <text x="560" y="221" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Une version doit-elle être classée ?</text>
 
   <!-- Right-left: YES -->
   <line x1="480" y1="236" x2="420" y2="236" stroke="#38bdf8" stroke-width="1.2"/>
@@ -58,6 +58,6 @@
 
   <!-- Use cases labels -->
   <text x="100" y="260" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Anciennes URL, migrations</text>
-  <text x="420" y="348" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Filtres, variantes, paramètres</text>
+  <text x="420" y="348" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Filtres, variantes, paramètres</text>
   <text x="640" y="348" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">Panier, recherche, compte</text>
 </svg>

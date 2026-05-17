@@ -50,7 +50,7 @@
   <text x="387" y="238" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#38bdf8">Category</text>
   <rect x="436" y="220" width="78" height="28" rx="14" stroke="#a78bfa" stroke-width="1" fill="#a78bfa" fill-opacity="0.1"/>
   <text x="475" y="238" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#a78bfa">Content</text>
-  <text x="387" y="270" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Tag every keyword by page type</text>
+  <text x="387" y="270" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Tag every keyword by page type</text>
   <defs>
     <marker id="arrowV" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6" fill="none" stroke="#a78bfa" stroke-width="1"/>

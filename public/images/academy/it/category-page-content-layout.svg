@@ -28,7 +28,7 @@
 
   <!-- FAQ section -->
   <rect x="200" y="278" width="280" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
-  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Sezione FAQ (H2 + dati strutturati)</text>
+  <text x="340" y="297" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sezione FAQ (H2 + dati strutturati)</text>
 
   <!-- Arrows with labels on left -->
   <text x="170" y="99" text-anchor="end" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sopra la piega</text>
@@ -41,10 +41,10 @@
   <line x1="174" y1="246" x2="198" y2="246" stroke="#f59e0b" stroke-width="0.8"/>
 
   <!-- Right side annotations -->
-  <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Corrisponde alla query di ricerca</text>
+  <text x="510" y="68" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Corrisponde alla query di ricerca</text>
   <text x="510" y="99" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Conferma la pertinenza</text>
   <text x="510" y="170" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">24-48 prodotti per pagina</text>
-  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Mira a parole chiave secondarie</text>
+  <text x="510" y="250" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Mira a parole chiave secondarie</text>
 
   <text x="340" y="334" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">I contenuti sopra e sotto la griglia forniscono contesto a Google senza compromettere l'esperienza di acquisto</text>
 </svg>

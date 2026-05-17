@@ -48,9 +48,9 @@
   <rect x="510" y="56" width="150" height="80" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="585" y="72" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">La página de inicio debe tener</text>
   <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Descriptivo H1</text>
-  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Introducción de 100-200 palabras</text>
-  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Bloques de categorías con enlaces</text>
-  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sección de marca de 200-400 palabras</text>
+  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Introducción de 100-200 palabras</text>
+  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Bloques de categorías con enlaces</text>
+  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Sección de marca de 200-400 palabras</text>
 
   <!-- Advertencia box -->
   <rect x="120" y="250" width="440" height="36" rx="9" fill="#1a1a2e" stroke="#f87171" stroke-width="1"/>

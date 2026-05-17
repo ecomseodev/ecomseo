@@ -22,12 +22,12 @@
 
   <rect x="105" y="68" width="80" height="46" rx="9" stroke="#38bdf8" stroke-width="1" fill="none"/>
   <text x="145" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#38bdf8">Implementar</text>
-  <text x="145" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Redirecciones en puesta en escena</text>
+  <text x="145" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Redirecciones en puesta en escena</text>
   <text x="145" y="105" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Esquema + metaparidad</text>
 
   <rect x="195" y="68" width="80" height="46" rx="9" stroke="#f59e0b" stroke-width="1" fill="none"/>
   <text x="235" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#f59e0b">Prueba</text>
-  <text x="235" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Rastreo de puesta en escena completo</text>
+  <text x="235" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Rastreo de puesta en escena completo</text>
   <text x="235" y="105" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Auditoría de desempeño</text>
 
   <rect x="280" y="68" width="60" height="46" rx="9" stroke="#a78bfa" stroke-width="1" fill="none"/>
@@ -42,7 +42,7 @@
 
   <!-- Recovery timeline -->
   <rect x="30" y="130" width="360" height="34" rx="10" stroke="#a78bfa" stroke-width="1" fill="none"/>
-  <text x="210" y="146" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#a78bfa">Ventana de recuperación posterior al lanzamiento</text>
+  <text x="210" y="146" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#a78bfa">Ventana de recuperación posterior al lanzamiento</text>
   <text x="210" y="158" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">4-6 semanas típicas | hasta 3 meses para palabras clave competitivas</text>
   <!-- Rollback trigger -->
   <rect x="30" y="175" width="360" height="28" rx="10" stroke="#f87171" stroke-width="1" fill="none"/>

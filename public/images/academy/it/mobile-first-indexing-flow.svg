@@ -8,17 +8,17 @@
   <rect x="56" y="84" width="168" height="16" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="95" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Navigazione completa: 200 collegamenti di categoria</text>
   <rect x="56" y="106" width="168" height="40" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
-  <text x="140" y="122" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Descrizione completa del prodotto</text>
-  <text x="140" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">500 parole + tabella delle specifiche</text>
+  <text x="140" y="122" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Descrizione completa del prodotto</text>
+  <text x="140" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">500 parole + tabella delle specifiche</text>
   <rect x="56" y="152" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
-  <text x="140" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Vendite incrociate, prodotti correlati</text>
+  <text x="140" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Vendite incrociate, prodotti correlati</text>
   <rect x="56" y="182" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="198" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Recensioni, domande frequenti, breadcrumb</text>
   <rect x="56" y="214" width="168" height="24" rx="7" stroke="#94a3b8" stroke-width="0.8" fill="none"/>
   <text x="140" y="230" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Collegamenti interni: 45+</text>
 
   <!-- X mark on desktop -->
-  <text x="140" y="268" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f87171">Non utilizzato per l'indicizzazione</text>
+  <text x="140" y="268" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">Non utilizzato per l'indicizzazione</text>
 
   <!-- Arrow -->
   <text x="310" y="155" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" fill="#a78bfa">contro</text>
@@ -46,6 +46,6 @@
   <text x="605" y="122" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Aree a rischio</text>
   <text x="605" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Meno contenuto = inferiore</text>
   <text x="605" y="152" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">punteggio di qualità</text>
-  <text x="605" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Meno collegamenti = più deboli</text>
+  <text x="605" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Meno collegamenti = più deboli</text>
   <text x="605" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">priorità di scansione</text>
 </svg>

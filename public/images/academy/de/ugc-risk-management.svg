@@ -18,7 +18,7 @@
   <rect x="245" y="45" width="105" height="150" rx="12" fill="#38bdf8" opacity="0.1" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="297" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Duplikats</text>
   <text x="297" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Kopierter Text</text>
-  <text x="297" y="103" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Seitenuebergreifende Duplikate</text>
+  <text x="297" y="103" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Seitenuebergreifende Duplikate</text>
   <line x1="260" y1="115" x2="335" y2="115" stroke="#e2e8f0" stroke-width="0.5"/>
   <text x="297" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Canonical tags</text>
   <text x="297" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Duplikaterkennung</text>
@@ -30,5 +30,5 @@
   <text x="412" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Professionelle</text>
   <text x="412" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Antworten innerhalb von 24h</text>
   <!-- Bottom label -->
-  <text x="240" y="220" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Risk (top) | Mitigation (bottom, green)</text>
+  <text x="240" y="220" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Risk (top) | Mitigation (bottom, green)</text>
 </svg>

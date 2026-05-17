@@ -6,15 +6,15 @@
   <!-- Informational -->
   <rect x="40" y="50" width="600" height="56" rx="12" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="80" y="74" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Informativo</text>
-  <text x="80" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">“come scegliere le scarpe da running”</text>
+  <text x="80" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">“come scegliere le scarpe da running”</text>
   <text x="460" y="74" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Post di blog, guide</text>
   <text x="460" y="92" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Conversione: &amp;lt;1% | Costruisce consapevolezza</text>
 
   <!-- Commercial -->
   <rect x="80" y="118" width="520" height="56" rx="12" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="120" y="142" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Commerciale</text>
-  <text x="120" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"migliori scarpe da corsa 2025"</text>
-  <text x="440" y="142" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Confronti, pagine di categoria</text>
+  <text x="120" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">"migliori scarpe da corsa 2025"</text>
+  <text x="440" y="142" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Confronti, pagine di categoria</text>
   <text x="440" y="160" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Conversione: 2-4% | Valutazione delle opzioni</text>
 
   <!-- Transactional -->
@@ -27,12 +27,12 @@
   <!-- Navigational -->
   <rect x="160" y="254" width="360" height="56" rx="12" fill="#1a1a2e" stroke="#a78bfa" stroke-width="1.2"/>
   <text x="200" y="278" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Navigazione</text>
-  <text x="200" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">“Nike store” / “Glossier skincare”</text>
+  <text x="200" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">“Nike store” / “Glossier skincare”</text>
   <text x="420" y="278" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Marchio/home page</text>
   <text x="420" y="296" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Intento più alto | Ho già scelto il marchio</text>
 
   <!-- Right side arrow label -->
-  <text x="660" y="145" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" text-anchor="middle" transform="rotate(90,660,145)">Intento di acquisto più elevato</text>
+  <text x="660" y="145" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" text-anchor="middle" transform="rotate(90,660,145)">Intento di acquisto più elevato</text>
   <line x1="652" y1="60" x2="652" y2="300" stroke="#475569" stroke-width="1"/>
   <polygon points="648,295 652,305 656,295" fill="#475569"/>
 

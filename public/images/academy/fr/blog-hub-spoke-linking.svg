@@ -8,22 +8,22 @@
 
   <!-- Blog spokes -->
   <rect x="20" y="40" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Comment choisir des chaussures de course</text>
+  <text x="105" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Comment choisir des chaussures de course</text>
 
   <rect x="20" y="140" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Meilleures chaussures pour pieds plats</text>
+  <text x="105" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Meilleures chaussures pour pieds plats</text>
 
   <rect x="20" y="240" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="105" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Prévention des blessures en course à pied</text>
+  <text x="105" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Prévention des blessures en course à pied</text>
 
   <rect x="490" y="40" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="575" y="62" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Trail ou course sur route</text>
 
   <rect x="490" y="140" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Guide de préparation à la course</text>
+  <text x="575" y="162" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Guide de préparation à la course</text>
 
   <rect x="490" y="240" width="170" height="36" rx="9" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Entretien et entretien des chaussures Entretien</text>
+  <text x="575" y="262" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Entretien et entretien des chaussures Entretien</text>
 
   <!-- Arrows from blogs to hub -->
   <line x1="190" y1="58" x2="250" y2="130" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4,3"/>

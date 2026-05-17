@@ -36,7 +36,7 @@
   <text x="60" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Thème CSS</text>
   <text x="60" y="206" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Affichage du produit JS</text>
   <text x="60" y="222" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Fonctionnalité du panier</text>
-  <text x="60" y="238" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Images au-dessus de la ligne de flottaison</text>
+  <text x="60" y="238" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Images au-dessus de la ligne de flottaison</text>
 
   <rect x="250" y="150" width="180" height="110" rx="12" stroke="#38bdf8" stroke-width="1" fill="none"/>
   <text x="340" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Reportez-vous à l'après-peinture</text>

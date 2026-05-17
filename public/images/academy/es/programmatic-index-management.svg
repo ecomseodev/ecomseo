@@ -4,7 +4,7 @@
   <polygon points="60,40 340,40 300,80 100,80" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="200" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">50.000 páginas generadas</text>
   <polygon points="100,85 300,85 270,120 130,120" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
-  <text x="200" y="107" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Envío de mapa del sitio + rastreo</text>
+  <text x="200" y="107" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Envío de mapa del sitio + rastreo</text>
   <polygon points="130,125 270,125 250,155 150,155" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="200" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">30.000 indexados (objetivo)</text>
   <!-- Side labels -->
@@ -13,6 +13,6 @@
   <text x="355" y="105" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">duplicados canónicos</text>
   <path d="M300 100 L350 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Bottom: lifecycle -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">Ciclo de vida: enriquecer &amp;#8594; Índice &amp;#8594; Monitorear &amp;#8594; Retirarse (301/410)</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#e2e8f0">Ciclo de vida: enriquecer &amp;#8594; Índice &amp;#8594; Monitorear &amp;#8594; Retirarse (301/410)</text>
   <rect x="50" y="165" width="300" height="22" rx="8" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3"/>
 </svg>

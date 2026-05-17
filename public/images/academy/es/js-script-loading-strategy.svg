@@ -18,7 +18,7 @@
   <!-- Critical scripts -->
   <rect x="60" y="90" width="180" height="36" rx="10" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="150" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Crítico (sincronización)</text>
-  <text x="150" y="120" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">CSS, JS central, datos del producto</text>
+  <text x="150" y="120" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">CSS, JS central, datos del producto</text>
 
   <!-- Deferred scripts -->
   <rect x="240" y="90" width="160" height="36" rx="10" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
@@ -47,7 +47,7 @@
 
   <rect x="440" y="150" width="200" height="110" rx="12" stroke="#f59e0b" stroke-width="1" fill="none"/>
   <text x="540" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Cargar en acción del usuario</text>
-  <text x="460" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Widget de chat (retraso de 5 segundos)</text>
+  <text x="460" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Widget de chat (retraso de 5 segundos)</text>
   <text x="460" y="206" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Reseñas (en desplazamiento)</text>
   <text x="460" y="222" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Píxeles de reorientación</text>
   <text x="460" y="238" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Inserciones sociales</text>

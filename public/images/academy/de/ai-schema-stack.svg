@@ -4,11 +4,11 @@
   <rect x="120" y="38" width="140" height="50" rx="10" stroke="#a78bfa" stroke-width="2"/>
   <text x="190" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Produktschema</text>
   <text x="190" y="72" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Name, Marke, SKU, GTIN, MPN</text>
-  <text x="190" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Farbe, Größe, Material, Gewicht</text>
+  <text x="190" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Farbe, Größe, Material, Gewicht</text>
   <!-- Offer -->
   <rect x="15" y="100" width="110" height="40" rx="9" stroke="#34d399" stroke-width="1.2"/>
   <text x="70" y="116" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#34d399">Angebot</text>
-  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Preis, Währung, Verfügbarkeit.</text>
+  <text x="70" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Preis, Währung, Verfügbarkeit.</text>
   <path d="M125 92 L80 100" stroke="#34d399" stroke-width="1"/>
   <!-- hasVariant -->
   <rect x="135" y="100" width="110" height="40" rx="9" stroke="#38bdf8" stroke-width="1.2"/>

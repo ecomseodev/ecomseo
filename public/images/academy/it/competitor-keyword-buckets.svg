@@ -39,5 +39,5 @@
   <!-- Bottom annotation -->
   <rect x="100" y="210" width="480" height="36" rx="10" fill="#a78bfa" fill-opacity="0.06" stroke="#a78bfa" stroke-width="1"/>
   <text x="340" y="233" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e2e8f0">Buckets 1 &amp; 2 contain <tspan font-weight="700" fill="#a78bfa">80% delle opportunità realizzabili</tspan></text>
-  <text x="340" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Esegui l'analisi del gap per ogni concorrente individualmente. Ripeti trimestralmente per cogliere nuove opportunità.</text>
+  <text x="340" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Esegui l'analisi del gap per ogni concorrente individualmente. Ripeti trimestralmente per cogliere nuove opportunità.</text>
 </svg>

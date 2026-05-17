@@ -12,13 +12,13 @@
 
   <!-- What Google receives -->
   <rect x="40" y="105" width="260" height="50" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1"/>
-  <text x="170" y="123" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">&amp;lt;html&amp;gt;&amp;lt;cuerpo&amp;gt;</text>
-  <text x="170" y="143" text-anchor="middle" fill="#475569" font-family="monospace" font-size="10">&amp;lt;div id="aplicación"&amp;gt;&amp;lt;/div&amp;gt;</text>
+  <text x="170" y="123" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">&amp;lt;html&amp;gt;&amp;lt;cuerpo&amp;gt;</text>
+  <text x="170" y="143" text-anchor="middle" fill="#475569" font-family="monospace" font-size="7">&amp;lt;div id="aplicación"&amp;gt;&amp;lt;/div&amp;gt;</text>
 
   <!-- What's missing -->
   <rect x="40" y="168" width="260" height="36" rx="10" fill="#f87171" fill-opacity="0.08" stroke="#f87171" stroke-width="0.8"/>
-  <text x="170" y="183" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Sin título, sin precio, sin descripción</text>
-  <text x="170" y="196" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Sin revisiones, sin marcado de esquema</text>
+  <text x="170" y="183" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sin título, sin precio, sin descripción</text>
+  <text x="170" y="196" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sin revisiones, sin marcado de esquema</text>
 
   <!-- Resultado -->
   <rect x="40" y="216" width="260" height="32" rx="10" fill="#f87171" fill-opacity="0.15" stroke="#f87171" stroke-width="1"/>
@@ -36,17 +36,17 @@
   <rect x="360" y="64" width="300" height="1" fill="#34d399" fill-opacity="0.2"/>
   <text x="510" y="64" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">FASE 2: Renderizado JS</text>
 
-  <text x="510" y="90" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Retrasado (cola de procesamiento)</text>
+  <text x="510" y="90" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Retrasado (cola de procesamiento)</text>
 
   <!-- What Google renders -->
   <rect x="380" y="105" width="260" height="50" rx="10" fill="#0f172a" stroke="#334155" stroke-width="1"/>
-  <text x="510" y="123" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="10">&amp;lt;h1&amp;gt;Zapatillas para correr Pro&amp;lt;/h1&amp;gt;</text>
-  <text x="510" y="143" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="10">&amp;lt;span&amp;gt;$129,99&amp;lt;/span&amp;gt; En stock</text>
+  <text x="510" y="123" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="7">&amp;lt;h1&amp;gt;Zapatillas para correr Pro&amp;lt;/h1&amp;gt;</text>
+  <text x="510" y="143" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="7">&amp;lt;span&amp;gt;$129,99&amp;lt;/span&amp;gt; En stock</text>
 
   <!-- What's visible -->
   <rect x="380" y="168" width="260" height="36" rx="10" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-width="0.8"/>
-  <text x="510" y="183" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Título, precio, descripción cargada</text>
-  <text x="510" y="196" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Reseñas, esquemas, imágenes renderizadas.</text>
+  <text x="510" y="183" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Título, precio, descripción cargada</text>
+  <text x="510" y="196" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Reseñas, esquemas, imágenes renderizadas.</text>
 
   <!-- Resultado -->
   <rect x="380" y="216" width="260" height="32" rx="10" fill="#34d399" fill-opacity="0.15" stroke="#34d399" stroke-width="1"/>
@@ -55,7 +55,7 @@
   <!-- Solution bar -->
   <rect x="80" y="282" width="520" height="36" rx="12" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-width="1"/>
   <text x="340" y="300" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="700">Solución: renderizado del lado del servidor (SSR) o generación estática (SSG)</text>
-  <text x="340" y="313" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Elimina el retraso de la Fase 2. Google obtiene el contenido completo en la primera búsqueda.</text>
+  <text x="340" y="313" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Elimina el retraso de la Fase 2. Google obtiene el contenido completo en la primera búsqueda.</text>
 
   <text x="340" y="336" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Shopify Liquid = SSR por defecto | Next.js/Nuxt = configurar SSR o SSG | React SPA = necesita arreglo</text>
 </svg>

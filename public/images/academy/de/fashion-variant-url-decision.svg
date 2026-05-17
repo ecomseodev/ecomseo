@@ -27,17 +27,17 @@
   <!-- Result boxes -->
   <rect x="5" y="185" width="120" height="50" rx="8" fill="#34d399" opacity="0.1" stroke="#34d399" stroke-width="1"/>
   <text x="65" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399" font-weight="bold">/Blazer/Marineblau</text>
-  <text x="65" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Einzigartiger Titel, Meta, Fotos</text>
+  <text x="65" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Einzigartiger Titel, Meta, Fotos</text>
   <text x="65" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Selbstkanonisch</text>
   <line x1="42" y1="170" x2="65" y2="185" stroke="#34d399" stroke-width="1" stroke-dasharray="3,2"/>
   <rect x="150" y="185" width="120" height="50" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="210" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">/blazer (einzelne URL)</text>
   <text x="210" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Farbmuster auf der Seite</text>
-  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Keine zusätzlichen Crawling-Kosten</text>
+  <text x="210" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Keine zusätzlichen Crawling-Kosten</text>
   <line x1="152" y1="170" x2="210" y2="185" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3,2"/>
   <rect x="295" y="185" width="120" height="50" rx="8" fill="#f87171" opacity="0.1" stroke="#f87171" stroke-width="1"/>
   <text x="355" y="202" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171" font-weight="bold">/blazer?size=m</text>
-  <text x="355" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Blockieren Sie in robots.txt oder</text>
+  <text x="355" y="215" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Blockieren Sie in robots.txt oder</text>
   <text x="355" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">kanonisch zu /blazer</text>
   <line x1="320" y1="170" x2="355" y2="185" stroke="#f87171" stroke-width="1" stroke-dasharray="3,2"/>
 </svg>

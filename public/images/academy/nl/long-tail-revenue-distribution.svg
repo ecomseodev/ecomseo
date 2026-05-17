@@ -3,7 +3,7 @@
   <!-- Axes -->
   <line x1="80" y1="250" x2="650" y2="250" stroke="#94a3b8" stroke-width="1"/>
   <line x1="80" y1="250" x2="80" y2="50" stroke="#94a3b8" stroke-width="1"/>
-  <text x="365" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8">Trefwoorden (gesorteerd op zoekvolume)</text>
+  <text x="365" y="280" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Trefwoorden (gesorteerd op zoekvolume)</text>
   <text x="30" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8" transform="rotate(-90, 30, 150)">Zoekvolume</text>
   <!-- Curve -->
   <path d="M85,70 Q120,75 140,110 Q160,145 200,180 Q260,210 350,230 Q450,242 550,246 Q600,248 645,249" stroke="#a78bfa" stroke-width="2.5" fill="none"/>
@@ -23,7 +23,7 @@
   <!-- Annotations -->
   <rect x="420" y="55" width="230" height="60" rx="10" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-width="1"/>
   <text x="535" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">1.500 trefwoorden x 80 zoekopdrachten</text>
-  <text x="535" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">= 24.000 bezoeken/maand bij 20% CTR</text>
+  <text x="535" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">= 24.000 bezoeken/maand bij 20% CTR</text>
   <text x="535" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">= $90K/maand bij 5% conv + $75 AOV</text>
-  <text x="340" y="296" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#94a3b8">Elke productpagina bevat 2-5 long-tail-termen. 500 pagina's vormen samen een duurzaam verkeersmiddel.</text>
+  <text x="340" y="296" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Elke productpagina bevat 2-5 long-tail-termen. 500 pagina's vormen samen een duurzaam verkeersmiddel.</text>
 </svg>

@@ -23,7 +23,7 @@
   <text x="200" y="149" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#f59e0b">x-default fallback</text>
   <path d="M155 130 L95 105" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3"/>
   <!-- Common errors -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#f87171">Common Error: Missing return tags = ignored by Google</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#f87171">Common Error: Missing return tags = ignored by Google</text>
   <text x="200" y="192" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Use XML sitemaps for stores with 1000s of products across languages</text>
   <defs>
     <marker id="arH1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>

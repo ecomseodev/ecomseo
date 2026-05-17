@@ -24,5 +24,5 @@
   <text x="395" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Transparentes Unternehmen</text>
   <!-- Bottom outcome -->
   <rect x="120" y="205" width="240" height="28" rx="10" fill="#a78bfa" opacity="0.2" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="240" y="224" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#a78bfa">Schnellere Indexierung + Hoehere Rankings</text>
+  <text x="240" y="224" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#a78bfa">Schnellere Indexierung + Hoehere Rankings</text>
 </svg>

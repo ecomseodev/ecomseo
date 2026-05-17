@@ -28,13 +28,13 @@
   <!-- Description -->
   <rect x="330" y="150" width="170" height="46" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
   <text x="340" y="166" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Einzigartige Beschreibung</text>
-  <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Vorteile zuerst, nicht Funktionen zuerst</text>
+  <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Vorteile zuerst, nicht Funktionen zuerst</text>
   <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">100–600 Wörter, je nach Preis</text>
 
   <!-- Specifications -->
   <rect x="180" y="204" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#38bdf8" stroke-width="1"/>
   <text x="190" y="223" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Spezifikationen</text>
-  <text x="380" y="223" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Material, Abmessungen, Gewicht</text>
+  <text x="380" y="223" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Material, Abmessungen, Gewicht</text>
 
   <!-- Reviews -->
   <rect x="180" y="240" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#34d399" stroke-width="1"/>
@@ -44,7 +44,7 @@
   <!-- Related Products -->
   <rect x="180" y="276" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
   <text x="190" y="295" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Verwandte Produkte</text>
-  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Möglichkeit zur internen Verlinkung</text>
+  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Möglichkeit zur internen Verlinkung</text>
 
   <!-- Schema badge -->
   <rect x="180" y="314" width="320" height="28" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
@@ -54,7 +54,7 @@
   <text x="540" y="80" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Keyword-reiches H1</text>
   <text x="540" y="114" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Vertrauen + Konvertierung</text>
   <text x="540" y="172" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Keine Kopie des Herstellers</text>
-  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">+15–35 % CTR durch Rich-Suchergebnisse</text>
+  <text x="540" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">+15–35 % CTR durch Rich-Suchergebnisse</text>
 
   <text x="340" y="374" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Seiten, die bei allen Elementen eine hohe Punktzahl erzielen, verzeichnen 30–50 % mehr organischen Traffic pro Produkt</text>
 </svg>

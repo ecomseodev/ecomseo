@@ -2,12 +2,12 @@
   <text x="210" y="22" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#a78bfa">Livelli del sito di destinazione dei post degli ospiti</text>
   <polygon points="130,42 290,42 268,90 152,90" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
   <text x="210" y="60" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Livello 1: RD 60+</text>
-  <text x="210" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Le migliori idee di contenuto, altamente pertinenti</text>
+  <text x="210" y="78" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Le migliori idee di contenuto, altamente pertinenti</text>
   <polygon points="152,95 268,95 250,138 170,138" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="210" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Livello 2: RD 30-60</text>
   <text x="210" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Blog di nicchia rilevanti</text>
   <polygon points="170,143 250,143 240,178 180,178" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="210" y="158" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Livello 3: RD 20-30</text>
   <text x="210" y="174" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Microblog di nicchia</text>
-  <text x="210" y="196" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Crea un elenco progressivo di oltre 50 siti. Assegnare le idee migliori al Livello 1.</text>
+  <text x="210" y="196" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Crea un elenco progressivo di oltre 50 siti. Assegnare le idee migliori al Livello 1.</text>
 </svg>

@@ -5,8 +5,8 @@
   <text x="75" y="58" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">Informativo</text>
   <text x="75" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"que es la niacinamida"</text>
   <text x="75" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"beneficios del retinol"</text>
-  <text x="75" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"ácido hialurónico para la piel"</text>
-  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Páginas de guía de ingredientes</text>
+  <text x="75" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"ácido hialurónico para la piel"</text>
+  <text x="75" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#38bdf8">Páginas de guía de ingredientes</text>
   <!-- Arrow -->
   <line x1="135" y1="77" x2="150" y2="77" stroke="#a78bfa" stroke-width="1.2"/>
   <polygon points="148,73 156,77 148,81" fill="#a78bfa"/>
@@ -16,7 +16,7 @@
   <text x="210" y="74" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">que hace</text>
   <text x="210" y="86" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">¿A quién beneficia?</text>
   <text x="210" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">como usar</text>
-  <text x="210" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">+ Cuadrícula de productos a continuación</text>
+  <text x="210" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#a78bfa">+ Cuadrícula de productos a continuación</text>
   <!-- Arrow -->
   <line x1="270" y1="77" x2="285" y2="77" stroke="#34d399" stroke-width="1.2"/>
   <polygon points="283,73 291,77 283,81" fill="#34d399"/>
@@ -28,7 +28,7 @@
   <text x="345" y="98" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"comprar suero de vitamina C"</text>
   <text x="345" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Páginas de productos</text>
   <!-- Trending section below -->
-  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Tendencias de ingredientes emergentes a seguir</text>
+  <text x="210" y="140" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">Tendencias de ingredientes emergentes a seguir</text>
   <rect x="25" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="65" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">bakuchiol</text>
   <rect x="115" y="152" width="80" height="28" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>

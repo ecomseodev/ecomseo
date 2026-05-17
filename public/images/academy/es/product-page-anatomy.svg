@@ -6,7 +6,7 @@
 
   <!-- Migas de pan -->
   <text x="180" y="58" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Inicio &gt; Zapatos &gt; Running &gt; Zapatos de trail running</text>
-  <text x="530" y="58" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Esquema de lista de rutas de navegación</text>
+  <text x="530" y="58" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Esquema de lista de rutas de navegación</text>
 
   <!-- H1 -->
   <rect x="180" y="64" width="320" height="24" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1.2"/>
@@ -29,7 +29,7 @@
   <rect x="330" y="150" width="170" height="46" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>
   <text x="340" y="166" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Descripción única</text>
   <text x="340" y="180" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Primero los beneficios, no las características</text>
-  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">100-600 palabras según el precio</text>
+  <text x="340" y="190" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">100-600 palabras según el precio</text>
 
   <!-- Especificaciones -->
   <rect x="180" y="204" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#38bdf8" stroke-width="1"/>
@@ -39,12 +39,12 @@
   <!-- Reseñas -->
   <rect x="180" y="240" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#34d399" stroke-width="1"/>
   <text x="190" y="259" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Reseñas (127)</text>
-  <text x="380" y="259" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Esquema de calificación agregada</text>
+  <text x="380" y="259" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Esquema de calificación agregada</text>
 
   <!-- Productoos relacionados -->
   <rect x="180" y="276" width="320" height="30" rx="8" fill="#1e1e3a" stroke="#a78bfa" stroke-width="1"/>
   <text x="190" y="295" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">H2: Productos relacionados</text>
-  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Oportunidad de vinculación interna</text>
+  <text x="380" y="295" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Oportunidad de vinculación interna</text>
 
   <!-- Schema badge -->
   <rect x="180" y="314" width="320" height="28" rx="8" fill="#1e1e3a" stroke="#f59e0b" stroke-width="1"/>

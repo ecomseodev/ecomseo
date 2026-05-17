@@ -28,7 +28,7 @@
   <!-- Lazy scripts -->
   <rect x="400" y="90" width="220" height="36" rx="10" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
   <text x="510" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Faul (auf Veranstaltung)</text>
-  <text x="510" y="120" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Chat, Bewertungen, Retargeting</text>
+  <text x="510" y="120" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Chat, Bewertungen, Retargeting</text>
 
   <!-- Examples -->
   <rect x="40" y="150" width="200" height="110" rx="12" stroke="#34d399" stroke-width="1" fill="none"/>
@@ -47,7 +47,7 @@
 
   <rect x="440" y="150" width="200" height="110" rx="12" stroke="#f59e0b" stroke-width="1" fill="none"/>
   <text x="540" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f59e0b">Laden bei Benutzeraktion</text>
-  <text x="460" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Chat-Widget (5 Sekunden Verzögerung)</text>
+  <text x="460" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Chat-Widget (5 Sekunden Verzögerung)</text>
   <text x="460" y="206" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Rezensionen (auf Scroll)</text>
   <text x="460" y="222" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Retargeting-Pixel</text>
   <text x="460" y="238" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Soziale Einbettungen</text>

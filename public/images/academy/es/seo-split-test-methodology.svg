@@ -2,7 +2,7 @@
   <text x="200" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Metodología de pruebas divididas SEO</text>
   <!-- Page pool -->
   <rect x="130" y="35" width="140" height="30" rx="9" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="200" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8">1,000 Similar Páginas de producto</text>
+  <text x="200" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#38bdf8">1,000 Similar Páginas de producto</text>
   <!-- Split arrows -->
   <path d="M160 65 L80 85" stroke="#34d399" stroke-width="1.2" marker-end="url(#arS1)"/>
   <path d="M240 65 L320 85" stroke="#f59e0b" stroke-width="1.2" marker-end="url(#arS2)"/>
@@ -27,7 +27,7 @@
   <text x="300" y="170" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Resultados</text>
   <text x="300" y="180" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">2-6 semanas</text>
   <!-- Significance -->
-  <text x="200" y="197" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">95% confidence threshold required</text>
+  <text x="200" y="197" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">95% confidence threshold required</text>
   <defs>
     <marker id="arS1" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#34d399"/></marker>
     <marker id="arS2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#f59e0b"/></marker>

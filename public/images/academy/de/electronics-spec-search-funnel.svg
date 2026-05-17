@@ -2,11 +2,11 @@
   <text x="210" y="20" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#a78bfa">Spezifikationsgetriebener Suchtrichter</text>
   <!-- Funnel layers -->
   <polygon points="60,45 360,45 330,95 90,95" fill="#a78bfa" opacity="0.15" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="210" y="75" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">"bester Gaming-Monitor" — Breit</text>
+  <text x="210" y="75" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"bester Gaming-Monitor" — Breit</text>
   <polygon points="90,100 330,100 310,150 110,150" fill="#38bdf8" opacity="0.15" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="210" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"27-Zoll 4K 144Hz Monitor" — Spez.-gefiltert</text>
+  <text x="210" y="130" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"27-Zoll 4K 144Hz Monitor" — Spez.-gefiltert</text>
   <polygon points="110,155 310,155 290,205 130,205" fill="#34d399" opacity="0.15" stroke="#34d399" stroke-width="1.2"/>
-  <text x="210" y="185" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">"LG 27GP950-B Bewertung" — Modellspezifisch</text>
+  <text x="210" y="185" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"LG 27GP950-B Bewertung" — Modellspezifisch</text>
   <polygon points="130,210 290,210 270,250 150,250" fill="#f59e0b" opacity="0.15" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="210" y="237" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#f59e0b">Kauf — Höchste Kaufabsicht</text>
   <!-- Arrows -->

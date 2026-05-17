@@ -17,7 +17,7 @@
   <!-- Homepage -->
   <rect x="250" y="78" width="180" height="50" rx="12" fill="#1e1e3a" stroke="#34d399" stroke-width="2"/>
   <text x="340" y="100" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Page d'accueil</text>
-  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Page de la plus haute autorité</text>
+  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Page de la plus haute autorité</text>
 
   <!-- Navigation links down -->
   <line x1="280" y1="128" x2="140" y2="180" stroke="#34d399" stroke-width="1.2"/>
@@ -39,7 +39,7 @@
   <text x="540" y="200" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Nouveautés</text>
 
   <!-- Authority percentage labels -->
-  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">reçoit environ 20 % de capitaux propres</text>
+  <text x="140" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">reçoit environ 20 % de capitaux propres</text>
   <text x="280" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~20% de fonds propres</text>
   <text x="410" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% de fonds propres</text>
   <text x="540" y="224" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">~15% de fonds propres</text>
@@ -48,9 +48,9 @@
   <rect x="510" y="56" width="150" height="80" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="585" y="72" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="600">Page d'accueil indispensable</text>
   <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Descriptif H1</text>
-  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Introduction de 100 à 200 mots</text>
-  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Blocs de catégories avec liens</text>
-  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Section de marque de 200 à 400 mots</text>
+  <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Introduction de 100 à 200 mots</text>
+  <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Blocs de catégories avec liens</text>
+  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Section de marque de 200 à 400 mots</text>
 
   <!-- Warning box -->
   <rect x="120" y="250" width="440" height="36" rx="9" fill="#1a1a2e" stroke="#f87171" stroke-width="1"/>

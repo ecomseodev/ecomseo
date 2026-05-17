@@ -31,7 +31,7 @@
   <text x="360" y="134" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Factual Precision</text>
   <!-- Output -->
   <rect x="100" y="158" width="220" height="25" rx="9" stroke="#34d399" stroke-width="1.2"/>
-  <text x="210" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">AI Answer cites 3-4 sources with your product page</text>
+  <text x="210" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">AI Answer cites 3-4 sources with your product page</text>
   <defs>
     <marker id="arA" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#38bdf8"/></marker>
     <marker id="arB" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#a78bfa"/></marker>

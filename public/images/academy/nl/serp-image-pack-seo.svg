@@ -3,8 +3,8 @@
   <!-- Image element -->
   <rect x="20" y="38" width="170" height="90" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="105" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Productafbeelding</text>
-  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">File: red-leather-bag-front.jpg</text>
-  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Alt: "Red leather crossbody bag"</text>
+  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">File: red-leather-bag-front.jpg</text>
+  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Alt: "Red leather crossbody bag"</text>
   <text x="30" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Size: 1200px+ longest edge</text>
   <text x="30" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Format: WebP + srcset</text>
   <text x="30" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Position: above the fold</text>
@@ -17,9 +17,9 @@
   <text x="230" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"name": "Red Leather Bag"</text>
   <text x="230" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"price": "$149"</text>
   <text x="230" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"aggregateRating": 4.8</text>
-  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Schema + image = 2x visibility</text>
+  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">Schema + image = 2x visibility</text>
   <!-- Appears in -->
-  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Appears in 30-40% of product searches</text>
+  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Appears in 30-40% of product searches</text>
   <!-- Tips -->
   <text x="200" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b">Multiple angles per product = more image pack opportunities</text>
   <defs>

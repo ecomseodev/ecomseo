@@ -4,7 +4,7 @@
   <polygon points="60,40 340,40 300,80 100,80" stroke="#38bdf8" stroke-width="1.2" fill="none"/>
   <text x="200" y="65" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">50 000 pages générées</text>
   <polygon points="100,85 300,85 270,120 130,120" stroke="#f59e0b" stroke-width="1.2" fill="none"/>
-  <text x="200" y="107" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Soumission du plan du site + exploration</text>
+  <text x="200" y="107" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Soumission du plan du site + exploration</text>
   <polygon points="130,125 270,125 250,155 150,155" stroke="#34d399" stroke-width="1.2" fill="none"/>
   <text x="200" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399">30 000 indexés (cible)</text>
   <!-- Side labels -->
@@ -13,6 +13,6 @@
   <text x="355" y="105" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">doublons canoniques</text>
   <path d="M300 100 L350 100" stroke="#f59e0b" stroke-width="1"/>
   <!-- Bottom: lifecycle -->
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#e2e8f0">Cycle de vie : Enrichir &amp;#8594; Index &amp;#8594; Moniteur &amp;#8594; Prendre sa retraite (301/410)</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#e2e8f0">Cycle de vie : Enrichir &amp;#8594; Index &amp;#8594; Moniteur &amp;#8594; Prendre sa retraite (301/410)</text>
   <rect x="50" y="165" width="300" height="22" rx="8" stroke="#a78bfa" stroke-width="1" stroke-dasharray="3"/>
 </svg>

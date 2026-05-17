@@ -12,21 +12,21 @@
   <polygon points="146,72 155,77 146,82" fill="#38bdf8"/>
   <rect x="150" y="35" width="120" height="85" rx="10" fill="#38bdf8" opacity="0.12" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="210" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#38bdf8" font-weight="bold">Planification</text>
-  <text x="210" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"guide des dimensions des armoires"</text>
-  <text x="210" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"comment construire un lit surélevé"</text>
-  <text x="210" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"calculateur de couverture de peinture"</text>
+  <text x="210" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"guide des dimensions des armoires"</text>
+  <text x="210" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"comment construire un lit surélevé"</text>
+  <text x="210" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"calculateur de couverture de peinture"</text>
   <text x="210" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#38bdf8">Guides pratiques, outils</text>
   <!-- Arrow 2 -->
   <line x1="270" y1="77" x2="283" y2="77" stroke="#34d399" stroke-width="2"/>
   <polygon points="281,72 290,77 281,82" fill="#34d399"/>
   <rect x="285" y="35" width="120" height="85" rx="10" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1.2"/>
   <text x="345" y="52" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#34d399" font-weight="bold">Achat</text>
-  <text x="345" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"acheter des armoires shaker blanches"</text>
-  <text x="345" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"Vanité de salle de bain de 60 pouces"</text>
+  <text x="345" y="68" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"acheter des armoires shaker blanches"</text>
+  <text x="345" y="80" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">"Vanité de salle de bain de 60 pouces"</text>
   <text x="345" y="92" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"tapis 8x10"</text>
   <text x="345" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Catégorie + pages produits</text>
   <!-- Room-based navigation below -->
-  <text x="210" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b" font-weight="bold">Structure des catégories basées sur les salles</text>
+  <text x="210" y="145" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b" font-weight="bold">Structure des catégories basées sur les salles</text>
   <rect x="15" y="158" width="70" height="25" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>
   <text x="50" y="175" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Cuisine</text>
   <rect x="95" y="158" width="70" height="25" rx="8" fill="#f59e0b" opacity="0.1" stroke="#f59e0b" stroke-width="1"/>

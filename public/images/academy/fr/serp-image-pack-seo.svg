@@ -3,23 +3,23 @@
   <!-- Image element -->
   <rect x="20" y="38" width="170" height="90" rx="10" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="105" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8">Image du produit</text>
-  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Fichier : red-leather-bag-front.jpg</text>
-  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Alt : "Sac bandoulière en cuir rouge"</text>
-  <text x="30" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Taille : 1200px+ bord le plus long</text>
+  <text x="30" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Fichier : red-leather-bag-front.jpg</text>
+  <text x="30" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Alt : "Sac bandoulière en cuir rouge"</text>
+  <text x="30" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Taille : 1200px+ bord le plus long</text>
   <text x="30" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Format : WebP + srcset</text>
   <text x="30" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Position : au-dessus du pli</text>
   <!-- Connection arrow -->
   <path d="M195 82 L215 82" stroke="#a78bfa" stroke-width="1.2" marker-end="url(#arI)"/>
   <!-- Schema connection -->
   <rect x="220" y="38" width="165" height="90" rx="10" stroke="#a78bfa" stroke-width="1.2"/>
-  <text x="302" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">Lien vers le schéma du produit</text>
+  <text x="302" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#a78bfa">Lien vers le schéma du produit</text>
   <text x="230" y="72" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"image" : "url-to-image"</text>
   <text x="230" y="84" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"name" : "Sac en cuir rouge"</text>
   <text x="230" y="96" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"price" : "149 $ "</text>
   <text x="230" y="108" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"aggregateRating" : 4,8</text>
-  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#34d399">Schéma + image = 2x visibilité</text>
+  <text x="230" y="120" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">Schéma + image = 2x visibilité</text>
   <!-- Appears in -->
-  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Apparaît dans 30 à 40 % des recherches de produits</text>
+  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Apparaît dans 30 à 40 % des recherches de produits</text>
   <!-- Tips -->
   <text x="200" y="168" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#f59e0b">Angles multiples par produit = plus d'opportunités de pack d'images</text>
   <defs>

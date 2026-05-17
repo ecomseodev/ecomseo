@@ -7,26 +7,26 @@
   <line x1="280" y1="86" x2="150" y2="120" stroke="#34d399" stroke-width="1.2"/>
   <rect x="30" y="110" width="240" height="48" rx="12" stroke="#34d399" stroke-width="1.2" fill="#34d399" fill-opacity="0.08"/>
   <text x="150" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#34d399">Productdetailpagina's</text>
-  <text x="150" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Enkele artikelen met toevoegen aan winkelwagen</text>
+  <text x="150" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Enkele artikelen met toevoegen aan winkelwagen</text>
   <!-- Right branch - Category Pages -->
   <line x1="400" y1="86" x2="530" y2="120" stroke="#38bdf8" stroke-width="1.2"/>
   <rect x="410" y="110" width="240" height="48" rx="12" stroke="#38bdf8" stroke-width="1.2" fill="#38bdf8" fill-opacity="0.08"/>
   <text x="530" y="132" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#38bdf8">Categorie-/lijstpagina's</text>
-  <text x="530" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#e2e8f0">Verzamelingen, vergelijkingen, rasters</text>
+  <text x="530" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Verzamelingen, vergelijkingen, rasters</text>
   <!-- Product examples -->
   <rect x="30" y="174" width="240" height="80" rx="10" stroke="#34d399" stroke-width="1" fill="#34d399" fill-opacity="0.04"/>
   <text x="150" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#34d399">Doel met productpagina's:</text>
-  <text x="150" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Exacte productnamen &amp;amp; modelnummers</text>
-  <text x="150" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Voorwaarden op SKU-niveau &amp;amp; specifieke specificaties</text>
-  <text x="150" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"Nike Air Zoom Pegasus 40 dames"</text>
+  <text x="150" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Exacte productnamen &amp;amp; modelnummers</text>
+  <text x="150" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Voorwaarden op SKU-niveau &amp;amp; specifieke specificaties</text>
+  <text x="150" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"Nike Air Zoom Pegasus 40 dames"</text>
   <!-- Category examples -->
   <rect x="410" y="174" width="240" height="80" rx="10" stroke="#38bdf8" stroke-width="1" fill="#38bdf8" fill-opacity="0.04"/>
   <text x="530" y="194" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600" fill="#38bdf8">Target met categoriepagina's:</text>
   <text x="530" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Producttype + brede modifiers</text>
   <text x="530" y="226" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Merk + categoriecombinaties</text>
-  <text x="530" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">"waterdichte wandelschoenen heren"</text>
+  <text x="530" y="240" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">"waterdichte wandelschoenen heren"</text>
   <!-- Cannibalization warning -->
   <rect x="140" y="274" width="400" height="50" rx="12" stroke="#f87171" stroke-width="1.2" fill="#f87171" fill-opacity="0.06"/>
   <text x="340" y="296" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700" fill="#f87171">Kannibalisatierisico</text>
-  <text x="340" y="314" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Wijs één primair trefwoord per pagina toe. Target nooit dezelfde term op beide paginatypen.</text>
+  <text x="340" y="314" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Wijs één primair trefwoord per pagina toe. Target nooit dezelfde term op beide paginatypen.</text>
 </svg>

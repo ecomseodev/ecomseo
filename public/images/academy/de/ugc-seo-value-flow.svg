@@ -26,6 +26,6 @@
   <text x="350" y="184" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#a78bfa">Rich snippets (stars)</text>
   <!-- Bottom stats -->
   <rect x="40" y="200" width="400" height="40" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="4"/>
-  <text x="240" y="218" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#34d399">30 reviews = hundreds of unique words | 15-25% higher CTR with rich snippets</text>
-  <text x="240" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Fortlaufende Einreichungen halten Seiten fuer Google aktuell</text>
+  <text x="240" y="218" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#34d399">30 reviews = hundreds of unique words | 15-25% higher CTR with rich snippets</text>
+  <text x="240" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Fortlaufende Einreichungen halten Seiten fuer Google aktuell</text>
 </svg>

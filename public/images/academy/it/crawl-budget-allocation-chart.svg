@@ -18,8 +18,8 @@
   <rect x="35" y="106" width="100" height="14" rx="6" stroke="#f59e0b" stroke-width="1" fill="none"/>
   <text x="140" y="117" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">15% (ricerca, carrello, ecc.)</text>
   <!-- Fix arrow -->
-  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#34d399">Correzione: blocco degli URL con faccette &amp;#8594; Reindirizzare il budget ai prodotti</text>
+  <text x="200" y="148" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#34d399">Correzione: blocco degli URL con faccette &amp;#8594; Reindirizzare il budget ai prodotti</text>
   <!-- Target -->
   <rect x="80" y="160" width="240" height="28" rx="9" stroke="#34d399" stroke-width="1.2" stroke-dasharray="4"/>
-  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Obiettivo: 60% prodotti | 15% categorie | 25% altro</text>
+  <text x="200" y="178" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Obiettivo: 60% prodotti | 15% categorie | 25% altro</text>
 </svg>

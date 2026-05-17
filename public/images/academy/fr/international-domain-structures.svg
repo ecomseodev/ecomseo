@@ -26,7 +26,7 @@
   <text x="327" y="118" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">- Le pire des deux</text>
   <!-- Recommendation -->
   <rect x="100" y="145" width="200" height="28" rx="9" stroke="#34d399" stroke-width="1.2"/>
-  <text x="200" y="163" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Recommandé pour la plupart des magasins</text>
+  <text x="200" y="163" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#34d399">Recommandé pour la plupart des magasins</text>
   <path d="M200 140 L200 145" stroke="#34d399" stroke-width="1.2"/>
   <text x="200" y="190" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Utiliser le ciblage international de la Search Console pour la géo-association de sous-répertoires</text>
 </svg>

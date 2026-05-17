@@ -46,15 +46,15 @@
   <!-- Link sources for Product A -->
   <rect x="380" y="195" width="270" height="90" rx="10" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="515" y="214" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Sources de liens du produit A (12 au total)</text>
-  <text x="400" y="232" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Section en vedette de la page d'accueil</text>
-  <text x="400" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Page catégorie + 2 sections produits associées</text>
-  <text x="400" y="260" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">3 articles de blog + guide d'achat</text>
-  <text x="400" y="274" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Fil d'Ariane + navigation (4 liens)</text>
+  <text x="400" y="232" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Section en vedette de la page d'accueil</text>
+  <text x="400" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Page catégorie + 2 sections produits associées</text>
+  <text x="400" y="260" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">3 articles de blog + guide d'achat</text>
+  <text x="400" y="274" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Fil d'Ariane + navigation (4 liens)</text>
 
   <!-- Arrow from list to product A -->
   <line x1="380" y1="240" x2="150" y2="225" stroke="#34d399" stroke-width="0.8" stroke-dasharray="4,3"/>
 
   <!-- Bottom comparison -->
   <rect x="80" y="300" width="520" height="28" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
-  <text x="340" y="318" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Le produit A se classe en troisième position pour son mot-clé cible |  Le produit B se classe à la 38e place</text>
+  <text x="340" y="318" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Le produit A se classe en troisième position pour son mot-clé cible |  Le produit B se classe à la 38e place</text>
 </svg>

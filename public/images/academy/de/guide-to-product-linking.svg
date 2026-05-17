@@ -10,7 +10,7 @@
   <rect x="280" y="60" width="170" height="100" rx="10" fill="#34d399" opacity="0.15" stroke="#34d399" stroke-width="1.2"/>
   <text x="365" y="90" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">Produktseite</text>
   <text x="365" y="110" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Abschnitt „Vorgestellt in“.</text>
-  <text x="365" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">„Nicht sicher? Lesen Sie unsere</text>
+  <text x="365" y="124" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">„Nicht sicher? Lesen Sie unsere</text>
   <text x="365" y="138" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#e2e8f0">Einkaufsführer“ CTA</text>
   <!-- Arrows -->
   <line x1="200" y1="95" x2="280" y2="95" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrowB)"/>
@@ -21,6 +21,6 @@
     <marker id="arrowB" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8Z" fill="#38bdf8"/></marker>
     <marker id="arrowG" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8Z" fill="#34d399"/></marker>
   </defs>
-  <text x="240" y="195" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f59e0b">Ziel: 15–25 % Klickrate vom Ratgeber zum Produkt</text>
-  <text x="240" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">Bidirektionale Links erzeugen eine Content-Schleife, die Google belohnt</text>
+  <text x="240" y="195" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f59e0b">Ziel: 15–25 % Klickrate vom Ratgeber zum Produkt</text>
+  <text x="240" y="212" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Bidirektionale Links erzeugen eine Content-Schleife, die Google belohnt</text>
 </svg>

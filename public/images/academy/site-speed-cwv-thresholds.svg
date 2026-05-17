@@ -63,5 +63,5 @@
   <text x="550" y="210" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Unexpected layout jumps</text>
 
   <!-- Bottom note -->
-  <text x="340" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" fill="#e2e8f0">All three metrics must pass for good page experience signal</text>
+  <text x="340" y="248" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">All three metrics must pass for good page experience signal</text>
 </svg>

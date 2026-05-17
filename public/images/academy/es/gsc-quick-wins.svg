@@ -3,7 +3,7 @@
   <text x="340" y="24" text-anchor="middle" fill="#a78bfa" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.3" font-weight="700">Encontrar ganancias rápidas en Google Search Console</text>
 
   <!-- Position scale -->
-  <text x="340" y="52" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Posición en los resultados de búsqueda de Google</text>
+  <text x="340" y="52" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Posición en los resultados de búsqueda de Google</text>
 
   <!-- Position bar -->
   <rect x="60" y="60" width="560" height="24" rx="8" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
@@ -36,8 +36,8 @@
   <!-- Zone: 5-10 -->
   <rect x="225" y="100" width="210" height="70" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="330" y="118" text-anchor="middle" fill="#38bdf8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Posiciones 5-10: victorias rápidas</text>
-  <text x="330" y="134" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">CTR: 3-5% (debajo del pliegue)</text>
-  <text x="330" y="150" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Pequeño aumento de relevancia = top 3</text>
+  <text x="330" y="134" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">CTR: 3-5% (debajo del pliegue)</text>
+  <text x="330" y="150" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Pequeño aumento de relevancia = top 3</text>
   <text x="330" y="162" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Solución: profundidad del contenido + etiquetas de título</text>
 
   <!-- Zone: 11-20 -->
@@ -53,7 +53,7 @@
   <text x="340" y="230" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Posición 7 = 240 clics/mes</text>
   <text x="340" y="230" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" dx="160">&amp;#8594;</text>
   <text x="340" y="230" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" dx="240" letter-spacing="0.3" font-weight="600">Posición 3 = 1200 clics/mes</text>
-  <text x="340" y="244" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">5 veces más tráfico con la misma palabra clave</text>
+  <text x="340" y="244" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">5 veces más tráfico con la misma palabra clave</text>
 
   <!-- Bottom note -->
   <text x="340" y="280" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Filtre las consultas de GSC por las posiciones 5 a 20 para encontrar las oportunidades de optimización de mayor impacto</text>

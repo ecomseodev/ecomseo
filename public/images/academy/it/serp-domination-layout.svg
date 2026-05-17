@@ -26,5 +26,5 @@
   <rect x="75" y="182" width="230" height="18" rx="7" stroke="#94a3b8" stroke-width="1" stroke-dasharray="2"/>
   <text x="190" y="195" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">I concorrenti hanno spinto sotto la piega</text>
   <!-- Total -->
-  <text x="190" y="216" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#34d399">Combinato: 23-25% di tutti i clic rispetto al 12% del solo biologico</text>
+  <text x="190" y="216" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="bold" fill="#34d399">Combinato: 23-25% di tutti i clic rispetto al 12% del solo biologico</text>
 </svg>

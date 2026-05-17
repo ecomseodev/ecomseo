@@ -17,7 +17,7 @@
   <!-- Homepage -->
   <rect x="250" y="78" width="180" height="50" rx="12" fill="#1e1e3a" stroke="#34d399" stroke-width="2"/>
   <text x="340" y="100" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Startpagina</text>
-  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Pagina met de hoogste autoriteit</text>
+  <text x="340" y="116" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Pagina met de hoogste autoriteit</text>
 
   <!-- Navigation links down -->
   <line x1="280" y1="128" x2="140" y2="180" stroke="#34d399" stroke-width="1.2"/>
@@ -50,7 +50,7 @@
   <text x="585" y="86" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Beschrijvend H1</text>
   <text x="585" y="98" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Inleiding van 100-200 woorden</text>
   <text x="585" y="110" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Categorieblokken met links</text>
-  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Merksectie van 200-400 woorden</text>
+  <text x="585" y="122" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Merksectie van 200-400 woorden</text>
 
   <!-- Warning box -->
   <rect x="120" y="250" width="440" height="36" rx="9" fill="#1a1a2e" stroke="#f87171" stroke-width="1"/>

@@ -18,31 +18,31 @@
 
   <!-- Row 2: Content -->
   <rect x="60" y="112" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="200" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Contenuto unico e approfondito per pagina</text>
+  <text x="200" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Contenuto unico e approfondito per pagina</text>
 
   <rect x="360" y="112" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Descrizioni condivise del produttore</text>
+  <text x="500" y="132" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Descrizioni condivise del produttore</text>
 
   <!-- Row 3: Updates -->
   <rect x="60" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Sempreverde, cambia raramente</text>
 
   <rect x="360" y="154" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">L'inventario ruota settimanalmente/mensilmente</text>
+  <text x="500" y="174" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">L'inventario ruota settimanalmente/mensilmente</text>
 
   <!-- Row 4: Technical -->
   <rect x="60" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
   <text x="200" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Struttura URL semplice</text>
 
   <rect x="360" y="196" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Filtri, varianti, faccette = proliferazione URL</text>
+  <text x="500" y="216" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Filtri, varianti, faccette = proliferazione URL</text>
 
   <!-- Row 5: Intent -->
   <rect x="60" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#38bdf8" stroke-width="1"/>
-  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Intento principalmente informativo</text>
+  <text x="200" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Intento principalmente informativo</text>
 
   <rect x="360" y="238" width="280" height="32" rx="10" fill="#1a1a2e" stroke="#f59e0b" stroke-width="1"/>
-  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Misto: transazionale + commerciale + info</text>
+  <text x="500" y="258" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Misto: transazionale + commerciale + info</text>
 
   <!-- Bottom note -->
   <text x="340" y="300" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">La SEO ecommerce richiede strategie diverse per scala, duplicazione e complessità tecnica</text>

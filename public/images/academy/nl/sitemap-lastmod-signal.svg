@@ -17,7 +17,7 @@
 
   <rect x="50" y="176" width="250" height="36" rx="8" stroke="#34d399" stroke-width="1" fill="none"/>
   <text x="175" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#34d399">Resultaat: 30% snellere indexering</text>
-  <text x="175" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Google vertrouwt en gebruikt het signaal</text>
+  <text x="175" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Google vertrouwt en gebruikt het signaal</text>
 
   <!-- Incorrect -->
   <rect x="360" y="48" width="290" height="180" rx="10" stroke="#f87171" stroke-width="1.2" fill="none"/>
@@ -34,5 +34,5 @@
 
   <rect x="380" y="176" width="250" height="36" rx="8" stroke="#f87171" stroke-width="1" fill="none"/>
   <text x="505" y="193" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" letter-spacing="0.3" font-weight="700" fill="#f87171">Resultaat: Signaal vernietigd</text>
-  <text x="505" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Google negeert lastmod volledig</text>
+  <text x="505" y="206" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#e2e8f0">Google negeert lastmod volledig</text>
 </svg>

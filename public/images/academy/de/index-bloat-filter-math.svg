@@ -27,16 +27,16 @@
 
   <!-- Multiplication -->
   <text x="340" y="165" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">10 x 8 x 5 x 4 = 1.600 Filter-URLs</text>
-  <text x="340" y="180" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">von nur EINER Kategorie (ohne Mehrfachauswahl-Kombinationen)</text>
+  <text x="340" y="180" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">von nur EINER Kategorie (ohne Mehrfachauswahl-Kombinationen)</text>
 
   <!-- Bottom comparison -->
   <rect x="60" y="200" width="250" height="50" rx="10" fill="#f87171" fill-opacity="0.08" stroke="#f87171" stroke-width="1"/>
   <text x="185" y="221" text-anchor="middle" fill="#f87171" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Ohne Kontrolle</text>
-  <text x="185" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">1.600+ wertlose URLs indexiert</text>
+  <text x="185" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">1.600+ wertlose URLs indexiert</text>
 
   <rect x="370" y="200" width="250" height="50" rx="10" fill="#34d399" fill-opacity="0.08" stroke="#34d399" stroke-width="1"/>
   <text x="495" y="221" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">Mit noindex + canonical</text>
-  <text x="495" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Nur 3–5 Hoch-Nachfrage-Filter indexiert</text>
+  <text x="495" y="240" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Nur 3–5 Hoch-Nachfrage-Filter indexiert</text>
 
   <text x="340" y="272" text-anchor="middle" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">robots.txt, noindex und canonical Tags verwenden, um zu kontrollieren, welche Filterkombinationen Google indexiert</text>
 </svg>

@@ -46,15 +46,15 @@
   <!-- Link sources for Producto A -->
   <rect x="380" y="195" width="270" height="90" rx="10" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
   <text x="515" y="214" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">Fuentes de enlace del producto A (12 en total)</text>
-  <text x="400" y="232" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Sección destacada de la página de inicio</text>
-  <text x="400" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Página de categoría + 2 secciones de productos relacionados</text>
-  <text x="400" y="260" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">3 publicaciones de blog + guía de compra</text>
-  <text x="400" y="274" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">Migas de pan + navegación (4 enlaces)</text>
+  <text x="400" y="232" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Sección destacada de la página de inicio</text>
+  <text x="400" y="246" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Página de categoría + 2 secciones de productos relacionados</text>
+  <text x="400" y="260" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">3 publicaciones de blog + guía de compra</text>
+  <text x="400" y="274" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Migas de pan + navegación (4 enlaces)</text>
 
   <!-- Arrow from list to product A -->
   <line x1="380" y1="240" x2="150" y2="225" stroke="#34d399" stroke-width="0.8" stroke-dasharray="4,3"/>
 
   <!-- Bottom comparison -->
   <rect x="80" y="300" width="520" height="28" rx="9" fill="#1a1a2e" stroke="#334155" stroke-width="1"/>
-  <text x="340" y="318" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">El producto A ocupa la posición número 3 para su palabra clave objetivo |  El producto B ocupa la posición n.º 38</text>
+  <text x="340" y="318" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">El producto A ocupa la posición número 3 para su palabra clave objetivo |  El producto B ocupa la posición n.º 38</text>
 </svg>

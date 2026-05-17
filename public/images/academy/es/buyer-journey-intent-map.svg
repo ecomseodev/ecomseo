@@ -19,7 +19,7 @@
   <text x="345" y="74" text-anchor="middle" fill="#f59e0b" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="700">Consideración</text>
   <text x="345" y="92" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">"el mejor algodón egipcio</text>
   <text x="345" y="104" text-anchor="middle" fill="#e2e8f0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9">hojas"</text>
-  <text x="345" y="124" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8">Categoría y páginas de comparación</text>
+  <text x="345" y="124" text-anchor="middle" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Categoría y páginas de comparación</text>
 
   <!-- Arrow 2 -->
   <line x1="442" y1="94" x2="462" y2="94" stroke="#475569" stroke-width="1.2"/>
