@@ -20,7 +20,7 @@
 
   <!-- Price + CTA -->
   <rect x="330" y="96" width="170" height="28" rx="8" fill="#1e1e3a" stroke="#34d399" stroke-width="1"/>
-  <text x="415" y="114" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" letter-spacing="0.3" font-weight="600">$ 149,99 |  Aggiungi al carrello</text>
+  <text x="415" y="114" text-anchor="middle" fill="#34d399" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" letter-spacing="0.3" font-weight="600">$ 149,99 |  Aggiungi al carrello</text>
 
   <!-- Trust signals -->
   <text x="340" y="140" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7">Spedizione gratuita |  Resi entro 30 giorni |  In magazzino</text>

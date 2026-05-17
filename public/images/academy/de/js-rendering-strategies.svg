@@ -26,7 +26,7 @@
   <text x="367" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#a78bfa">ISR</text>
   <text x="367" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Statisch + periodisch</text>
   <text x="367" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Verlängerung</text>
-  <text x="367" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#a78bfa">Das Beste von beidem</text>
+  <text x="367" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#a78bfa">Das Beste von beidem</text>
   <text x="367" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Next.js/Nuxt</text>
   <!-- Recommendation -->
   <rect x="30" y="140" width="360" height="60" rx="10" stroke="#34d399" stroke-width="1" stroke-dasharray="4"/>

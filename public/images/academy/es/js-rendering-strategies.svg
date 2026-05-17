@@ -6,7 +6,7 @@
   <text x="57" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Shell HTML vacío</text>
   <text x="57" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">JS construye página</text>
   <text x="57" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#f87171">Lo peor para SEO</text>
-  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#94a3b8">Retraso de días-semanas</text>
+  <text x="57" y="112" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" fill="#94a3b8">Retraso de días-semanas</text>
   <!-- SSR -->
   <rect x="115" y="38" width="95" height="80" rx="10" stroke="#34d399" stroke-width="1.2"/>
   <text x="162" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#34d399">RSS</text>
