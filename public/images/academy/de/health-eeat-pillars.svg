@@ -24,7 +24,7 @@
   <text x="260" y="127" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#34d399">Von Experten überprüfte Quellen</text>
   <rect x="315" y="35" width="90" height="100" rx="10" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="360" y="55" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#f59e0b" font-weight="bold">Vertrauen</text>
-  <text x="360" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Medizinischer Haftungsausschluss</text>
+  <text x="360" y="70" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#e2e8f0">Medizinischer Haftungsausschluss</text>
   <text x="360" y="82" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">Konforme Ansprüche</text>
   <text x="360" y="94" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Klare Rückgabebedingungen</text>
   <text x="360" y="106" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">Zertifizierungen angezeigt</text>

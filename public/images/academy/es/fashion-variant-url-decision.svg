@@ -11,10 +11,10 @@
   <line x1="60" y1="108" x2="40" y2="130" stroke="#34d399" stroke-width="1"/>
   <line x1="140" y1="108" x2="155" y2="130" stroke="#f59e0b" stroke-width="1"/>
   <rect x="5" y="130" width="75" height="40" rx="8" fill="#34d399" opacity="0.12" stroke="#34d399" stroke-width="1"/>
-  <text x="42" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#34d399" font-weight="bold">¿Tiene volumen de búsqueda?</text>
+  <text x="42" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#34d399" font-weight="bold">¿Tiene volumen de búsqueda?</text>
   <text x="42" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="8" fill="#e2e8f0">URL propia + fotos</text>
   <rect x="115" y="130" width="75" height="40" rx="8" fill="#f59e0b" opacity="0.12" stroke="#f59e0b" stroke-width="1"/>
-  <text x="152" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#f59e0b" font-weight="bold">¿No hay volumen de búsqueda?</text>
+  <text x="152" y="147" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="5" fill="#f59e0b" font-weight="bold">¿No hay volumen de búsqueda?</text>
   <text x="152" y="162" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="6" fill="#e2e8f0">selector de muestras</text>
   <!-- Branch: Talla -->
   <line x1="250" y1="58" x2="320" y2="80" stroke="#f87171" stroke-width="1.2"/>
