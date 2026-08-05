@@ -34,6 +34,8 @@ PostHog notes, in case any of this looks odd later:
   profiles, which keeps billing sane on a high-traffic pSEO site.
 - Clarity sessions are tagged with the PostHog `distinct_id` (custom tag
   `posthog_distinct_id`) so a session in one tool can be found in the other.
+- `disable_session_recording: true` — **Clarity owns session replay**, PostHog
+  owns events/funnels/heatmaps. Two recorders on one page is wasted weight.
 - **posthog-js drops all events when it detects a bot** (`navigator.webdriver`,
   headless UA, `userAgentData` brands). Playwright/Lighthouse will look like
   they aren't tracking. That's correct behaviour, not a bug.

@@ -26,6 +26,10 @@ if (typeof window !== "undefined" && POSTHOG_KEY && !posthog.__loaded) {
     // Anonymous visitors stay anonymous — no person profile until identify().
     person_profiles: "identified_only",
     capture_pageview: false,
+    // Clarity owns session replay. Running both recorders doubles the
+    // client-side weight for the same footage, and CWV is the product here.
+    // PostHog keeps events, funnels and heatmaps.
+    disable_session_recording: true,
   });
   // The script-tag install exposes this automatically; the npm module does
   // not. Needed for the PostHog toolbar, GTM tags and console debugging.
