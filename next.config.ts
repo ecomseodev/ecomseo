@@ -3,6 +3,9 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   compress: true,
   poweredByHeader: false, // Remove X-Powered-By: Next.js header
+  // Required by the PostHog /ingest proxy: without it Next 308-redirects
+  // trailing-slash variants of the ingest endpoints and events are lost.
+  skipTrailingSlashRedirect: true,
   typescript: { ignoreBuildErrors: true },
   eslint: { ignoreDuringBuilds: true },
   experimental: {
@@ -111,6 +114,18 @@ const nextConfig: NextConfig = {
   async rewrites() {
     return {
       beforeFiles: [
+        // PostHog reverse proxy (EU cloud). Serving the SDK + ingest from our
+        // own origin stops ad blockers dropping events. MUST stay above the
+        // catch-all locale rewrite below, which would otherwise send
+        // /ingest/* to /en/ingest/*. Static assets sit on a separate host.
+        {
+          source: "/ingest/static/:path*",
+          destination: "https://eu-assets.i.posthog.com/static/:path*",
+        },
+        {
+          source: "/ingest/:path*",
+          destination: "https://eu.i.posthog.com/:path*",
+        },
         // Fallback locale rewrite: if Edge middleware does not execute,
         // route non-locale-prefixed paths to the default locale (/en).
         {
@@ -131,7 +146,7 @@ const nextConfig: NextConfig = {
           // Negative lookahead matches WHOLE path segments only — "demo" must not
           // be treated as locale "de" because it starts with "de".
           source:
-            "/:path((?!(?:en|de|fr|es|it|nl|_next|api|favicon\\.ico|sitemap[\\w-]*\\.xml|robots\\.txt|images|fonts|videos)(?:/|$)).*)",
+            "/:path((?!(?:en|de|fr|es|it|nl|_next|api|ingest|favicon\\.ico|sitemap[\\w-]*\\.xml|robots\\.txt|images|fonts|videos)(?:/|$)).*)",
           destination: "/en/:path",
         },
       ],

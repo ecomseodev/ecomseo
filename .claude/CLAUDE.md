@@ -7,7 +7,36 @@ Marketing + content site for EcomSEO, the premium eCom SEO agency. Big programma
 - Tailwind CSS · Framer Motion · DM Sans (@fontsource-variable)
 - Playwright + html-to-image (SVG diagram / tool-preview capture scripts)
 - Deployed on Vercel. GitHub: `ecomseodev/ecomseo` (public). Default branch `main`.
-- No database, no env vars. `src/` uses zero `process.env`. Content is code (TS files).
+- No database. Content is code (TS files).
+- One env var: `NEXT_PUBLIC_POSTHOG_KEY` (PostHog EU project token). Set it in the
+  Vercel dashboard for Production/Preview/Development, and in `.env.local` for
+  local dev. If unset, PostHog silently no-ops — nothing else in `src/` reads env.
+
+## Analytics
+Three tools, all loaded from `src/app/layout.tsx`:
+- **GTM** (`GTM-PWFC4VSN`) — inline snippet, `afterInteractive`.
+- **Microsoft Clarity** (`xxgvsjy2zs`) — inline snippet, gated on the
+  `CLARITY_PROJECT_ID` const at the top of `layout.tsx`. Blank it to disable.
+- **PostHog** (EU cloud) — `src/components/analytics/PostHogAnalytics.tsx`.
+
+PostHog notes, in case any of this looks odd later:
+- `posthog.init()` runs at **module scope**, not in a `useEffect`. React fires
+  child effects before parent effects, so an effect-based init loses the first
+  `$pageview` — the child's `capture()` runs first and is dropped.
+- Traffic is proxied through **`/ingest`** via `beforeFiles` rewrites in
+  `next.config.ts`, so ad blockers don't eat events. Those rewrites MUST stay
+  above the catch-all locale rewrite, and `ingest` is in its negative lookahead.
+  `skipTrailingSlashRedirect: true` is required or ingest POSTs get 308'd away.
+- `capture_pageview: false` — App Router has no page load between routes, so
+  pageviews are captured manually in `PageViewTracker` (needs the `Suspense`
+  wrapper because it reads `useSearchParams`).
+- `person_profiles: "identified_only"` — anonymous visitors don't create person
+  profiles, which keeps billing sane on a high-traffic pSEO site.
+- Clarity sessions are tagged with the PostHog `distinct_id` (custom tag
+  `posthog_distinct_id`) so a session in one tool can be found in the other.
+- **posthog-js drops all events when it detects a bot** (`navigator.webdriver`,
+  headless UA, `userAgentData` brands). Playwright/Lighthouse will look like
+  they aren't tracking. That's correct behaviour, not a bug.
 
 ## Commands
 - `npm run dev` — local dev (localhost:3000)

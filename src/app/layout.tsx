@@ -3,6 +3,7 @@ import Script from "next/script";
 import { headers } from "next/headers";
 import { DM_Sans, Figtree } from "next/font/google";
 import VideoAutoUnmute from "@/components/ui/VideoAutoUnmute";
+import PostHogAnalytics from "@/components/analytics/PostHogAnalytics";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -17,9 +18,9 @@ const figtree = Figtree({
   display: "swap",
 });
 
-// Microsoft Clarity project ID. Paste the 10-char id from Clarity → Settings → Overview.
-// Leave empty to keep Clarity disabled (no script injected).
-const CLARITY_PROJECT_ID = "";
+// Microsoft Clarity project ID (Clarity → Settings → Overview).
+// Leave empty to disable Clarity (no script injected).
+const CLARITY_PROJECT_ID = "xxgvsjy2zs";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://ecomseo.co"),
@@ -96,6 +97,9 @@ export default async function RootLayout({
             Browsers block audio autoplay on cold load; this is the earliest
             we can legally flip muted=false. */}
         <VideoAutoUnmute />
+        {/* PostHog — inits client-side, proxied through /ingest.
+            No-ops unless NEXT_PUBLIC_POSTHOG_KEY is set. */}
+        <PostHogAnalytics />
         {/* GTM loaded after page interactive - not render-blocking */}
         <Script
           id="gtm"
