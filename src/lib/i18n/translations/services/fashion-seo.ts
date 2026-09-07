@@ -267,7 +267,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian leads SEO strategy for our fashion clients. 8 years of ecommerce SEO with deep experience in fashion, luxury, and apparel. He builds the seasonal and evergreen strategies that drive organic revenue for fashion brands.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -599,7 +599,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian leitet alle Fashion-SEO-Projekte strategisch. Mit \u00fcber 8 Jahren E-Commerce-SEO-Erfahrung und tiefem Know-how in Mode, Luxus und Bekleidung verbindet er Wachstumsstrategie mit technischer SEO-Innovation f\u00fcr saisonalen und Evergreen-organischen Umsatz.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -827,7 +827,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Strat\u00e9gie & Innovation",
           bio: "Fabian supervise tous les projets clients. Plus de 8 ans d\u2019exp\u00e9rience en SEO e-commerce avec une expertise approfondie dans la mode, le luxe et l\u2019habillement. Il allie strat\u00e9gie de croissance et innovation SEO technique pour g\u00e9n\u00e9rer du CA organique saisonnier et evergreen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1028,7 +1028,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovaci\u00f3n",
           bio: "Fabian dirige la estrategia de todos los proyectos con clientes. M\u00e1s de 8 a\u00f1os de experiencia en SEO e-commerce con profunda experiencia en moda, lujo y ropa. Combina estrategia de crecimiento con innovaci\u00f3n SEO t\u00e9cnica para generar ingresos org\u00e1nicos estacionales y evergreen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1229,7 +1229,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategia e Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. Oltre 8 anni di esperienza in SEO e-commerce con profonda expertise nella moda, lusso e abbigliamento. Unisce strategia di crescita e innovazione SEO tecnica per generare fatturato organico stagionale ed evergreen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1430,7 +1430,7 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian stuurt de strategische richting van alle klantprojecten. Met meer dan 8 jaar e-commerce SEO-ervaring en diepgaande expertise in mode, luxe en kleding combineert hij groeistrategie met technische SEO-innovatie voor seizoensgebonden en evergreen organische omzet.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

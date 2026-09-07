@@ -198,7 +198,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian leads Amazon SEO strategy. He has worked across multiple marketplaces for 8+ years, and brings both growth strategy and deep A9 algorithm knowledge to every Amazon engagement.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -488,7 +488,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian steuert alle Amazon-SEO-Projekte strategisch. Er bringt 8+ Jahre E-Commerce-SEO-Erfahrung \u00fcber mehrere Marktpl\u00e4tze mit und verbindet Wachstumsstrategie mit tiefem Amazon-Algorithmus-Wissen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -778,7 +778,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Strat\u00e9gie & Innovation",
           bio: "Fabian pilote la strat\u00e9gie SEO Amazon de chaque client. 8+ ans d\u2019exp\u00e9rience en SEO e-commerce sur de multiples marketplaces. Il allie strat\u00e9gie de croissance et connaissance approfondie de l\u2019algorithme Amazon.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1068,7 +1068,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovaci\u00f3n",
           bio: "Fabian dirige la estrategia de todos los proyectos de SEO Amazon. 8+ a\u00f1os de experiencia en SEO ecommerce en m\u00faltiples marketplaces. Combina estrategia de crecimiento con conocimiento profundo del algoritmo de Amazon.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1358,7 +1358,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto SEO Amazon. 8+ anni di esperienza in SEO e-commerce su molteplici marketplace. Unisce strategia di crescita e conoscenza approfondita dell\u2019algoritmo Amazon.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1648,7 +1648,7 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle Amazon SEO-projecten. Met 8+ jaar e-commerce SEO-ervaring op meerdere marketplaces combineert hij groeistrategie met diepgaande kennis van het Amazon-algoritme.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

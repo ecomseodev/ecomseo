@@ -228,7 +228,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian leads SEO strategy for our toy and game clients. 8 years of ecommerce SEO with deep experience in seasonal commerce. He builds the seasonal content calendars and Q4 strategies that make holiday seasons count.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -572,7 +572,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian steuert alle Spielzeug-SEO-Projekte strategisch. Er bringt 8+ Jahre E-Commerce-SEO-Erfahrung mit, darunter tiefgreifende Expertise in saisonalem Commerce wie Spielzeug-, Spiele- und Geschenkvertikalen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -869,7 +869,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian dirige tous les projets clients. 8+ ans d'expérience en SEO e-commerce avec expertise approfondie en commerce saisonnier.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1120,7 +1120,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian lidera la estrategia de todos los proyectos. 8+ a\u00f1os de experiencia en SEO ecommerce con experiencia profunda en comercio estacional.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1360,7 +1360,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. 8+ anni di esperienza SEO e-commerce con expertise in commercio stagionale.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1600,7 +1600,7 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting voor alle klantprojecten. Met 8+ jaar e-commerce SEO-ervaring heeft hij diepgaande expertise in seizoensgebonden commerce.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

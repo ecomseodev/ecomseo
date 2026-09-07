@@ -508,7 +508,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Meet the full team",
     cta: "Get a Free Audit from Fabian",
     members: [
-      { name: "Fabian van Til", role: "CEO at EcomSEO, Brand Owner" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Outreach & SEO Expert" },
       { name: "Martinijan Trajkovski", role: "SEO Strategies & Head of Link-Building" },
     ],
@@ -520,7 +520,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Das gesamte Team kennenlernen",
     cta: "Mit Fabian in Kontakt treten",
     members: [
-      { name: "Fabian van Til", role: "CEO bei EcomSEO, Markeninhaber" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Outreach- & SEO-Experte" },
       { name: "Martinijan Trajkovski", role: "SEO-Strategien & Leiter Linkaufbau" },
     ],
@@ -532,7 +532,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Rencontrer toute l'équipe",
     cta: "Contacter Fabian",
     members: [
-      { name: "Fabian van Til", role: "CEO d\u2019EcomSEO, Propriétaire de marque" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Expert Outreach & SEO" },
       { name: "Martinijan Trajkovski", role: "Stratégies SEO & Responsable Link-Building" },
     ],
@@ -544,7 +544,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Conocer al equipo completo",
     cta: "Contactar con Fabian",
     members: [
-      { name: "Fabian van Til", role: "CEO de EcomSEO, Propietario de marca" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Experto en Outreach y SEO" },
       { name: "Martinijan Trajkovski", role: "Estrategias SEO y Jefe de Link-Building" },
     ],
@@ -556,7 +556,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Conosci tutto il team",
     cta: "Contatta Fabian",
     members: [
-      { name: "Fabian van Til", role: "CEO di EcomSEO, Brand Owner" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Esperto di Outreach e SEO" },
       { name: "Martinijan Trajkovski", role: "Strategie SEO e Responsabile Link-Building" },
     ],
@@ -568,7 +568,7 @@ export const teamT: Record<Locale, {
     teamPageLink: "Ontmoet het volledige team",
     cta: "Neem contact op met Fabian",
     members: [
-      { name: "Fabian van Til", role: "CEO bij EcomSEO, Merkeigenaar" },
+      { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
       { name: "Gjorgi Jovev", role: "Outreach & SEO Expert" },
       { name: "Martinijan Trajkovski", role: "SEO-strategieën & Hoofd Linkbuilding" },
     ],

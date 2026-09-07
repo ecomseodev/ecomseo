@@ -193,7 +193,7 @@ export const ecommerceSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian runs the SEO strategy for every client. 8 years of ecommerce-only SEO across fashion, health, beauty, toys, and electronics. He built the Commerce Growth Framework\u2122 that has driven $12M+ in organic revenue for clients.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

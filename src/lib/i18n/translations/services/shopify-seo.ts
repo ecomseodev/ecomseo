@@ -285,7 +285,7 @@ export const shopifySeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian runs the SEO strategy for every Shopify client. 8 years of ecommerce-only experience across fashion, health, beauty, and home goods. He decides what gets fixed first and what the roadmap looks like.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

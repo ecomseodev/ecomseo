@@ -169,7 +169,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian owns the keyword strategy for every engagement. 8 years of ecommerce-only SEO means he knows which keywords actually drive purchases vs. which just look good in a report.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -393,7 +393,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian verantwortet die strategische Ausrichtung aller Keyword-Projekte. Mit 8+ Jahren E-Commerce-SEO-Erfahrung entwickelt er Keyword-Strategien, die auf Umsatzziele und Marktpositionierung einzahlen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -617,7 +617,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian pilote la stratégie mots-clés de chaque client. 8+ ans d\u2019expérience en SEO e-commerce. Il conçoit des stratégies de mots-clés alignées sur les objectifs de CA et le positionnement marché.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -841,7 +841,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian dirige la estrategia de todos los proyectos. 8+ a\u00f1os de experiencia en SEO ecommerce. Dise\u00f1a estrategias de keywords alineadas con objetivos de ingresos y posicionamiento de mercado.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1065,7 +1065,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto. 8+ anni di esperienza in SEO e-commerce. Progetta strategie keyword allineate agli obiettivi di fatturato e posizionamento di mercato.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1289,7 +1289,7 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle klantprojecten. Met 8+ jaar e-commerce SEO-ervaring ontwerpt hij zoekwoordstrategieën die aansluiten bij omzetdoelen en marktpositionering.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

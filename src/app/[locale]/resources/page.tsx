@@ -113,7 +113,7 @@ export default async function ResourcesPage({ params }: { params: Promise<{ loca
                   </svg>
                 </Link>
                 <Link
-                  href="https://x.com/fabianecomseo"
+                  href="https://x.com/til_fabian"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-body hover:text-heading transition-colors"
@@ -128,7 +128,7 @@ export default async function ResourcesPage({ params }: { params: Promise<{ loca
                   </svg>
                 </Link>
                 <Link
-                  href="https://www.instagram.com/fabianvantil/"
+                  href="https://www.instagram.com/fabianvantil"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-body hover:text-heading transition-colors"

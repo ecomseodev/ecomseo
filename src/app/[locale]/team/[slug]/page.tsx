@@ -4,7 +4,11 @@ import TeamMemberPage from "./TeamMemberPage";
 import { generateAlternates } from "@/lib/i18n/metadata";
 import { type Locale, ogLocaleMap, BASE_URL, publicLocalizedUrl } from "@/lib/i18n/config";
 import JsonLd from "@/components/JsonLd";
-import { personJsonLd, breadcrumbJsonLd } from "@/lib/jsonLd";
+import {
+  personJsonLd,
+  fabianPersonJsonLd,
+  breadcrumbJsonLd,
+} from "@/lib/jsonLd";
 import { teamMemberI18n } from "@/lib/i18n/translations/teamMemberData";
 
 export const revalidate = 86400;
@@ -55,12 +59,12 @@ const teamMembers: Record<string, TeamMember> = {
   "fabian-van-til": {
     slug: "fabian-van-til",
     name: "Fabian van Til",
-    role: "Strategy & Innovation",
+    role: "Entrepreneur and organic growth strategist",
     tagline:
       "A Passionate Entrepreneur, specialising in ecommerce marketing.",
     image:
       "/images/framer/fabian-van-til-new.jpeg",
-    bio: "Fabian entered the e-commerce space in 2020. Two years later he and a partner launched a Google-marketing agency, which they swiftly refocused into an SEO firm. After selling his stake to his co-founder, Fabian doubled down on e-commerce. In 2024 he and his brother introduced their own brand and co-founded EcomSEO, an agency dedicated to shattering the norms of traditional marketing through transparent, results-oriented partnerships.",
+    bio: "Fabian entered the e-commerce space in 2020. Two years later he and a partner launched a Google-marketing agency, which they swiftly refocused into an SEO firm. After selling his stake to his co-founder, Fabian doubled down on e-commerce. In 2023 he founded EcomSEO, an agency dedicated to shattering the norms of traditional marketing through transparent, results-oriented partnerships, and in 2024 he and his brother launched their own brand.",
     skills: [
       "Intent Matching",
       "Branding",
@@ -86,11 +90,16 @@ const teamMembers: Record<string, TeamMember> = {
         platform: "YouTube",
         href: "https://www.youtube.com/@fabian-ecomseo",
       },
-      { platform: "X", href: "https://x.com/fabianecomseo" },
+      { platform: "X", href: "https://x.com/til_fabian" },
+      {
+        platform: "LinkedIn",
+        href: "https://www.linkedin.com/in/fabian-van-til",
+      },
       {
         platform: "Instagram",
-        href: "https://www.instagram.com/fabianvantil/",
+        href: "https://www.instagram.com/fabianvantil",
       },
+      { platform: "Website", href: "https://fabianvantil.com" },
     ],
     // youtubeVideo: "https://www.youtube.com/embed/_3vIp9O6-EM",
   },
@@ -251,11 +260,11 @@ export async function generateMetadata({
   if (!member) return {};
 
   return {
-    title: `${member.name} - ${member.role} | EcomSEO`,
+    title: `${member.name} - ${member.role}`,
     description: member.tagline,
     alternates: generateAlternates(`/team/${slug}`, locale as Locale),
     openGraph: {
-      title: `${member.name} - ${member.role} | EcomSEO`,
+      title: `${member.name} - ${member.role}`,
       description: member.tagline,
       url: publicLocalizedUrl(locale as Locale, `/team/${slug}`),
       siteName: "EcomSEO",
@@ -273,7 +282,7 @@ export async function generateMetadata({
     twitter: {
       card: "summary",
       site: "@ecomseo_co",
-      title: `${member.name} - ${member.role} | EcomSEO`,
+      title: `${member.name} - ${member.role}`,
       description: member.tagline,
     },
   };
@@ -291,14 +300,24 @@ export default async function Page({
   return (
     <>
       <JsonLd
-        data={personJsonLd({
-          name: member.name,
-          jobTitle: member.role,
-          description: member.tagline,
-          url: publicLocalizedUrl(locale as Locale, `/team/${slug}`),
-          image: member.image,
-          sameAs: member.socials.map((s) => s.href),
-        })}
+        data={
+          slug === "fabian-van-til"
+            ? fabianPersonJsonLd({
+                pageUrl: publicLocalizedUrl(
+                  locale as Locale,
+                  `/team/${slug}`
+                ),
+                description: member.tagline,
+              })
+            : personJsonLd({
+                name: member.name,
+                jobTitle: member.role,
+                description: member.tagline,
+                url: publicLocalizedUrl(locale as Locale, `/team/${slug}`),
+                image: member.image,
+                sameAs: member.socials.map((s) => s.href),
+              })
+        }
       />
       <JsonLd
         data={breadcrumbJsonLd(locale as Locale, [
@@ -313,7 +332,7 @@ export default async function Page({
             "@context": "https://schema.org",
             "@type": "VideoObject",
             name: "$10k a day in Dutch market with eCom - Daniel & Fabian Van Til",
-            description: "Fabian van Til, CEO of EcomSEO, shares how he built a successful ecommerce brand and SEO agency in the Dutch market. Featured on Alex Fedotoff's podcast.",
+            description: "Fabian van Til, founder of EcomSEO, shares how he built a successful ecommerce brand and SEO agency in the Dutch market. Featured on Alex Fedotoff's podcast.",
             thumbnailUrl: "https://i.ytimg.com/vi/_3vIp9O6-EM/maxresdefault.jpg",
             uploadDate: "2024-11-15",
             contentUrl: "https://www.youtube.com/watch?v=_3vIp9O6-EM",

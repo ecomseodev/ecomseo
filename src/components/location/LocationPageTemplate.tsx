@@ -977,7 +977,7 @@ export function buildLocationPageData(
       name: "Fabian van Til",
       role: s.teamRole,
       image: "/images/framer/fabian-van-til-new.jpeg",
-      linkedin: "https://www.linkedin.com/in/fabianvantil/",
+      linkedin: "https://www.linkedin.com/in/fabian-van-til",
     },
   };
 

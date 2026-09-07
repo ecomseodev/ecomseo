@@ -68,7 +68,7 @@ export const contactPageT: Record<Locale, {
       badge: "We understand ecom",
       heading: "We speak the same language.",
       description: "We breath and talk e-commerce (and Dutch). That's specialisation.",
-      fabianRole: "CEO at EcomSEO, Brand Owner",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Get a Free Audit from Fabian",
     },
     faqItems: [
@@ -114,7 +114,7 @@ export const contactPageT: Record<Locale, {
       badge: "Wir verstehen E-Commerce",
       heading: "Wir sprechen dieselbe Sprache.",
       description: "Wir leben und atmen E-Commerce (und Niederlaendisch). Das ist Spezialisierung.",
-      fabianRole: "CEO bei EcomSEO, Markeninhaber",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Kontakt mit Fabian aufnehmen",
     },
     faqItems: [
@@ -160,7 +160,7 @@ export const contactPageT: Record<Locale, {
       badge: "Nous comprenons l'e-commerce",
       heading: "Nous parlons le meme langage.",
       description: "Nous vivons et parlons e-commerce (et neerlandais). C'est ca la specialisation.",
-      fabianRole: "CEO chez EcomSEO, proprietaire de marque",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Contacter Fabian",
     },
     faqItems: [
@@ -206,7 +206,7 @@ export const contactPageT: Record<Locale, {
       badge: "Entendemos el ecommerce",
       heading: "Hablamos el mismo idioma.",
       description: "Vivimos y hablamos ecommerce (y neerlandes). Eso es especializacion.",
-      fabianRole: "CEO en EcomSEO, propietario de marca",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Contactar con Fabian",
     },
     faqItems: [
@@ -252,7 +252,7 @@ export const contactPageT: Record<Locale, {
       badge: "Capiamo l'e-commerce",
       heading: "Parliamo la stessa lingua.",
       description: "Viviamo e parliamo di e-commerce (e olandese). Questa e specializzazione.",
-      fabianRole: "CEO di EcomSEO, proprietario di brand",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Contatta Fabian",
     },
     faqItems: [
@@ -298,7 +298,7 @@ export const contactPageT: Record<Locale, {
       badge: "Wij begrijpen e-commerce",
       heading: "We spreken dezelfde taal.",
       description: "Wij ademen en praten e-commerce (en Nederlands). Dat is specialisatie.",
-      fabianRole: "CEO bij EcomSEO, merkeigenaar",
+      fabianRole: "Entrepreneur and organic growth strategist",
       fabianCta: "Neem contact op met Fabian",
     },
     faqItems: [

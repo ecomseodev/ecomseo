@@ -190,7 +190,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian leads SEO strategy for our beauty clients. 8 years of ecommerce SEO across health, beauty, and skincare. He knows how beauty shoppers search and builds strategies around ingredient queries and routine-based content.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -436,7 +436,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian verantwortet die strategische Ausrichtung aller Beauty-SEO-Projekte. Mit über 8 Jahren E-Commerce-SEO-Erfahrung in Mode, Gesundheit, Beauty und Wohnen verbindet er Wachstumsstrategie mit technischer SEO-Innovation.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -682,7 +682,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian pilote tous les engagements clients. Plus de 8 ans d\u2019expérience SEO e-commerce dans la mode, la santé, la beauté et la maison. Il allie stratégie de croissance et innovation SEO technique.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -928,7 +928,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian dirige la estrategia de todos los proyectos con clientes. M\u00e1s de 8 a\u00f1os de experiencia en SEO ecommerce en moda, salud, belleza y hogar. Combina estrategia de crecimiento con innovaci\u00f3n en SEO t\u00e9cnico.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1174,7 +1174,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. Oltre 8 anni di esperienza SEO e-commerce in moda, salute, beauty e arredamento. Unisce strategia di crescita e innovazione SEO tecnica.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1420,7 +1420,7 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle klantengagementen. Met meer dan 8 jaar e-commerce SEO-ervaring in mode, gezondheid, beauty en wonen combineert hij groeistrategie met technische SEO-innovatie.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

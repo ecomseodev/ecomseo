@@ -197,7 +197,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian leads SEO strategy for supplement and food clients. 8 years of ecommerce-only SEO with deep experience in health, supplement, food, and CPG verticals.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -500,7 +500,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian leitet alle Consumables-SEO-Projekte. Mit 8+ Jahren E-Commerce-SEO-Erfahrung in Gesundheit, Nahrungsergänzung, Lebensmittel und Verbrauchsgüter verbindet er Wachstumsstrategie mit technischer SEO-Innovation.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -809,7 +809,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian supervise tous les engagements clients. 8+ ans d\u2019expérience en SEO e-commerce dans les secteurs santé, compléments, alimentation et consommables. Il allie stratégie de croissance et innovation SEO technique.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1118,7 +1118,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian dirige la estrategia de todos los proyectos con clientes. 8+ a\u00f1os de experiencia en SEO ecommerce en los sectores de salud, suplementos, alimentaci\u00f3n y consumibles. Combina estrategia de crecimiento con innovaci\u00f3n en SEO t\u00e9cnico.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1427,7 +1427,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. 8+ anni di esperienza in SEO e-commerce nei settori salute, integratori, alimentari e consumabili. Unisce strategia di crescita e innovazione SEO tecnica.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1736,7 +1736,7 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle klantprojecten. Met 8+ jaar e-commerce SEO-ervaring in de sectoren gezondheid, supplementen, voeding en consumables combineert hij groeistrategie met technische SEO-innovatie.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

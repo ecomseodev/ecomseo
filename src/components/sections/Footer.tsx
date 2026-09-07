@@ -144,7 +144,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://x.com/fabianecomseo"
+              href="https://x.com/til_fabian"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/30 hover:text-white transition-colors"

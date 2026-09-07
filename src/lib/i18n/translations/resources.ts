@@ -40,37 +40,37 @@ export const fabianCardT: Record<Locale, {
 }> = {
   en: {
     name: "Fabian van Til",
-    role: "Founder & Strategy Lead",
+    role: "Entrepreneur and organic growth strategist",
     heading: "The Ecommerce-focused SEO Guy who also Owns Brands",
     bio: "I run & operate in two 7+ figure D2C ecom brands and obsess over turning traffic into profit. At EcomSEO, I combine first-hand store-owner experience with data-driven SEO to help ecommerce brands scale organic revenue.",
   },
   de: {
     name: "Fabian van Til",
-    role: "Gründer & Strategieleiter",
+    role: "Entrepreneur and organic growth strategist",
     heading: "Der E-Commerce-fokussierte SEO-Experte, der selbst Marken besitzt",
     bio: "Ich betreibe zwei D2C-E-Commerce-Marken im siebenstelligen Bereich und bin besessen davon, Traffic in Gewinn umzuwandeln. Bei EcomSEO verbinde ich meine Erfahrung als Shopbetreiber mit datengetriebenem SEO, um E-Commerce-Marken beim Skalieren organischer Umsätze zu helfen.",
   },
   fr: {
     name: "Fabian van Til",
-    role: "Fondateur & Responsable stratégie",
+    role: "Entrepreneur and organic growth strategist",
     heading: "L'expert SEO e-commerce qui est aussi proprietaire de marques",
     bio: "Je dirige deux marques D2C e-commerce a plus de 7 chiffres et je suis obsede par la conversion du trafic en profit. Chez EcomSEO, je combine mon experience directe de proprietaire de boutique avec un SEO axe sur les donnees pour aider les marques e-commerce a developper leur chiffre d'affaires organique.",
   },
   es: {
     name: "Fabian van Til",
-    role: "Fundador y Director de estrategia",
+    role: "Entrepreneur and organic growth strategist",
     heading: "El experto en SEO para e-commerce que tambien es propietario de marcas",
     bio: "Dirijo y opero dos marcas D2C de e-commerce con facturacion de mas de 7 cifras y me obsesiona convertir el trafico en beneficio. En EcomSEO, combino mi experiencia directa como propietario de tienda con SEO basado en datos para ayudar a las marcas e-commerce a escalar sus ingresos organicos.",
   },
   it: {
     name: "Fabian van Til",
-    role: "Fondatore e Responsabile strategia",
+    role: "Entrepreneur and organic growth strategist",
     heading: "L'esperto SEO e-commerce che possiede anche brand propri",
     bio: "Gestisco due brand D2C e-commerce con fatturato a 7+ cifre e sono ossessionato dal trasformare il traffico in profitto. In EcomSEO, combino la mia esperienza diretta come proprietario di store con una SEO basata sui dati per aiutare i brand e-commerce a scalare i ricavi organici.",
   },
   nl: {
     name: "Fabian van Til",
-    role: "Oprichter & Strategieleider",
+    role: "Entrepreneur and organic growth strategist",
     heading: "De e-commerce-gerichte SEO-expert die ook merken bezit",
     bio: "Ik run twee D2C e-commercemerken met een 7+-cijferige omzet en ben geobsedeerd door het omzetten van verkeer in winst. Bij EcomSEO combineer ik mijn eerstehands ervaring als webshop-eigenaar met datagedreven SEO om e-commercemerken te helpen organische omzet te schalen.",
   },

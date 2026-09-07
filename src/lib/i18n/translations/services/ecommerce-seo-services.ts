@@ -228,7 +228,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian owns the SEO strategy for every client. 8 years of ecommerce-only experience across fashion, health, beauty, toys, and electronics. He built the Commerce Growth Framework\u2122 that has driven $12M+ in organic revenue.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -523,7 +523,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian leitet die strategische Ausrichtung aller Kundenprojekte. Mit 8+ Jahren reiner E-Commerce-SEO-Erfahrung in Mode, Gesundheit, Beauty, Spielzeug und Elektronik hat er das Commerce Growth Framework™ entwickelt, das über $12M an organischem Umsatz generiert hat.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -818,7 +818,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian pilote tous les engagements clients. 8+ ans d'expérience SEO exclusivement e-commerce dans la mode, la santé, la beauté, les jouets et l'électronique. Architecte du Commerce Growth Framework™ ayant généré plus de $12M de revenus organiques.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1113,7 +1113,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian dirige la estrategia de todos los proyectos. 8+ a\u00f1os de experiencia SEO exclusivamente en ecommerce en moda, salud, belleza, juguetes y electr\u00f3nica. Arquitecto del Commerce Growth Framework\u2122 que ha generado m\u00e1s de $12M en ingresos org\u00e1nicos.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1408,7 +1408,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Strategia e Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. 8+ anni di esperienza SEO esclusivamente e-commerce nella moda, salute, beauty, giocattoli ed elettronica. Architetto del Commerce Growth Framework\u2122 che ha generato oltre $12M di ricavi organici.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1703,7 +1703,7 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle klantprojecten. Met 8+ jaar pure e-commerce SEO-ervaring in mode, gezondheid, beauty, speelgoed en elektronica is hij de architect van het Commerce Growth Framework™ dat meer dan $12M aan organische omzet heeft gegenereerd.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {

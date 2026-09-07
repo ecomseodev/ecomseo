@@ -39,15 +39,9 @@ export async function GET() {
     }
   }
 
-  // Author pages
-  for (const locale of locales) {
-    entries.push({
-      loc: publicLocalizedUrl(locale, "/blog/author/fabian-van-til"),
-      lastmod: "2026-01-15T00:00:00.000Z",
-      changefreq: "monthly",
-      priority: "0.5",
-    });
-  }
+  // Author pages are intentionally absent. They are noindex, and listing a
+  // noindex URL in a sitemap only earns an "Excluded by noindex" warning in
+  // Search Console. Article bylines still link to them.
 
   return sitemapResponse(wrapUrlset(entries));
 }

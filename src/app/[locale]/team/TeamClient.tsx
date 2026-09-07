@@ -15,7 +15,7 @@ const teamMembersData = [
     name: "Fabian van Til",
     image: "/images/framer/fabian-van-til-new.jpeg",
     href: "/team/fabian-van-til",
-    linkedin: "https://www.linkedin.com/in/fabianvantil/",
+    linkedin: "https://www.linkedin.com/in/fabian-van-til",
   },
   {
     name: "Martinijan Trajkovski",

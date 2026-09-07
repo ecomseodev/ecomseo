@@ -1,4 +1,12 @@
 import { BASE_URL, publicLocalizedUrl, type Locale } from "./i18n/config";
+import {
+  FABIAN_ENTITY_HOME,
+  FABIAN_IMAGE,
+  FABIAN_JOB_TITLE,
+  FABIAN_NAME,
+  FABIAN_PERSON_ID,
+  FABIAN_SAME_AS,
+} from "./identity";
 
 /* ------------------------------------------------------------------ */
 /*  Helpers                                                            */
@@ -35,12 +43,11 @@ export function organizationJsonLd() {
       "Profit-focused ecommerce SEO agency. We help ecommerce brands scale organic revenue with data-driven SEO strategies.",
     foundingDate: "2023",
     email: "info@ecomseo.co",
-    sameAs: [
-      "https://nl.linkedin.com/company/ecommerceseo",
-      "https://x.com/fabianecomseo",
-      "https://www.youtube.com/@fabian-ecomseo",
-      "https://www.instagram.com/fabianvantil/",
-    ],
+    // Company profiles only. Fabian's personal accounts live on the Person
+    // node; listing them here told Google the person and the company were the
+    // same entity.
+    sameAs: ["https://nl.linkedin.com/company/ecommerceseo"],
+    founder: { "@id": FABIAN_PERSON_ID },
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "sales",
@@ -206,12 +213,24 @@ export function articleJsonLd(params: {
     dateModified,
     image,
     ...(params.wordCount ? { wordCount: params.wordCount } : {}),
-    author: {
-      "@type": "Person",
-      "@id": `${BASE_URL}/team/fabian-van-til#person`,
-      name: authorName,
-      url: `${BASE_URL}/team/fabian-van-til`,
-    },
+    author:
+      authorName === FABIAN_NAME
+        ? {
+            "@type": "Person",
+            "@id": FABIAN_PERSON_ID,
+            name: FABIAN_NAME,
+            url: FABIAN_ENTITY_HOME,
+            jobTitle: FABIAN_JOB_TITLE,
+            image: `${BASE_URL}${FABIAN_IMAGE}`,
+            sameAs: FABIAN_SAME_AS,
+            worksFor: { "@id": ORG_ID },
+          }
+        : {
+            "@type": "Person",
+            name: authorName,
+            url: authorUrl,
+            worksFor: { "@id": ORG_ID },
+          },
     publisher: {
       "@type": "Organization",
       "@id": ORG_ID,
@@ -240,7 +259,6 @@ export function caseStudyJsonLd(params: {
   images: string[];
 }) {
   const url = localeUrl(params.locale, `/cases/${params.slug}`);
-  const PERSON_ID = `${BASE_URL}/team/fabian-van-til#person`;
   // Convert human-readable dates to ISO 8601 for schema
   const isoDate = (() => {
     const d = new Date(params.date);
@@ -275,11 +293,12 @@ export function caseStudyJsonLd(params: {
     keywords: `${params.niche}, ${params.focus}, ecommerce SEO case study, SEO results`,
     author: {
       "@type": "Person",
-      "@id": PERSON_ID,
-      name: "Fabian van Til",
-      url: `${BASE_URL}/team/fabian-van-til`,
-      image: `${BASE_URL}/images/framer/fabian-van-til-new.jpeg`,
-      jobTitle: "Founder & SEO Strategist",
+      "@id": FABIAN_PERSON_ID,
+      name: FABIAN_NAME,
+      url: FABIAN_ENTITY_HOME,
+      image: `${BASE_URL}${FABIAN_IMAGE}`,
+      jobTitle: FABIAN_JOB_TITLE,
+      sameAs: FABIAN_SAME_AS,
       worksFor: { "@id": ORG_ID },
     },
     publisher: {
@@ -334,6 +353,36 @@ export function courseJsonLd(params: {
 /* ------------------------------------------------------------------ */
 /*  Person                                                             */
 /* ------------------------------------------------------------------ */
+
+/**
+ * Fabian's Person node. Unlike personJsonLd below, this does not mint a
+ * per-page @id: it references the canonical entity on fabianvantil.com and
+ * uses mainEntityOfPage to say that this ecomseo.co page is about him.
+ * The other team members keep their own per-page nodes.
+ */
+export function fabianPersonJsonLd(params: {
+  pageUrl: string;
+  description: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": FABIAN_PERSON_ID,
+    name: FABIAN_NAME,
+    jobTitle: FABIAN_JOB_TITLE,
+    description: params.description,
+    url: FABIAN_ENTITY_HOME,
+    mainEntityOfPage: params.pageUrl,
+    image: `${BASE_URL}${FABIAN_IMAGE}`,
+    sameAs: FABIAN_SAME_AS,
+    worksFor: {
+      "@type": "Organization",
+      "@id": ORG_ID,
+      name: "EcomSEO",
+      url: BASE_URL,
+    },
+  };
+}
 
 export function personJsonLd(params: {
   name: string;

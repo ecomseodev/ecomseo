@@ -4,7 +4,7 @@ import { BASE_URL, ogLocaleMap, publicLocalizedUrl } from "@/lib/i18n/config";
 import { generateAlternates } from "@/lib/i18n/metadata";
 import { blogTranslations } from "@/lib/i18n/translations/blog";
 import { allAuthorSlugs, getArticlesByAuthor } from "@/lib/blog/articles";
-import { breadcrumbJsonLd, personJsonLd } from "@/lib/jsonLd";
+import { breadcrumbJsonLd, fabianPersonJsonLd } from "@/lib/jsonLd";
 import Navigation from "@/components/sections/Navigation";
 import CTA from "@/components/sections/CTA";
 import Footer from "@/components/sections/Footer";
@@ -30,15 +30,19 @@ const authors: Record<string, AuthorProfile> = {
   "fabian-van-til": {
     slug: "fabian-van-til",
     name: "Fabian van Til",
-    role: "CEO at EcomSEO",
+    role: "Entrepreneur and organic growth strategist",
     tagline:
       "A Passionate Entrepreneur, specialising in ecommerce marketing.",
     image: "/images/framer/fabian-van-til-new.jpeg",
-    bio: "Fabian entered the e-commerce space in 2020. Two years later he and a partner launched a Google-marketing agency, which they swiftly refocused into an SEO firm. After selling his stake to his co-founder, Fabian doubled down on e-commerce. In 2024 he and his brother introduced their own brand and co-founded EcomSEO, an agency dedicated to shattering the norms of traditional marketing through transparent, results-oriented partnerships.",
+    bio: "Fabian entered the e-commerce space in 2020. Two years later he and a partner launched a Google-marketing agency, which they swiftly refocused into an SEO firm. After selling his stake to his co-founder, Fabian doubled down on e-commerce. In 2023 he founded EcomSEO, an agency dedicated to shattering the norms of traditional marketing through transparent, results-oriented partnerships, and in 2024 he and his brother launched their own brand.",
     socials: [
       { platform: "YouTube", href: "https://www.youtube.com/@fabian-ecomseo" },
-      { platform: "X", href: "https://x.com/fabianecomseo" },
-      { platform: "Instagram", href: "https://www.instagram.com/fabianvantil/" },
+      { platform: "X", href: "https://x.com/til_fabian" },
+      {
+        platform: "LinkedIn",
+        href: "https://www.linkedin.com/in/fabian-van-til",
+      },
+      { platform: "Instagram", href: "https://www.instagram.com/fabianvantil" },
     ],
   },
 };
@@ -116,12 +120,9 @@ export default async function AuthorPage({
   return (
     <>
       <JsonLd
-        data={personJsonLd({
-          name: author.name,
-          jobTitle: author.role,
+        data={fabianPersonJsonLd({
+          pageUrl: publicLocalizedUrl(locale, `/blog/author/${slug}`),
           description: author.tagline,
-          url: publicLocalizedUrl(locale, `/blog/author/${slug}`),
-          image: author.image,
         })}
       />
       <JsonLd

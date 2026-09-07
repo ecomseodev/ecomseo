@@ -216,7 +216,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Strategy & Innovation",
           bio: "Fabian runs the link building strategy for every client. He has spent the last 8 years doing SEO exclusively for ecommerce - fashion, health, beauty, home goods. He decides which links to pursue and which to skip.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -505,7 +505,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovation",
           bio: "Fabian leitet die strategische Planung aller Linkaufbau-Projekte. Mit über 8 Jahren E-Commerce-SEO-Erfahrung in Mode, Gesundheit, Beauty und Wohnen entwickelt er Strategien, die direkt auf Umsatzziele einzahlen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -794,7 +794,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Stratégie & Innovation",
           bio: "Fabian d\u00e9finit la strat\u00e9gie link building de chaque client. 8+ ans d\u2019exp\u00e9rience en SEO e-commerce. Il con\u00e7oit des strat\u00e9gies de liens align\u00e9es sur les objectifs de chiffre d\u2019affaires.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1083,7 +1083,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Estrategia e Innovación",
           bio: "Fabian dirige la estrategia de todos los proyectos con clientes. 8+ a\u00f1os de experiencia en SEO ecommerce. Dise\u00f1a estrategias de link building alineadas con objetivos de ingresos.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1372,7 +1372,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Strategia & Innovazione",
           bio: "Fabian definisce la strategia di ogni progetto cliente. 8+ anni di esperienza in SEO e-commerce. Progetta strategie di link building allineate agli obiettivi di fatturato.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
@@ -1661,7 +1661,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           role: "Strategie & Innovatie",
           bio: "Fabian leidt de strategische richting van alle klantprojecten. Met 8+ jaar e-commerce SEO-ervaring ontwerpt hij linkbuilding-strategieën die aansluiten bij omzetdoelen.",
           image: "/images/framer/fabian-van-til-new.jpeg",
-          linkedin: "https://www.linkedin.com/in/fabianvantil/",
+          linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
         teamMembers: [
           {
