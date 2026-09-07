@@ -287,29 +287,7 @@ export const shopifySeoData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles Shopify theme optimization, structured data, on-page SEO, and site architecture. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Link Building",
-            bio: "Martinijan runs outreach and digital PR. He builds the backlink profiles that help Shopify stores rank for competitive ecommerce keywords across European and US markets.",
-            image: "/images/framer/7GK5DLrtqk7QeLTPR3zbV0jHZOw.webp",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Content, Link Building & PR",
-            bio: "Gjorgi writes the content, handles on-page optimization, and runs link building and PR campaigns. He works on product pages, collection pages, keyword research, editorial planning, and outreach to earn backlinks.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",

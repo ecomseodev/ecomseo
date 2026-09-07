@@ -12,12 +12,7 @@ export const revalidate = 3600;
  * Team index + individual team member pages.
  */
 
-const teamSlugs = [
-  "fabian-van-til",
-  "martinijan-trajkovski",
-  "dimitar-georgiev",
-  "gjorgi-jovev",
-];
+const teamSlugs = ["fabian-van-til"];
 
 export async function GET() {
   const entries: UrlEntry[] = [];

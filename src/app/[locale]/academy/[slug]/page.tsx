@@ -66,7 +66,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      site: "@ecomseo_co",
+      site: "@ecomSEO_",
       title: `${t.heading} - ${suffix}`,
       description: t.intro.slice(0, 155),
       images: [`${BASE_URL}/images/brand/og-image.png`],

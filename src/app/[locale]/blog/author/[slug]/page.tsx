@@ -79,7 +79,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary",
-      site: "@ecomseo_co",
+      site: "@ecomSEO_",
       title,
       description,
     },

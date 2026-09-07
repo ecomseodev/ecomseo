@@ -31,6 +31,7 @@ export function organizationJsonLd() {
     "@type": ["Organization", "ProfessionalService"],
     "@id": ORG_ID,
     name: "EcomSEO",
+    legalName: "EcomSEO B.V.",
     url: BASE_URL,
     logo: {
       "@type": "ImageObject",
@@ -43,17 +44,43 @@ export function organizationJsonLd() {
       "Profit-focused ecommerce SEO agency. We help ecommerce brands scale organic revenue with data-driven SEO strategies.",
     foundingDate: "2023",
     email: "info@ecomseo.co",
+    telephone: "+31616139476",
+    // Dutch Chamber of Commerce and VAT registration. Registry-verifiable
+    // existence is the strongest corroboration signal an organisation carries.
+    identifier: {
+      "@type": "PropertyValue",
+      propertyID: "KvK",
+      value: "93338503",
+    },
+    vatID: "NL866362150B01",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Industrieweg 13-2",
+      postalCode: "7102 DX",
+      addressLocality: "Winterswijk",
+      addressCountry: "NL",
+    },
     // Company profiles only. Fabian's personal accounts live on the Person
     // node; listing them here told Google the person and the company were the
     // same entity.
-    sameAs: ["https://nl.linkedin.com/company/ecommerceseo"],
+    sameAs: [
+      "https://nl.linkedin.com/company/ecommerceseo",
+      "https://x.com/ecomSEO_",
+    ],
     founder: { "@id": FABIAN_PERSON_ID },
-    contactPoint: {
-      "@type": "ContactPoint",
-      contactType: "sales",
-      email: "info@ecomseo.co",
-      url: `${BASE_URL}/contact`,
-    },
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        contactType: "sales",
+        email: "info@ecomseo.co",
+        url: `${BASE_URL}/contact`,
+      },
+      {
+        "@type": "ContactPoint",
+        contactType: "billing support",
+        email: "finance@ecomseo.co",
+      },
+    ],
     knowsAbout: [
       "Ecommerce SEO",
       "Shopify SEO",

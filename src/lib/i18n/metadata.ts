@@ -87,7 +87,7 @@ export async function buildPageMetadata(
     },
     twitter: {
       card: "summary_large_image",
-      site: "@ecomseo_co",
+      site: "@ecomSEO_",
       title: entry.ogTitle || entry.title,
       description: entry.description,
       images: [`${BASE_URL}/images/brand/og-image.png`],

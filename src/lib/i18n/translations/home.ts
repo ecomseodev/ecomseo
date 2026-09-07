@@ -509,9 +509,7 @@ export const teamT: Record<Locale, {
     cta: "Get a Free Audit from Fabian",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Outreach & SEO Expert" },
-      { name: "Martinijan Trajkovski", role: "SEO Strategies & Head of Link-Building" },
-    ],
+],
   },
   de: {
     badge: "Unser natürliches Habitat",
@@ -521,9 +519,7 @@ export const teamT: Record<Locale, {
     cta: "Mit Fabian in Kontakt treten",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Outreach- & SEO-Experte" },
-      { name: "Martinijan Trajkovski", role: "SEO-Strategien & Leiter Linkaufbau" },
-    ],
+],
   },
   fr: {
     badge: "Notre habitat naturel",
@@ -533,9 +529,7 @@ export const teamT: Record<Locale, {
     cta: "Contacter Fabian",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Expert Outreach & SEO" },
-      { name: "Martinijan Trajkovski", role: "Stratégies SEO & Responsable Link-Building" },
-    ],
+],
   },
   es: {
     badge: "Nuestro hábitat natural",
@@ -545,9 +539,7 @@ export const teamT: Record<Locale, {
     cta: "Contactar con Fabian",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Experto en Outreach y SEO" },
-      { name: "Martinijan Trajkovski", role: "Estrategias SEO y Jefe de Link-Building" },
-    ],
+],
   },
   it: {
     badge: "Il nostro habitat naturale",
@@ -557,9 +549,7 @@ export const teamT: Record<Locale, {
     cta: "Contatta Fabian",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Esperto di Outreach e SEO" },
-      { name: "Martinijan Trajkovski", role: "Strategie SEO e Responsabile Link-Building" },
-    ],
+],
   },
   nl: {
     badge: "Ons natuurlijke habitat",
@@ -569,9 +559,7 @@ export const teamT: Record<Locale, {
     cta: "Neem contact op met Fabian",
     members: [
       { name: "Fabian van Til", role: "Entrepreneur and organic growth strategist" },
-      { name: "Gjorgi Jovev", role: "Outreach & SEO Expert" },
-      { name: "Martinijan Trajkovski", role: "SEO-strategieën & Hoofd Linkbuilding" },
-    ],
+],
   },
 };
 

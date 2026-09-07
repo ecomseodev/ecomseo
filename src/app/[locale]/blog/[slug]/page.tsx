@@ -90,7 +90,7 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      site: "@ecomseo_co",
+      site: "@ecomSEO_",
       title: c.title,
       description: c.description,
       images: [`${BASE_URL}/images/brand/og-image.png`],

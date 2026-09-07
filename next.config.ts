@@ -79,6 +79,40 @@ const nextConfig: NextConfig = {
       { source: "/:locale(en|de|fr|es|it|nl)/resources", destination: "/:locale/academy", permanent: true },
       { source: "/author/:slug", destination: "/blog/author/:slug", permanent: true },
       { source: "/:locale(en|de|fr|es|it|nl)/author/:slug", destination: "/:locale/blog/author/:slug", permanent: true },
+      // Team members other than the founder are not currently published.
+      // 307 rather than 301: this is reversible, so do not tell Google the
+      // URLs are permanently gone.
+      {
+        source:
+          "/team/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/team",
+        permanent: false,
+      },
+      {
+        source: "/de/unser-team/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/de/unser-team",
+        permanent: false,
+      },
+      {
+        source: "/fr/equipe/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/fr/equipe",
+        permanent: false,
+      },
+      {
+        source: "/es/equipo/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/es/equipo",
+        permanent: false,
+      },
+      {
+        source: "/it/chi-siamo/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/it/chi-siamo",
+        permanent: false,
+      },
+      {
+        source: "/nl/ons-team/:slug(martinijan-trajkovski|dimitar-georgiev|gjorgi-jovev)",
+        destination: "/nl/ons-team",
+        permanent: false,
+      },
       { source: "/meet-our-team", destination: "/team", permanent: true },
       { source: "/:locale(en|de|fr|es|it|nl)/meet-our-team", destination: "/:locale/team", permanent: true },
       // Blog article rename: ecommerce-seo-audit → how-to-make-ecommerce-seo-audit

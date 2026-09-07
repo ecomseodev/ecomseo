@@ -17,24 +17,6 @@ const teamMembersData = [
     href: "/team/fabian-van-til",
     linkedin: "https://www.linkedin.com/in/fabian-van-til",
   },
-  {
-    name: "Martinijan Trajkovski",
-    image: "/images/framer/7GK5DLrtqk7QeLTPR3zbV0jHZOw.webp",
-    href: "/team/martinijan-trajkovski",
-    linkedin: "https://www.linkedin.com/in/martinijan-trajkovski/",
-  },
-  {
-    name: "Dimitar Georgiev",
-    image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-    href: "/team/dimitar-georgiev",
-    linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-  },
-  {
-    name: "Gjorgi Jovev",
-    image: "/images/framer/gjorgi-jovev.png",
-    href: "/team/gjorgi-jovev",
-    linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-  },
 ];
 
 function LinkedInIcon() {

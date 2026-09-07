@@ -218,22 +218,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Link Building",
-            bio: "Martinijan handles outreach and placement. He has personally secured 9,000+ links for ecommerce clients across European and US markets. He also runs our digital PR campaigns.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Content, Link Building & PR",
-            bio: "Gjorgi crafts linkable content assets and coordinates link building and PR outreach. He specializes in data studies, guides, and editorial content that earns links from authoritative publications, plus digital PR campaigns.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
@@ -507,22 +492,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Linkaufbau",
-            bio: "Martinijan verantwortet Linkakquise und digitale PR im großen Stil. Er baut Backlink-Profile auf, die bei wettbewerbsintensiven E-Commerce-Keywords in europäischen und US-Märkten den Unterschied machen. Über 9.000 gesicherte Links.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Content, Linkaufbau & PR",
-            bio: "Erstellt verlinkbare Content-Assets und koordiniert Linkaufbau und PR-Outreach. Spezialisiert auf Datenstudien, Leitfäden und redaktionelle Inhalte, die Links von autoritären Publikationen verdienen, plus digitale PR-Kampagnen.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
@@ -796,22 +766,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Netlinking",
-            bio: "Maîtrise l\u2019acquisition de liens et les RP digitales à grande échelle. Construit des profils de backlinks qui font la différence pour les mots-clés e-commerce compétitifs. Plus de 9 000 liens obtenus.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Contenu, Link Building & PR",
-            bio: "Crée des assets de contenu linkables et coordonne les campagnes de link building et PR. Spécialisé dans les études de données, les guides et le contenu éditorial qui génère des liens, plus les campagnes de RP digitales.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
@@ -1085,22 +1040,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page y Link Building",
-            bio: "Martinijan lidera la adquisici\u00f3n de enlaces y las RP digitales a escala. Construye perfiles de backlinks que marcan la diferencia para keywords competitivas de ecommerce. M\u00e1s de 9.000 enlaces conseguidos.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Contenido, Link Building y PR",
-            bio: "Crea activos de contenido enlazables y coordina campañas de link building y PR. Especializado en estudios de datos, guías y contenido editorial que gana enlaces de publicaciones autorizadas, más campañas de PR digital.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
@@ -1374,22 +1314,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Link Building",
-            bio: "Martinijan gestisce l\u2019acquisizione di link e le digital PR su larga scala. Costruisce profili di backlink che fanno la differenza per keyword e-commerce competitive. Oltre 9.000 link ottenuti.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Contenuti, Link Building & PR",
-            bio: "Gjorgi crea asset di contenuto linkabili e coordina campagne di link building e PR. Specializzato in studi di dati, guide e contenuto editoriale che guadagna link da pubblicazioni autorevoli, più campagne di digital PR.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
@@ -1663,22 +1588,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
           image: "/images/framer/fabian-van-til-new.jpeg",
           linkedin: "https://www.linkedin.com/in/fabian-van-til",
         },
-        teamMembers: [
-          {
-            name: "Martinijan Trajkovski",
-            role: "Off-Page & Linkbuilding",
-            bio: "Martinijan beheerst linkacquisitie en digitale PR op schaal. Hij bouwt backlinkprofielen die het verschil maken voor competitieve e-commerce zoekwoorden. Meer dan 9.000 links verkregen.",
-            image: "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-            linkedin: "https://mk.linkedin.com/in/martinijan-trajkovski-7678b6bb",
-          },
-          {
-            name: "Gjorgi Jovev",
-            role: "Content, Linkbuilding & PR",
-            bio: "Gjorgi creëert linkwaardige content-assets en coördineert linkbuilding- en PR-campagnes. Hij is gespecialiseerd in datastudies, gidsen en redactionele content die links verdient van gezaghebbende publicaties, plus digitale PR-campagnes.",
-            image: "/images/framer/gjorgi-jovev.png",
-            linkedin: "https://www.linkedin.com/in/gjorgi-jovev/",
-          },
-        ],
+        teamMembers: [],
       },
       {
         type: "deliverables",
