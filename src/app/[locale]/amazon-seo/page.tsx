@@ -51,14 +51,14 @@ export default async function AmazonSeoPage({
           "@type": "WebPage",
           "@id": `${BASE_URL}/amazon-seo#webpage`,
           url: `${BASE_URL}/amazon-seo`,
-          name: "Amazon SEO Services — Listing Optimization & A9 Strategy | EcomSEO",
+          name: "Amazon SEO Services Built to Sell | EcomSEO",
           description:
-            "Amazon SEO agency that boosts organic rankings without increasing ad spend. 3.2x avg. impressions growth.",
+            "Amazon SEO agency that builds the campaign around your ASINs: relevant search visibility, listings that convert and external traffic tracked to orders and contribution.",
           isPartOf: { "@id": `${BASE_URL}/#website` },
           about: { "@id": `${BASE_URL}/amazon-seo#service` },
           provider: { "@id": `${BASE_URL}/#organization` },
           datePublished: "2024-06-01",
-          dateModified: "2026-03-17",
+          dateModified: "2026-11-03",
           inLanguage: "en",
         }}
       />
