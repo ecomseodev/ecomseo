@@ -146,49 +146,6 @@ const teamMembers: Record<string, TeamMember> = {
       },
     ],
   },
-  "dimitar-georgiev": {
-    slug: "dimitar-georgiev",
-    name: "Dimitar Georgiev",
-    role: "Technical Jedi",
-    tagline:
-      "SEO specialist focused on eCommerce, with over 5 years of experience.",
-    image:
-      "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-    bio: "Dimitar joined EcomSEO in 2024, bringing over five years of hands-on experience in SEO for both e-commerce and affiliate websites. With a strong foundation in on-page optimization, technical audits, content strategy, and off-page SEO, he plays a key role in driving client growth through sustainable rankings and targeted traffic. Dimitar\u2019s approach combines precision with creativity, helping brands stand out in competitive niches. Outside of work, he\u2019s committed to the gym and enjoys traveling to new destinations - always seeking the next challenge, both in fitness and digital marketing.",
-    skills: [
-      "Keyword Research",
-      "Off-page SEO",
-      "Technical SEO",
-      "UX / UI",
-      "Analytics",
-      "Content Strategy",
-    ],
-    interests: [
-      "Travel",
-      "Music",
-      "PlayStation",
-      "Reading",
-      "Cars",
-      "Fitness",
-    ],
-    cta: {
-      primary: {
-        label: "Whatsapp",
-        href: "https://api.whatsapp.com/send/?phone=359877023314&text&type=phone_number&app_absent=0",
-        icon: "phone",
-      },
-    },
-    socials: [
-      {
-        platform: "LinkedIn",
-        href: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-      },
-      {
-        platform: "Instagram",
-        href: "https://www.instagram.com/dimitar_georgiev23",
-      },
-    ],
-  },
   "gjorgi-jovev": {
     slug: "gjorgi-jovev",
     name: "Gjorgi Jovev",

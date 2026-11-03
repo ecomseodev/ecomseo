@@ -197,13 +197,6 @@ export const ecommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles technical and on-page SEO for ecommerce stores of all sizes. He works on crawl optimization for large catalogs, structured data at scale, Core Web Vitals, and site architecture for stores with 500-100,000+ SKUs. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan runs link acquisition and digital PR for ecommerce brands. He earns authority through product review placements, industry publication outreach, and partnerships that drive both referral traffic and domain authority.",

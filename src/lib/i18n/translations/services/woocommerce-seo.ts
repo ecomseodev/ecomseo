@@ -221,13 +221,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar does the technical and on-page SEO work. He handles WooCommerce theme optimization, structured data, page-level optimization, and site architecture. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan handles outreach and digital PR. He earns backlinks from real publications that help WooCommerce stores rank for competitive ecommerce keywords.",
@@ -493,13 +486,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Entwickelt die technischen SEO-Grundlagen und On-Page-Optimierungen. Spezialisiert auf WooCommerce-Theme-Optimierung, Structured Data und Website-Architektur. Baut die kostenlosen SEO-Tools auf dieser Seite.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -767,13 +753,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Con\u00e7oit les fondations SEO techniques et on-page. Sp\u00e9cialis\u00e9 dans l\u2019optimisation de th\u00e8mes WooCommerce, les donn\u00e9es structur\u00e9es et l\u2019architecture de site. D\u00e9veloppe les outils SEO gratuits de ce site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Netlinking",
             bio: "Ma\u00eetrise l\u2019acquisition de liens et les RP digitales \u00e0 grande \u00e9chelle. Construit des profils de backlinks qui font la diff\u00e9rence pour les mots-cl\u00e9s e-commerce comp\u00e9titifs sur les march\u00e9s europ\u00e9ens et am\u00e9ricains.",
@@ -1039,13 +1018,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO T\u00e9cnico & On-Page",
-            bio: "Dimitar dise\u00f1a las bases del SEO t\u00e9cnico y on-page. Especializado en optimizaci\u00f3n de temas WooCommerce, datos estructurados y arquitectura web. Desarrolla las herramientas SEO gratuitas de este sitio.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1313,13 +1285,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta le fondamenta SEO tecniche e on-page. Specializzato in ottimizzazione temi WooCommerce, dati strutturati e architettura del sito. Sviluppa gli strumenti SEO gratuiti di questo sito.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan gestisce l\u2019acquisizione di link e le digital PR su larga scala. Costruisce profili di backlink che fanno la differenza per keyword e-commerce competitive nei mercati europei e statunitensi.",
@@ -1585,13 +1550,6 @@ export const woocommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties. Hij is gespecialiseerd in WooCommerce-thema-optimalisatie, structured data en site-architectuur, en bouwt de gratis SEO-tools op deze site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

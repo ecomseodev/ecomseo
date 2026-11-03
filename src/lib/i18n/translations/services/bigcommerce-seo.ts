@@ -222,13 +222,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO. He works on platform optimization, structured data, and site architecture. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan runs outreach and digital PR. He builds the backlink profiles that help ecommerce stores rank for competitive keywords across European and US markets.",
@@ -520,13 +513,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Entwirft die technischen SEO-Grundlagen und On-Page-Optimierungen. Spezialisiert auf E-Commerce-Plattform-Optimierung, strukturierte Daten und Website-Architektur. Entwickelt die kostenlosen SEO-Tools auf dieser Website.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -820,13 +806,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Architecte des fondations SEO techniques et on-page. Spécialisé dans l\u2019optimisation des plateformes e-commerce, les données structurées et l\u2019architecture de site. Développe les outils SEO gratuits de ce site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Maîtrise l\u2019acquisition de liens et les RP digitales à grande échelle. Construit des profils de backlinks qui font la différence pour les mots-clés e-commerce compétitifs sur les marchés européens et américains.",
@@ -1118,13 +1097,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Diseña las bases técnicas de SEO y on-page. Especializado en optimización de plataformas e-commerce, datos estructurados y arquitectura de sitios. Desarrolla las herramientas SEO gratuitas de este sitio.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
@@ -1418,13 +1390,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar progetta le fondamenta tecniche e on-page della SEO. Specializzato nell\u2019ottimizzazione delle piattaforme e-commerce, nei dati strutturati e nell\u2019architettura dei siti. Sviluppa gli strumenti SEO gratuiti di questo sito.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan gestisce l\u2019acquisizione di link e le digital PR su larga scala. Costruisce profili di backlink che fanno la differenza per keyword e-commerce competitive nei mercati europei e statunitensi.",
@@ -1716,13 +1681,6 @@ export const bigcommerceSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties. Hij is gespecialiseerd in e-commerceplatform-optimalisatie, gestructureerde data en site-architectuur, en bouwt de gratis SEO-tools op deze website.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

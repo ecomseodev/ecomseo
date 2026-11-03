@@ -194,13 +194,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO for beauty brands. He works on product schema, ingredient page architecture, and Core Web Vitals optimization. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan earns links for beauty brands through ingredient research coverage, beauty editor outreach, and influencer collaborations.",
@@ -439,13 +432,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Baut die technischen SEO-Grundlagen und On-Page-Optimierungen für Beauty-Marken. Spezialisiert auf Produkt-Schema, Inhaltsstoff-Seitenarchitektur und Core-Web-Vitals-Optimierung. Entwickelt die kostenlosen SEO-Tools auf dieser Seite.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -686,13 +672,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Conçoit les fondations SEO techniques et on-page pour les marques beauté. Spécialisé dans le schema produit, l\u2019architecture des pages ingrédients et l\u2019optimisation des Core Web Vitals. Développe les outils SEO gratuits de ce site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Expert en acquisition de liens et RP digitales pour les marques beauté. Construit des profils de backlinks grâce à la couverture de recherche sur les ingrédients, le démarchage de rédacteurs beauté et les collaborations avec des influenceurs.",
@@ -931,13 +910,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO Técnico & On-Page",
-            bio: "Diseña las bases técnicas de SEO y on-page para marcas de belleza. Especializado en schema de producto, arquitectura de páginas de ingredientes y optimización de Core Web Vitals. Desarrolla las herramientas SEO gratuitas de este sitio.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1178,13 +1150,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta le fondamenta SEO tecniche e on-page per i brand beauty. Specializzato in schema prodotto, architettura delle pagine ingredienti e ottimizzazione dei Core Web Vitals. Sviluppa gli strumenti SEO gratuiti di questo sito.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan si occupa di acquisizione link e PR digitali per brand beauty. Costruisce profili di backlink attraverso copertura di ricerca sugli ingredienti, outreach verso editor beauty e collaborazioni con influencer.",
@@ -1423,13 +1388,6 @@ export const beautySeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties voor beautymerken. Hij is gespecialiseerd in productschema, ingrediëntenpagina-architectuur en Core Web Vitals-optimalisatie, en bouwt de gratis SEO-tools op deze site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

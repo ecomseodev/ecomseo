@@ -271,13 +271,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO for fashion stores. He works on variant canonicalization, image optimization, structured data for product catalogs, and site architecture that scales with seasonal collections.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan earns links for fashion brands through fashion publication outreach, style blog partnerships, and targeted placements. He focuses on publications that actually carry weight in fashion.",
@@ -603,13 +596,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Baut die technischen SEO-Grundlagen und On-Page-Optimierungen f\u00fcr Mode-Shops. Spezialisiert auf Varianten-Kanonisierung, Bildoptimierung, strukturierte Daten f\u00fcr Produktkataloge und Seitenarchitektur, die mit saisonalen Kollektionen skaliert.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
             bio: "Martinijan verantwortet Linkakquise und digitale PR f\u00fcr Modemarken. Baut Backlink-Profile durch Outreach zu Mode-Publikationen, Style-Blog-Partnerschaften und strategische Platzierungen, die die Domain-Autorit\u00e4t in wettbewerbsintensiven Modem\u00e4rkten steigern.",
@@ -831,13 +817,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Construit les fondations SEO techniques et on-page des boutiques mode. Sp\u00e9cialis\u00e9 dans la canonicalisation des variantes, l\u2019optimisation des images, les donn\u00e9es structur\u00e9es pour les catalogues produits et l\u2019architecture de site qui \u00e9volue avec les collections saisonni\u00e8res.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Ma\u00eetrise l\u2019acquisition de liens et les RP digitales pour les marques de mode. Construit des profils de backlinks gr\u00e2ce \u00e0 l\u2019outreach vers les publications mode, les partenariats avec des blogs de style et des placements strat\u00e9giques qui renforcent l\u2019autorit\u00e9 de domaine sur les march\u00e9s mode comp\u00e9titifs.",
@@ -1031,13 +1010,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO T\u00e9cnico & On-Page",
-            bio: "Construye las bases t\u00e9cnicas de SEO y on-page para tiendas de moda. Especializado en canonicalizaci\u00f3n de variantes, optimizaci\u00f3n de im\u00e1genes, datos estructurados para cat\u00e1logos de productos y arquitectura de sitio que escala con colecciones estacionales.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1233,13 +1205,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar costruisce le fondamenta SEO tecniche e on-page per i negozi di moda. Specializzato in canonicalizzazione delle varianti, ottimizzazione delle immagini, dati strutturati per cataloghi prodotto e architettura del sito che scala con le collezioni stagionali.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page e Link Building",
             bio: "Martinijan gestisce l\u2019acquisizione di link e le PR digitali per i brand di moda. Costruisce profili di backlink attraverso outreach verso pubblicazioni di moda, partnership con blog di stile e posizionamenti strategici che elevano l\u2019autorit\u00e0 di dominio nei mercati moda competitivi.",
@@ -1433,13 +1398,6 @@ export const fashionSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar bouwt de technische SEO-fundamenten en on-page optimalisaties voor modewinkels. Hij is gespecialiseerd in variantcanonicalisatie, beeldoptimalisatie, gestructureerde data voor productcatalogi en sitearchitectuur die meeschaalt met seizoenscollecties.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

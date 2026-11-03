@@ -289,13 +289,6 @@ export const shopifySeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles Shopify theme optimization, structured data, on-page SEO, and site architecture. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan runs outreach and digital PR. He builds the backlink profiles that help Shopify stores rank for competitive ecommerce keywords across European and US markets.",

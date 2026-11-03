@@ -79,6 +79,14 @@ const nextConfig: NextConfig = {
       { source: "/:locale(en|de|fr|es|it|nl)/resources", destination: "/:locale/academy", permanent: true },
       { source: "/author/:slug", destination: "/blog/author/:slug", permanent: true },
       { source: "/:locale(en|de|fr|es|it|nl)/author/:slug", destination: "/:locale/blog/author/:slug", permanent: true },
+      // Dimitar Georgiev has left EcomSEO.
+      { source: "/team/dimitar-georgiev", destination: "/team", permanent: true },
+      { source: "/:locale(en)/team/dimitar-georgiev", destination: "/team", permanent: true },
+      { source: "/de/unser-team/dimitar-georgiev", destination: "/de/unser-team", permanent: true },
+      { source: "/fr/equipe/dimitar-georgiev", destination: "/fr/equipe", permanent: true },
+      { source: "/es/equipo/dimitar-georgiev", destination: "/es/equipo", permanent: true },
+      { source: "/it/chi-siamo/dimitar-georgiev", destination: "/it/chi-siamo", permanent: true },
+      { source: "/nl/ons-team/dimitar-georgiev", destination: "/nl/ons-team", permanent: true },
       { source: "/meet-our-team", destination: "/team", permanent: true },
       { source: "/:locale(en|de|fr|es|it|nl)/meet-our-team", destination: "/:locale/team", permanent: true },
       // Blog article rename: ecommerce-seo-audit → how-to-make-ecommerce-seo-audit

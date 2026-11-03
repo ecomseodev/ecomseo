@@ -201,13 +201,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO for supplement and food brands. He works on subscription page optimization, structured data for health products, and site architecture. He also builds the free SEO tools on this site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan earns links for supplement and health brands. He runs outreach and digital PR campaigns focused on health publications and wellness editors across European and US markets.",
@@ -503,13 +496,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Entwickelt die technischen SEO-Grundlagen und On-Page-Optimierungen für Verbrauchsgüter-Marken. Spezialisiert auf Abo-Seiten-Optimierung, strukturierte Daten für Verbrauchsgüter und Website-Architektur. Baut die kostenlosen SEO-Tools auf dieser Seite.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -813,13 +799,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Conçoit les fondations SEO techniques et on-page pour les marques de consommables. Spécialisé dans l\u2019optimisation des pages d\u2019abonnement, les données structurées pour produits consommables et l\u2019architecture de site. Développe les outils SEO gratuits de ce site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Netlinking",
             bio: "Maîtrise l\u2019acquisition de liens et les RP digitales pour les marques de consommables et de santé. Construit des profils de backlinks qui font la différence pour les mots-clés compétitifs de compléments et d\u2019alimentation sur les marchés européens et américains.",
@@ -1121,13 +1100,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO Técnico & On-Page",
-            bio: "Diseña las bases del SEO técnico y on-page para marcas de consumibles. Especializado en optimización de páginas de suscripción, datos estructurados para productos de consumo y arquitectura web. Desarrolla las herramientas SEO gratuitas de este sitio.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1431,13 +1403,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta le fondamenta SEO tecniche e on-page per i brand di consumabili. Specializzato in ottimizzazione pagine abbonamento, dati strutturati per prodotti di consumo e architettura del sito. Sviluppa gli strumenti SEO gratuiti di questo sito.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan gestisce l\u2019acquisizione di link e le digital PR per brand di consumabili e salute. Costruisce profili di backlink che fanno la differenza per keyword competitive di integratori e alimentari nei mercati europei e statunitensi.",
@@ -1739,13 +1704,6 @@ export const consumablesSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties voor consumablemerken. Hij is gespecialiseerd in abonnementspagina-optimalisatie, structured data voor consumableproducten en site-architectuur, en bouwt de gratis SEO-tools op deze site.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

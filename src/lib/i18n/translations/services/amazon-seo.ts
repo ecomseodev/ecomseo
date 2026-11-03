@@ -282,13 +282,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar builds the data systems and tracking infrastructure for Amazon campaigns. He handles ranking analysis, keyword research automation, on-page listing optimization, and performance monitoring.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan runs external traffic strategies and digital PR to boost Amazon listing authority. He builds the external signals that complement organic Amazon rankings.",
@@ -634,13 +627,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Entwickelt die Datensysteme und Tracking-Infrastruktur f\u00fcr Amazon SEO-Kampagnen. Spezialisiert auf Ranking-Analyse, On-Page-Listing-Optimierung, Keyword-Recherche-Automatisierung und Performance-Monitoring.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -988,13 +974,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Con\u00e7oit les syst\u00e8mes de donn\u00e9es et l\u2019infrastructure de suivi pour les campagnes SEO Amazon. Sp\u00e9cialis\u00e9 dans l\u2019analyse des classements, l\u2019optimisation on-page des fiches, l\u2019automatisation de la recherche de mots-cl\u00e9s et le monitoring de performance.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Netlinking",
             bio: "Ma\u00eetrise les strat\u00e9gies de trafic externe et les RP digitales qui renforcent l\u2019autorit\u00e9 des fiches Amazon. Construit des signaux externes qui compl\u00e8tent les classements organiques Amazon.",
@@ -1340,13 +1319,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO T\u00e9cnico & On-Page",
-            bio: "Dise\u00f1a los sistemas de datos y on-page e infraestructura de seguimiento para campa\u00f1as de SEO Amazon. Especializado en an\u00e1lisis de rankings, automatizaci\u00f3n de investigaci\u00f3n de keywords y monitoreo de rendimiento.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1694,13 +1666,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta i sistemi di dati, on-page e l\u2019infrastruttura di tracking per le campagne SEO Amazon. Specializzato in analisi dei posizionamenti, automazione della ricerca keyword e monitoraggio delle performance.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan gestisce strategie di traffico esterno e digital PR che potenziano l\u2019autorit\u00e0 delle inserzioni Amazon. Costruisce segnali esterni che completano i posizionamenti organici Amazon.",
@@ -2046,13 +2011,6 @@ export const amazonSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de datasystemen en tracking-infrastructuur voor Amazon SEO-campagnes. Hij is gespecialiseerd in ranking-analyse, on-page listing-optimalisatie, automatisering van zoekwoordonderzoek en prestatiemonitoring.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

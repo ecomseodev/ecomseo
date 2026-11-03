@@ -173,13 +173,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar builds the technical SEO foundations that make keyword strategies work. He handles site architecture, internal linking, on-page optimization, and page structures so your target keywords have the right pages to rank.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan builds the backlink authority needed to rank for competitive keywords. He aligns link building campaigns with keyword priorities so the pages that matter most get the authority they need.",
@@ -396,13 +389,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Entwickelt die technischen SEO-Grundlagen und On-Page-Optimierungen, die Keyword-Strategien umsetzbar machen. Stellt sicher, dass Seitenarchitektur, interne Verlinkung und Seitenstrukturen für Ziel-Keyword-Cluster optimiert sind.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -621,13 +607,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Conçoit les fondations SEO techniques et on-page qui rendent les stratégies de mots-clés opérationnelles. Assure que l\u2019architecture du site, le maillage interne et les structures de pages sont optimisés pour les clusters de mots-clés cibles.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Netlinking",
             bio: "Construit l\u2019autorité off-page nécessaire pour se positionner sur les mots-clés compétitifs. Aligne les campagnes de netlinking avec les priorités de mots-clés pour maximiser le potentiel de classement.",
@@ -844,13 +823,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO Técnico & On-Page",
-            bio: "Diseña las bases de SEO técnico y on-page que hacen las estrategias de keywords ejecutables. Asegura que la arquitectura del sitio, el enlazado interno y las estructuras de páginas estén optimizados para los clusters de keywords objetivo.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1069,13 +1041,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta le fondamenta SEO tecniche e on-page che rendono le strategie keyword attuabili. Si assicura che l\u2019architettura del sito, il linking interno e le strutture delle pagine siano ottimizzati per i cluster di keyword target.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan costruisce l\u2019autorit\u00e0 off-page necessaria per posizionarsi su keyword competitive. Allinea le campagne di link building alle priorit\u00e0 di keyword per massimizzare il potenziale di ranking.",
@@ -1292,13 +1257,6 @@ export const keywordResearchData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties die zoekwoordstrategieën uitvoerbaar maken. Hij zorgt ervoor dat site-architectuur, interne linking en paginastructuren zijn geoptimaliseerd voor doelzoekwoord-clusters.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

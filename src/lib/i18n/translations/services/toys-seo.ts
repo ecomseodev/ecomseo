@@ -232,13 +232,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO for toy stores. He works on product schema with age ranges, collection page architecture, Core Web Vitals for image-heavy catalogs, and crawl management for large seasonal inventories.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan earns links for toy brands through parenting publication outreach, toy review blog partnerships, and seasonal gift guide placements.",
@@ -576,13 +569,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Dimitar baut die technischen SEO-Grundlagen und On-Page-Optimierungen für Spielzeugshops. Spezialisiert auf Produkt-Schema mit Altersangaben, Kollektionsseitenarchitektur und Core-Web-Vitals-Optimierung.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
             bio: "Baut Autorität für Spielzeugmarken durch Outreach zu Eltern-Publikationen, Spielzeug-Review-Blogs und saisonale Geschenkratgeber-Platzierungen.",
@@ -873,13 +859,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Architecte les fondations SEO techniques et on-page pour les boutiques de jouets. Spécialisé en schema produit avec tranches d'âge et optimisation Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Construit l'autorité des marques de jouets via l'outreach publications parentales et les partenariats blogs de reviews.",
@@ -1124,13 +1103,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO Técnico & On-Page",
-            bio: "Arquitecta las bases técnicas SEO y on-page para tiendas de juguetes. Especializado en schema de producto con rangos de edad y optimización Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Construye autoridad para marcas de juguetes a través de outreach a publicaciones de crianza y blogs de reseñas.",
@@ -1364,13 +1336,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar architetta le fondazioni SEO tecniche e on-page per i negozi di giocattoli. Specializzato in schema prodotto con fasce d'et\u00e0 e ottimizzazione Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan costruisce autorit\u00e0 per i brand di giocattoli attraverso outreach a pubblicazioni per genitori e partnership con blog di recensioni.",
@@ -1603,13 +1568,6 @@ export const toysSeoData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties voor speelgoedwinkels. Hij is gespecialiseerd in productschema met leeftijdsbereiken en Core Web Vitals-optimalisatie.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

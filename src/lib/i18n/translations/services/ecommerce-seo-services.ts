@@ -232,13 +232,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "Technical & On-Page SEO",
-            bio: "Dimitar handles the technical and on-page SEO. He works on crawl optimization for large catalogs, structured data at scale, Core Web Vitals, and site architecture for stores with 500-100,000+ SKUs.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan runs link acquisition and digital PR. He earns authority through product review placements, industry publication outreach, and partnerships. 9,000+ links secured across all clients.",
@@ -526,13 +519,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisches & On-Page SEO",
-            bio: "Entwickelt die technischen SEO-Grundlagen und On-Page-Optimierungen für E-Commerce-Shops jeder Größe. Spezialisiert auf Crawl-Optimierung großer Kataloge, strukturierte Daten im großen Maßstab und Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkaufbau",
@@ -822,13 +808,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO technique & On-Page",
-            bio: "Conçoit les fondations SEO techniques et on-page pour les boutiques e-commerce de toutes tailles. Spécialisé dans l'optimisation du crawl pour les grands catalogues, les données structurées à grande échelle et les Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Netlinking",
             bio: "Maîtrise l'acquisition de liens et les RP digitales pour les marques e-commerce. Construit l'autorité par les placements de critiques produits et les partenariats stratégiques. Plus de 9 000 liens obtenus.",
@@ -1116,13 +1095,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "SEO Técnico & On-Page",
-            bio: "Diseña las bases técnicas de SEO y on-page para tiendas ecommerce de todos los tamaños. Especializado en optimización de rastreo para catálogos grandes, datos estructurados a escala y Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page y Link Building",
@@ -1412,13 +1384,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
         },
         teamMembers: [
           {
-            name: "Dimitar Georgiev",
-            role: "SEO tecnico & On-Page",
-            bio: "Dimitar progetta le fondamenta SEO tecniche e on-page per negozi e-commerce di ogni dimensione. Specializzato in ottimizzazione del crawl per cataloghi grandi, dati strutturati su larga scala e Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
-          {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Link Building",
             bio: "Martinijan gestisce l'acquisizione di link e le digital PR per brand e-commerce. Costruisce autorit\u00e0 attraverso recensioni prodotto e partnership strategiche. Oltre 9.000 link ottenuti.",
@@ -1706,13 +1671,6 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
           linkedin: "https://www.linkedin.com/in/fabianvantil/",
         },
         teamMembers: [
-          {
-            name: "Dimitar Georgiev",
-            role: "Technisch & On-Page SEO",
-            bio: "Dimitar ontwerpt de technische SEO-fundamenten en on-page optimalisaties voor e-commerce winkels van elke omvang. Hij is gespecialiseerd in crawl-optimalisatie voor grote catalogi, gestructureerde data op schaal en Core Web Vitals.",
-            image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-            linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-          },
           {
             name: "Martinijan Trajkovski",
             role: "Off-Page & Linkbuilding",

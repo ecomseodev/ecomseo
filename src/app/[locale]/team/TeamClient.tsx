@@ -24,12 +24,6 @@ const teamMembersData = [
     linkedin: "https://www.linkedin.com/in/martinijan-trajkovski/",
   },
   {
-    name: "Dimitar Georgiev",
-    image: "/images/framer/Q3tfuu2ytPAotONsFoP1ouyPZic.png",
-    href: "/team/dimitar-georgiev",
-    linkedin: "https://bg.linkedin.com/in/dimitar-georgiev-seo-expert",
-  },
-  {
     name: "Gjorgi Jovev",
     image: "/images/framer/gjorgi-jovev.png",
     href: "/team/gjorgi-jovev",

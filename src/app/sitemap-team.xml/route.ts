@@ -15,7 +15,6 @@ export const revalidate = 3600;
 const teamSlugs = [
   "fabian-van-til",
   "martinijan-trajkovski",
-  "dimitar-georgiev",
   "gjorgi-jovev",
 ];
 
