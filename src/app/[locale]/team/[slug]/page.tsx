@@ -97,7 +97,7 @@ const teamMembers: Record<string, TeamMember> = {
   "martinijan-trajkovski": {
     slug: "martinijan-trajkovski",
     name: "Martinijan Trajkovski",
-    role: "Off-Page Wizard",
+    role: "Co-Founder",
     tagline:
       "A Passionate Entrepreneur, specialising in ecommerce marketing.",
     image:

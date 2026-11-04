@@ -79,7 +79,7 @@ export const teamMemberI18n: MemberTranslations = {
   },
   "martinijan-trajkovski": {
     en: {
-      role: "Off-Page Wizard",
+      role: "Co-Founder",
       tagline: "Data-driven SEO strategist with 9+ years of experience in ecommerce.",
       bio: "Martinijan is a data-driven SEO strategist with 9+ years of experience, four dedicated to skyrocketing ecommerce brands. Since joining EcomSEO in 2023, he has fused deep market research, competitor intel, white-hat link building, affiliate growth and digital PR to turn organic search into profit. Away from the SERPs he is usually devouring marketing books, lifting at the gym or chasing drop-shots on the tennis court.",
       skills: ["Market Research", "Branding", "Link Building", "Competitor Intelligence", "Affiliate Marketing", "Digital PR"],
@@ -89,7 +89,7 @@ export const teamMemberI18n: MemberTranslations = {
       ctaSecondary: "Book 30 min",
     },
     de: {
-      role: "Off-Page Experte",
+      role: "Mitgründer",
       tagline: "Datengetriebener SEO-Stratege mit 9+ Jahren Erfahrung im E-Commerce.",
       bio: "Martinijan ist ein datengetriebener SEO-Stratege mit ueber 9 Jahren Erfahrung, davon vier speziell im E-Commerce. Seit seinem Einstieg bei EcomSEO 2023 kombiniert er tiefgreifende Marktforschung, Wettbewerbsanalysen, White-Hat-Linkaufbau, Affiliate-Wachstum und digitale PR, um organische Suche in Umsatz zu verwandeln.",
       skills: ["Marktforschung", "Markenaufbau", "Linkaufbau", "Wettbewerbsanalyse", "Affiliate Marketing", "Digitale PR"],
@@ -99,7 +99,7 @@ export const teamMemberI18n: MemberTranslations = {
       ctaSecondary: "30 Min. buchen",
     },
     fr: {
-      role: "Expert Off-Page",
+      role: "Co-fondateur",
       tagline: "Stratege SEO axe sur les donnees avec 9+ ans d'experience en e-commerce.",
       bio: "Martinijan est un stratege SEO axe sur les donnees avec plus de 9 ans d'experience, dont quatre dedies a la croissance de marques e-commerce. Depuis qu'il a rejoint EcomSEO en 2023, il combine recherche approfondie, veille concurrentielle, netlinking white-hat, croissance affiliate et RP digital pour transformer la recherche organique en chiffre d'affaires.",
       skills: ["Etude de marche", "Branding", "Netlinking", "Veille concurrentielle", "Marketing d'affiliation", "RP digital"],
@@ -109,7 +109,7 @@ export const teamMemberI18n: MemberTranslations = {
       ctaSecondary: "Reserver 30 min",
     },
     es: {
-      role: "Experto Off-Page",
+      role: "Cofundador",
       tagline: "Estratega SEO basado en datos con mas de 9 anos de experiencia en e-commerce.",
       bio: "Martinijan es un estratega SEO basado en datos con mas de 9 anos de experiencia, cuatro dedicados al crecimiento de marcas de comercio electronico. Desde que se unio a EcomSEO en 2023, combina investigacion de mercado profunda, inteligencia competitiva, link building white-hat, crecimiento de afiliados y PR digital para convertir la busqueda organica en ingresos.",
       skills: ["Investigacion de mercado", "Branding", "Link Building", "Inteligencia competitiva", "Marketing de afiliados", "PR Digital"],
@@ -119,7 +119,7 @@ export const teamMemberI18n: MemberTranslations = {
       ctaSecondary: "Reservar 30 min",
     },
     it: {
-      role: "Esperto Off-Page",
+      role: "Co-fondatore",
       tagline: "Stratega SEO basato sui dati con oltre 9 anni di esperienza nell'e-commerce.",
       bio: "Martinijan e uno stratega SEO basato sui dati con oltre 9 anni di esperienza, di cui quattro dedicati alla crescita di brand e-commerce. Da quando e entrato in EcomSEO nel 2023, combina ricerche di mercato approfondite, analisi della concorrenza, link building white-hat, crescita affiliate e PR digitali per trasformare la ricerca organica in fatturato.",
       skills: ["Ricerca di mercato", "Branding", "Link Building", "Analisi concorrenza", "Affiliate Marketing", "PR Digitale"],
@@ -129,7 +129,7 @@ export const teamMemberI18n: MemberTranslations = {
       ctaSecondary: "Prenota 30 min",
     },
     nl: {
-      role: "Off-Page Expert",
+      role: "Medeoprichter",
       tagline: "Datagedreven SEO-strateeg met 9+ jaar ervaring in e-commerce.",
       bio: "Martinijan is een datagedreven SEO-strateeg met meer dan 9 jaar ervaring, waarvan vier gewijd aan het laten groeien van e-commerce merken. Sinds hij in 2023 bij EcomSEO kwam, combineert hij diepgaand marktonderzoek, concurrentie-analyse, white-hat linkbuilding, affiliate groei en digitale PR om organisch verkeer om te zetten in omzet.",
       skills: ["Marktonderzoek", "Branding", "Linkbuilding", "Concurrentie-analyse", "Affiliate Marketing", "Digitale PR"],
