@@ -20,7 +20,7 @@ export const teamPageT: Record<
       "The only team in the world with rich expertise & experience both in direct-response ecommerce and SEO.",
     members: [
       { role: "Strategy & Innovation", description: "Leads the strategic direction, blending ecommerce growth with cutting-edge SEO innovation." },
-      { role: "Co-Founder", description: "Masters the art of link acquisition and digital PR to boost domain authority at scale." },
+      { role: "Co-Founder & Head of Strategy", description: "Masters the art of link acquisition and digital PR to boost domain authority at scale." },
       { role: "Technical Jedi", description: "Architects technical SEO foundations that turn crawl budgets into revenue machines." },
       { role: "On-Page & PR Maestro", description: "Crafts content strategies and on-page optimizations that rank and convert." },
     ],
@@ -52,7 +52,7 @@ export const teamPageT: Record<
       "Das einzige Team weltweit mit tiefgreifender Expertise und Erfahrung sowohl im Direct-Response-E-Commerce als auch in SEO.",
     members: [
       { role: "Strategie & Innovation", description: "Leitet die strategische Ausrichtung und verbindet E-Commerce-Wachstum mit innovativer SEO." },
-      { role: "Mitgründer", description: "Beherrscht die Kunst des Linkaufbaus und der digitalen PR fuer skalierbare Domain-Autoritaet." },
+      { role: "Mitgründer & Leiter Strategie", description: "Beherrscht die Kunst des Linkaufbaus und der digitalen PR fuer skalierbare Domain-Autoritaet." },
       { role: "Technik-Spezialist", description: "Entwickelt technische SEO-Grundlagen, die Crawl-Budgets in Umsatz verwandeln." },
       { role: "On-Page & PR-Virtuose", description: "Erstellt Content-Strategien und On-Page-Optimierungen, die ranken und konvertieren." },
     ],
@@ -84,7 +84,7 @@ export const teamPageT: Record<
       "La seule equipe au monde combinant une expertise approfondie en e-commerce a reponse directe et en SEO.",
     members: [
       { role: "Strategie & Innovation", description: "Dirige la vision strategique, alliant croissance e-commerce et innovation SEO." },
-      { role: "Co-fondateur", description: "Maitrise l'art de l'acquisition de liens et des RP digitales pour renforcer l'autorite de domaine." },
+      { role: "Co-fondateur & Responsable Stratégie", description: "Maitrise l'art de l'acquisition de liens et des RP digitales pour renforcer l'autorite de domaine." },
       { role: "Specialiste technique", description: "Concoit des fondations SEO techniques qui transforment les budgets de crawl en revenus." },
       { role: "Virtuose On-Page & RP", description: "Elabore des strategies de contenu et des optimisations on-page qui classent et convertissent." },
     ],
@@ -116,7 +116,7 @@ export const teamPageT: Record<
       "El unico equipo en el mundo con amplia experiencia tanto en e-commerce de respuesta directa como en SEO.",
     members: [
       { role: "Estrategia e Innovacion", description: "Lidera la direccion estrategica, combinando crecimiento en e-commerce con innovacion SEO." },
-      { role: "Cofundador", description: "Domina el arte de la adquisicion de enlaces y las RRPP digitales para impulsar la autoridad del dominio." },
+      { role: "Cofundador y Jefe de Estrategia", description: "Domina el arte de la adquisicion de enlaces y las RRPP digitales para impulsar la autoridad del dominio." },
       { role: "Especialista tecnico", description: "Disenya cimientos de SEO tecnico que convierten presupuestos de rastreo en ingresos." },
       { role: "Virtuoso On-Page y RRPP", description: "Crea estrategias de contenido y optimizaciones on-page que posicionan y convierten." },
     ],
@@ -148,7 +148,7 @@ export const teamPageT: Record<
       "L'unico team al mondo con profonda competenza ed esperienza sia nell'e-commerce a risposta diretta che nella SEO.",
     members: [
       { role: "Strategia e Innovazione", description: "Guida la direzione strategica, unendo crescita e-commerce e innovazione SEO." },
-      { role: "Co-fondatore", description: "Padroneggia l'arte dell'acquisizione link e delle PR digitali per potenziare l'autorita del dominio." },
+      { role: "Co-fondatore e Responsabile Strategia", description: "Padroneggia l'arte dell'acquisizione link e delle PR digitali per potenziare l'autorita del dominio." },
       { role: "Specialista tecnico", description: "Progetta fondamenta SEO tecniche che trasformano i budget di crawl in ricavi." },
       { role: "Virtuoso On-Page e PR", description: "Crea strategie di contenuto e ottimizzazioni on-page che posizionano e convertono." },
     ],
@@ -180,7 +180,7 @@ export const teamPageT: Record<
       "Het enige team ter wereld met diepgaande expertise en ervaring in zowel direct-response e-commerce als SEO.",
     members: [
       { role: "Strategie & Innovatie", description: "Leidt de strategische richting en combineert e-commerce groei met baanbrekende SEO-innovatie." },
-      { role: "Medeoprichter", description: "Beheerst de kunst van linkacquisitie en digitale PR om domeinautoriteit op schaal te versterken." },
+      { role: "Medeoprichter & Hoofd Strategie", description: "Beheerst de kunst van linkacquisitie en digitale PR om domeinautoriteit op schaal te versterken." },
       { role: "Technisch Specialist", description: "Ontwerpt technische SEO-fundamenten die crawlbudgetten omzetten in omzet." },
       { role: "On-Page & PR Virtuoos", description: "Creëert contentstrategieën en on-page optimalisaties die ranken en converteren." },
     ],

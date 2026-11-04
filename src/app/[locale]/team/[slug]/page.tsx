@@ -97,12 +97,12 @@ const teamMembers: Record<string, TeamMember> = {
   "martinijan-trajkovski": {
     slug: "martinijan-trajkovski",
     name: "Martinijan Trajkovski",
-    role: "Co-Founder",
+    role: "Co-Founder & Head of Strategy",
     tagline:
       "A Passionate Entrepreneur, specialising in ecommerce marketing.",
     image:
       "/images/framer/CBAq5E76Hb1mj6ehAOixPYBjN1w.png",
-    bio: "Martinijan Trajkovski is a data-driven SEO strategist with 9+ years of experience - four dedicated to skyrocketing ecommerce brands. Since joining EcomSEO in 2023, he\u2019s fused deep market research, competitor intel, white-hat link building, affiliate growth and digital PR to turn organic search into profit. Away from the SERPs he\u2019s usually devouring marketing books, lifting at the gym or chasing drop-shots on the tennis court.",
+    bio: "Martinijan Trajkovski is a data-driven SEO strategist with 9+ years of experience - four dedicated to skyrocketing ecommerce brands. As co-founder of EcomSEO, he\u2019s fused deep market research, competitor intel, white-hat link building, affiliate growth and digital PR to turn organic search into profit. Away from the SERPs he\u2019s usually devouring marketing books, lifting at the gym or chasing drop-shots on the tennis court.",
     skills: [
       "Market Research",
       "Branding",
