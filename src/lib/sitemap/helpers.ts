@@ -18,6 +18,8 @@ export interface UrlEntry {
   changefreq: string;
   priority: string;
   images?: string[];
+  /** Skip hreflang alternates (content exists in one language only). */
+  noAlternates?: boolean;
 }
 
 /* ------------------------------------------------------------------ */
@@ -69,7 +71,7 @@ export function urlBlock(entry: UrlEntry): string {
   block += `<loc>${escapeXml(entry.loc)}</loc>\n`;
 
   // Add hreflang alternates (xhtml:link) for multilingual pages
-  const englishPath = extractEnglishPath(entry.loc);
+  const englishPath = entry.noAlternates ? null : extractEnglishPath(entry.loc);
   if (englishPath) {
     for (const { hreflang, locale: loc } of hreflangEntries) {
       const altUrl = publicLocalizedUrl(loc, englishPath);

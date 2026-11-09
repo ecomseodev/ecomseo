@@ -46,6 +46,9 @@ export function GET() {
       lastmod,
       changefreq: "monthly",
       priority: loc.tier === 1 ? "0.8" : "0.6",
+      // Each city exists in one language only. Generic alternates pointed at
+      // /{locale}/location/{city} URLs that 301 back here.
+      noAlternates: true,
     });
   }
 

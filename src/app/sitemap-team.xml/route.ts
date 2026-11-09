@@ -26,7 +26,7 @@ export async function GET() {
 
   // Individual team members
   for (const slug of teamSlugs) {
-    addPages(entries, [`/team/${slug}`], { priority: 0.6, changefreq: "monthly", lastmod: "2026-04-07T00:00:00.000Z" });
+    addPages(entries, [`/team/${slug}`], { priority: 0.6, changefreq: "monthly", lastmod: "2026-11-04T00:00:00.000Z" });
   }
 
   return sitemapResponse(wrapUrlset(entries));

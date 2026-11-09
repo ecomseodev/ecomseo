@@ -20,15 +20,12 @@ const childSitemaps = [
 ];
 
 export async function GET() {
-  const lastmod = "2026-03-22T00:00:00.000Z"; // Fixed date — update when content changes
-
   let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`;
   xml += `<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
 
   for (const child of childSitemaps) {
     xml += `<sitemap>\n`;
     xml += `<loc>${BASE_URL}/${child}</loc>\n`;
-    xml += `<lastmod>${lastmod}</lastmod>\n`;
     xml += `</sitemap>\n`;
   }
 

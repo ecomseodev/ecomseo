@@ -35,15 +35,16 @@ export async function GET() {
       ? parsed.toISOString().split("T")[0] + "T00:00:00.000Z"
       : "2026-03-10T00:00:00.000Z";
 
-    for (const locale of locales) {
-      entries.push({
-        loc: publicLocalizedUrl(locale, `/cases/${slug}`),
-        lastmod,
-        changefreq: "monthly",
-        priority: "0.7",
-        ...(images.length > 0 ? { images } : {}),
-      });
-    }
+    // English only: the other locale URLs serve the same English text and
+    // canonicalise to this one.
+    entries.push({
+      loc: publicLocalizedUrl("en", `/cases/${slug}`),
+      lastmod,
+      changefreq: "monthly",
+      priority: "0.7",
+      noAlternates: true,
+      ...(images.length > 0 ? { images } : {}),
+    });
   }
 
   return sitemapResponse(wrapUrlset(entries));

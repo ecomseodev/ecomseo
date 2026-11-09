@@ -37,6 +37,14 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // www.ecomseo.co served every page with a 200 (canonical only), and
+      // Google ranked www URLs. One permanent hop to the apex host.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.ecomseo.co" }],
+        destination: "https://ecomseo.co/:path*",
+        permanent: true,
+      },
       // Guides → Academy redirects (guides merged into academy)
       { source: "/guides", destination: "/academy", permanent: true },
       { source: "/:locale(en|de|fr|es|it|nl)/guides", destination: "/:locale/academy", permanent: true },

@@ -9,7 +9,7 @@ import { caseStudyJsonLd, breadcrumbJsonLd } from "@/lib/jsonLd";
 import { getCaseStudy, getAllCaseSlugs } from "@/data/caseStudies";
 import CaseStudyBlockRenderer from "@/components/cases/CaseStudyBlockRenderer";
 import { generateAlternates } from "@/lib/i18n/metadata";
-import { type Locale, ogLocaleMap } from "@/lib/i18n/config";
+import { type Locale, ogLocaleMap, publicLocalizedUrl } from "@/lib/i18n/config";
 import { caseStudyDetailT } from "@/lib/i18n/translations/caseStudyDetail";
 
 export const revalidate = 86400;
@@ -30,7 +30,10 @@ export async function generateMetadata({
   return {
     title: `${cs.title} | EcomSEO`,
     description: cs.description.slice(0, 155),
-    alternates: generateAlternates(`/cases/${slug}`, locale as Locale),
+    // Case study content exists in English only. Every locale URL serves the
+    // same English text, so all of them point to the English page and carry
+    // no hreflang set until real translations exist.
+    alternates: { canonical: publicLocalizedUrl("en", `/cases/${slug}`) },
     openGraph: {
       title: cs.title,
       description: cs.description.slice(0, 155),

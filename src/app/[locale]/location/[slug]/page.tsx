@@ -94,7 +94,12 @@ export async function generateMetadata({
 
   const l = locale as Locale;
   const m = metaStrings[l] || metaStrings.nl;
-  const url = publicLocalizedUrl(l, `/location/${slug}`);
+  // UK cities are public at /seo-agency-{city}; /location/{city} 301s there,
+  // so it must never be the canonical.
+  const url =
+    l === "en"
+      ? `${BASE_URL}/seo-agency-${slug}`
+      : publicLocalizedUrl(l, `/location/${slug}`);
   const title = m.title(loc.city);
   const description = m.description(loc.city);
   const live = isLive(loc);

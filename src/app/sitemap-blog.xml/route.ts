@@ -4,6 +4,7 @@ import {
   sitemapResponse,
 } from "@/lib/sitemap/helpers";
 import { allArticles } from "@/lib/blog/articles";
+import { blogCanonicalOverrides } from "@/lib/blog/canonicalOverrides";
 import { locales, publicLocalizedUrl } from "@/lib/i18n/config";
 
 export const revalidate = 3600;
@@ -28,6 +29,8 @@ export async function GET() {
 
   // Individual blog articles — use their real publishDate
   for (const article of allArticles) {
+    // Posts canonicalised to another page are not listed.
+    if (blogCanonicalOverrides[article.slug]) continue;
     const lastmod = `${article.publishDate}T00:00:00.000Z`;
     for (const locale of locales) {
       entries.push({
@@ -39,15 +42,7 @@ export async function GET() {
     }
   }
 
-  // Author pages
-  for (const locale of locales) {
-    entries.push({
-      loc: publicLocalizedUrl(locale, "/blog/author/fabian-van-til"),
-      lastmod: "2026-01-15T00:00:00.000Z",
-      changefreq: "monthly",
-      priority: "0.5",
-    });
-  }
+  // Author pages are noindex, so they are not listed.
 
   return sitemapResponse(wrapUrlset(entries));
 }

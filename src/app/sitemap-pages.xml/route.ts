@@ -50,8 +50,7 @@ const utilityPages = [
   // that Google flagged because the sitemap signal contradicts noindex.
   "/tools/intent-matching-tool",
   "/premium-on-page-seo-checklist",
-  "/privacy-policy",
-  "/terms-of-service",
+  // privacy-policy and terms-of-service are noindex, so they stay out.
 ];
 
 export async function GET() {
