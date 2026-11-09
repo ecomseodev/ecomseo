@@ -48,13 +48,13 @@ export default async function EcommerceSeoPage({
           "@type": "WebPage",
           "@id": `${BASE_URL}/ecommerce-seo#webpage`,
           url: `${BASE_URL}/ecommerce-seo`,
-          name: "Ecommerce SEO Agency for DTC Brands | EcomSEO",
-          description: "Ecommerce SEO agency that audits, fixes, and scales organic revenue for online stores. 50+ stores optimized, 140% avg. organic traffic increase.",
+          name: "Ecommerce SEO Services & Agency for Online Stores | EcomSEO",
+          description: "Ecommerce SEO services for online stores: technical SEO, category and product pages, structured data, content and link building. Plans from €2,500 per month.",
           isPartOf: { "@id": `${BASE_URL}/#website` },
           about: { "@id": `${BASE_URL}/ecommerce-seo#service` },
           provider: { "@id": `${BASE_URL}/#organization` },
           datePublished: "2024-01-15",
-          dateModified: "2026-03-17",
+          dateModified: "2026-11-09",
           inLanguage: "en",
         }}
       />
