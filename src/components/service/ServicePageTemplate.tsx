@@ -96,13 +96,6 @@ export interface RevenueWin {
   href?: string;
 }
 
-export interface TableData {
-  columns: string[];
-  rows: string[][];
-  /** Optional line under the table; supports [text](/link) inline links. */
-  note?: string;
-}
-
 export interface ContentSection {
   type:
     | "stats"
@@ -115,8 +108,7 @@ export interface ContentSection {
     | "team"
     | "caseStudies"
     | "revenueWins"
-    | "bookingWidget"
-    | "table";
+    | "bookingWidget";
   badge?: string;
   heading: string;
   subtitle?: string;
@@ -135,8 +127,6 @@ export interface ContentSection {
   teamLead?: TeamMember;
   caseStudies?: CaseStudyItem[];
   revenueWins?: RevenueWin[];
-  /** Plain HTML facts table: first cell of each row is the row header. */
-  table?: TableData;
   ctaText?: string;
   ctaHref?: string;
 }
@@ -1586,61 +1576,6 @@ function FAQSection({
 
 /* ─── Revenue wins (Maison-style cards, mirrors homepage Results) ─── */
 
-function TableSection({
-  badge,
-  heading,
-  subtitle,
-  table,
-}: {
-  badge?: string;
-  heading: string;
-  subtitle?: string;
-  table: TableData;
-}) {
-  return (
-    <section className="w-full px-5 md:px-10 py-20">
-      <div className="mx-auto max-w-[1120px] flex flex-col items-center gap-12">
-        <SectionHeader badge={badge} heading={heading} subtitle={subtitle} />
-        <div className="w-full overflow-x-auto rounded-3xl border border-border bg-bg-card">
-          <table className="w-full min-w-[720px] text-left text-sm md:text-base">
-            <thead>
-              <tr className="border-b border-border">
-                {table.columns.map((col, i) => (
-                  <th key={i} scope="col" className="p-4 md:p-5 font-medium text-heading align-bottom">
-                    {col}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-border/40">
-              {table.rows.map((row, r) => (
-                <tr key={r}>
-                  {row.map((cell, c) =>
-                    c === 0 ? (
-                      <th key={c} scope="row" className="p-4 md:p-5 font-medium text-heading align-top whitespace-nowrap">
-                        {cell}
-                      </th>
-                    ) : (
-                      <td key={c} className="p-4 md:p-5 text-body align-top">
-                        {cell}
-                      </td>
-                    )
-                  )}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        {table.note && (
-          <p className="text-body text-sm md:text-base max-w-[860px] text-center">
-            {parseInlineLinks(table.note)}
-          </p>
-        )}
-      </div>
-    </section>
-  );
-}
-
 function RevenueWinsSection({
   badge,
   heading,
@@ -1885,16 +1820,6 @@ export default function ServicePageTemplate({
                   heading={section.heading}
                   subtitle={section.subtitle}
                   items={section.revenueWins!}
-                />
-              );
-            case "table":
-              return (
-                <TableSection
-                  key={i}
-                  badge={section.badge}
-                  heading={section.heading}
-                  subtitle={section.subtitle}
-                  table={section.table!}
                 />
               );
             case "bookingWidget":
