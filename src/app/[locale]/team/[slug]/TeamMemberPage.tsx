@@ -144,6 +144,9 @@ export default function TeamMemberPage({ member }: { member: TeamMember }) {
                     <h1 className="text-[32px] md:text-[44px] font-medium leading-[1.1] tracking-[-0.02em] text-heading">
                       {member.name}
                     </h1>
+                    <p className="text-accent text-sm md:text-base font-medium uppercase tracking-[0.08em]">
+                      {member.role}
+                    </p>
                     <p className="text-body text-base md:text-lg font-medium">
                       {member.tagline}
                     </p>
