@@ -157,6 +157,22 @@ export const INDEXABLE_LOCALE_PATHS = new Set<string>([
   "/it/strumenti-seo/verifica-og",
 ]);
 
+/**
+ * City pages taken out of the index on 2026-11-12. UK and Dutch cities with
+ * no Search Console impressions (3 months) and little demand. Kept: NL
+ * leeuwarden, apeldoorn, groningen, almere, zwolle, enschede, utrecht,
+ * noord-holland, amsterdam, rotterdam; UK london, manchester, birmingham,
+ * bristol, leeds (UK review at week 8, 2027-01-04).
+ */
+export const NOINDEX_CITY_PATHS = new Set<string>([
+  ...["eindhoven", "den-haag", "breda", "tilburg", "arnhem", "nijmegen",
+    "haarlem", "amersfoort", "den-bosch", "leiden", "maastricht", "deventer",
+    "dordrecht", "delft", "hilversum", "roosendaal", "zoetermeer",
+    "zuid-holland", "nederland"].map((c) => `/nl/locaties/seo-bureau-${c}`),
+  ...["edinburgh", "essex", "newcastle", "surrey", "hertfordshire", "oxford",
+    "sheffield", "liverpool", "nottingham"].map((c) => `/seo-agency-${c}`),
+]);
+
 function normalise(pathname: string): string {
   const p = pathname.split("?")[0].split("#")[0];
   return p.length > 1 ? p.replace(/\/+$/, "") : p;
@@ -166,6 +182,7 @@ function normalise(pathname: string): string {
 export function isNoindexPath(pathname: string): boolean {
   const p = normalise(pathname);
   if (/(^|\/)client-dashboard(\/|$)/.test(p)) return true;
+  if (NOINDEX_CITY_PATHS.has(p)) return true;
   const locale = p.split("/")[1];
   if (!NOINDEX_LOCALES.includes(locale)) return false;
   return !INDEXABLE_LOCALE_PATHS.has(p);

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { Locale } from "@/lib/i18n/config";
 import { BASE_URL, publicLocalizedUrl, locales } from "@/lib/i18n/config";
 import { getLocationIncludingScheduled, getAllLocationsIncludingScheduled, isLive } from "@/data/locations";
+import { isNoindexUrl } from "@/lib/seo/localeIndexPolicy";
 import { breadcrumbJsonLd, serviceJsonLd, faqJsonLd } from "@/lib/jsonLd";
 import JsonLd from "@/components/JsonLd";
 import ServicePageTemplate from "@/components/service/ServicePageTemplate";
@@ -138,7 +139,9 @@ export async function generateMetadata({
     },
     // Before goLiveDate: noindex, follow (so crawlers don't surface unfinished pages)
     // After goLiveDate: fully indexed
-    robots: live
+    // Also noindex when the index policy says so (src/lib/seo/localeIndexPolicy.ts).
+    // UK city URLs bypass the middleware, so this is where they get noindex.
+    robots: live && !isNoindexUrl(url)
       ? { index: true, follow: true }
       : { index: false, follow: true },
   };
