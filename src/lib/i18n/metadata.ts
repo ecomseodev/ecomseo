@@ -7,6 +7,7 @@ import {
   publicLocalizedUrl,
 } from "./config";
 import { getDictionary } from "./getDictionary";
+import { isNoindexUrl } from "@/lib/seo/localeIndexPolicy";
 
 /**
  * Canonical overrides for pages that cannibalize each other.
@@ -26,7 +27,9 @@ export function generateAlternates(path: string, locale?: Locale) {
   const languages: Record<string, string> = {};
 
   for (const { hreflang, locale: loc } of hreflangEntries) {
-    languages[hreflang] = publicLocalizedUrl(loc, path);
+    const url = publicLocalizedUrl(loc, path);
+    if (isNoindexUrl(url)) continue;
+    languages[hreflang] = url;
   }
 
   // Check for canonical override (cannibalization fix)

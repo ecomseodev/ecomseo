@@ -7,6 +7,7 @@ import {
   hreflangEntries,
 } from "@/lib/i18n/config";
 import { getEnglishSlug } from "@/lib/i18n/slugs";
+import { isNoindexUrl } from "@/lib/seo/localeIndexPolicy";
 
 /* ------------------------------------------------------------------ */
 /*  Types                                                              */
@@ -75,6 +76,7 @@ export function urlBlock(entry: UrlEntry): string {
   if (englishPath) {
     for (const { hreflang, locale: loc } of hreflangEntries) {
       const altUrl = publicLocalizedUrl(loc, englishPath);
+      if (isNoindexUrl(altUrl)) continue;
       block += `<xhtml:link rel="alternate" hreflang="${hreflang}" href="${escapeXml(altUrl)}"/>\n`;
     }
   }
@@ -125,6 +127,7 @@ export function wrapUrlset(entries: UrlEntry[]): string {
   xml += `<urlset ${ns}>\n`;
 
   for (const entry of entries) {
+    if (isNoindexUrl(entry.loc)) continue;
     xml += urlBlock(entry);
   }
 

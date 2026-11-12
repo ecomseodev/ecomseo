@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { locales, defaultLocale } from "./lib/i18n/config";
 import { getEnglishSlug, getLocalizedSlug } from "./lib/i18n/slugs";
+import { isNoindexPath } from "./lib/seo/localeIndexPolicy";
 
 const PUBLIC_FILE = /\.(.*)$/;
 
@@ -377,12 +378,14 @@ export function middleware(request: NextRequest) {
       newUrl.pathname = `/${pathnameLocale}${englishVersion}`;
       const response = NextResponse.rewrite(newUrl);
       response.headers.set("x-locale", pathnameLocale);
+      if (isNoindexPath(pathname)) response.headers.set("X-Robots-Tag", "noindex, follow");
       return response;
     }
 
     // No translation needed, pass through
     const response = NextResponse.next();
     response.headers.set("x-locale", pathnameLocale);
+    if (isNoindexPath(pathname)) response.headers.set("X-Robots-Tag", "noindex, follow");
     return response;
   }
 
