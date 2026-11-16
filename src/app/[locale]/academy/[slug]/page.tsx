@@ -46,11 +46,11 @@ export async function generateMetadata({
 
   return {
     title: `${t.heading} - ${suffix} | EcomSEO`,
-    description: t.intro.slice(0, 155),
+    description: t.intro.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").slice(0, 155),
     alternates: generateAlternates(`/academy/${slug}`, l),
     openGraph: {
       title: `${t.heading} - ${suffix}`,
-      description: t.intro.slice(0, 155),
+      description: t.intro.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").slice(0, 155),
       url,
       siteName: "EcomSEO",
       type: "article",
@@ -68,7 +68,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       site: "@ecomseo_co",
       title: `${t.heading} - ${suffix}`,
-      description: t.intro.slice(0, 155),
+      description: t.intro.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").slice(0, 155),
       images: [`${BASE_URL}/images/brand/og-image.png`],
     },
   };

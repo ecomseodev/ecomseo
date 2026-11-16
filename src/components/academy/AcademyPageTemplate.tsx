@@ -68,7 +68,7 @@ export default function AcademyPageTemplate({ data }: { data: AcademyPageData })
   return (
     <>
       <JsonLd data={breadcrumbJsonLd(locale, breadcrumbs)} />
-      <JsonLd data={articleJsonLd({ locale, headline: heading, description: intro, path })} />
+      <JsonLd data={articleJsonLd({ locale, headline: heading, description: intro.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1"), path })} />
       <Navigation />
       <main className="min-h-screen bg-bg">
         <div className="flex">
@@ -116,7 +116,7 @@ export default function AcademyPageTemplate({ data }: { data: AcademyPageData })
               </h1>
 
               <p className="text-body text-base leading-relaxed mb-6 text-[17px]">
-                {intro}
+                {parseInlineLinks(intro)}
               </p>
 
               {/* Author byline + last reviewed date — E-E-A-T signal for Google.
