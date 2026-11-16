@@ -2526,7 +2526,7 @@ export const metaTagsCheckerT: Record<Locale, MetaTagsCheckerTranslation> = {
     howItWorksSteps: [
       { title: "Paste your URLs", desc: "Enter up to 50 URLs, one per line. Works with any website." },
       { title: "Comprehensive analysis", desc: "We extract title, description, OG tags, Twitter cards, canonical, robots, and more." },
-      { title: "Review & compare", desc: "See scores, expand details, compare URLs side-by-side, and export reports." },
+      { title: "Review & compare", desc: "See scores, expand details, compare URLs side-by-side, and export reports. Running a Shopify store? Our [Shopify SEO services](/shopify-seo) include title and meta description optimization." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [
@@ -3107,7 +3107,7 @@ export const headingCheckerT: Record<Locale, HeadingCheckerTranslation> = {
     howItWorksSteps: [
       { title: "Paste your URLs", desc: "Enter up to 20 URLs, one per line." },
       { title: "Analyze headings", desc: "We extract all H1–H6 tags and check the hierarchy." },
-      { title: "Fix issues", desc: "See a visual tree and fix flagged heading problems." },
+      { title: "Fix issues", desc: "See a visual tree and fix flagged heading problems. Want them fixed across every template? That is part of our [done-for-you ecommerce SEO](/ecommerce-seo)." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [
@@ -4855,7 +4855,7 @@ export const thinContentCheckerT: Record<Locale, ThinContentCheckerTranslation> 
     howItWorksSteps: [
       { title: "Paste your URLs", desc: "Enter up to 20 page URLs, one per line." },
       { title: "Extract & count words", desc: "We fetch each page, strip boilerplate HTML, and count visible words." },
-      { title: "Review results", desc: "Pages are flagged as Good, Thin Content, or Empty based on word count." },
+      { title: "Review results", desc: "Pages are flagged as Good, Thin Content, or Empty based on word count. Need the thin pages rewritten? Our [ecommerce SEO agency](/ecommerce-seo) does that for online stores." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [
@@ -5178,7 +5178,7 @@ export const coreWebVitalsT: Record<Locale, CoreWebVitalsTranslation> = {
     howItWorksSteps: [
       { title: "Enter your domain", desc: "Type any domain or URL you want to analyze." },
       { title: "Run PageSpeed Insights", desc: "We query Google's PageSpeed Insights API for both mobile and desktop scores." },
-      { title: "Review scores", desc: "See LCP, CLS, and INP scores with Good / Needs Improvement / Poor ratings." },
+      { title: "Review scores", desc: "See LCP, CLS, and INP scores with Good / Needs Improvement / Poor ratings. On Shopify, speed work is part of what our [Shopify SEO agency](/shopify-seo) does." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [
@@ -6691,7 +6691,7 @@ export const internalLinkAnalyzerT: Record<Locale, InternalLinkAnalyzerTranslati
     howItWorksSteps: [
       { title: "Enter a URL", desc: "Paste the page URL you want to analyze for internal links." },
       { title: "We scan the page", desc: "We fetch the page, extract all links, and check their HTTP status." },
-      { title: "Review results", desc: "See broken links, anchor text, and link type at a glance." },
+      { title: "Review results", desc: "See broken links, anchor text, and link type at a glance. For a store-wide internal linking plan, talk to our [ecommerce SEO team](/ecommerce-seo)." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [
@@ -7004,7 +7004,7 @@ export const shoppingFeedValidatorT: Record<Locale, ShoppingFeedValidatorTransla
     howItWorksSteps: [
       { title: "Paste your feed URL", desc: "Enter your Google Shopping product feed URL (XML or RSS format)." },
       { title: "We validate every product", desc: "Each product is checked against Google Merchant Center's required and recommended fields." },
-      { title: "Fix issues & resubmit", desc: "Review errors and warnings per product, fix your feed, and resubmit to Merchant Center." },
+      { title: "Fix issues & resubmit", desc: "Review errors and warnings per product, fix your feed, and resubmit to Merchant Center. Feed fixes are one part of [full-service ecommerce SEO](/ecommerce-seo)." },
     ],
     faqTitle: "Frequently Asked Questions",
     faqs: [

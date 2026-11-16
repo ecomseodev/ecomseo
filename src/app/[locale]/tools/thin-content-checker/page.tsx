@@ -7,6 +7,7 @@ import { buildPageMetadata } from "@/lib/i18n/metadata";
 import type { Locale } from "@/lib/i18n/config";
 import { thinContentCheckerT } from "@/lib/i18n/translations/seoTools";
 import LocaleLink from "@/components/ui/LocaleLink";
+import { parseInlineLinks } from "@/lib/parseInlineLinks";
 
 
 import ToolPreviewSection from "@/components/tools/ToolPreviewSection";
@@ -91,7 +92,7 @@ export default async function ThinContentCheckerPage({
                     {i + 1}
                   </div>
                   <h3 className="text-base font-medium text-heading">{step.title}</h3>
-                  <p className="text-sm text-body">{step.desc}</p>
+                  <p className="text-sm text-body">{parseInlineLinks(step.desc)}</p>
                 </div>
               ))}
             </div>
