@@ -2976,7 +2976,7 @@ export const metaTagsCheckerT: Record<Locale, MetaTagsCheckerTranslation> = {
     howItWorksSteps: [
       { title: "Plak je URL's", desc: "Voer tot 50 URL's in, één per regel." },
       { title: "Uitgebreide analyse", desc: "We extraheren title, description, OG tags, Twitter cards, canonical, robots en meer." },
-      { title: "Bekijk & vergelijk", desc: "Zie scores, details, vergelijk URL's naast elkaar en exporteer rapporten." },
+      { title: "Bekijk & vergelijk", desc: "Zie scores, details, vergelijk URL's naast elkaar en exporteer rapporten. Heb je een Shopify-winkel? Onze [Shopify SEO-diensten](/shopify-seo) omvatten ook het optimaliseren van title tags en meta descriptions." },
     ],
     faqTitle: "Veelgestelde vragen",
     faqs: [
@@ -3462,7 +3462,7 @@ export const headingCheckerT: Record<Locale, HeadingCheckerTranslation> = {
     howItWorksSteps: [
       { title: "Plak je URL's", desc: "Voer tot 20 URL's in, één per regel." },
       { title: "Analyseer headings", desc: "We extraheren alle H1–H6 tags en controleren de hiërarchie." },
-      { title: "Los problemen op", desc: "Bekijk de visuele boom en los gemarkeerde problemen op." },
+      { title: "Los problemen op", desc: "Bekijk de visuele boom en los gemarkeerde problemen op. Wil je dit in elke template laten oplossen? Dat doen we met onze [e-commerce SEO-dienstverlening](/ecommerce-seo)." },
     ],
     faqTitle: "Veelgestelde vragen",
     faqs: [
@@ -5085,7 +5085,7 @@ export const thinContentCheckerT: Record<Locale, ThinContentCheckerTranslation> 
     howItWorksSteps: [
       { title: "Plak je URL's", desc: "Voer tot 20 pagina-URL's in, één per regel." },
       { title: "Woorden extraheren en tellen", desc: "We halen elke pagina op, verwijderen boilerplate-HTML en tellen zichtbare woorden." },
-      { title: "Resultaten bekijken", desc: "Pagina's worden gemarkeerd als Goed, Dunne inhoud of Leeg op basis van woordtelling." },
+      { title: "Resultaten bekijken", desc: "Pagina's worden gemarkeerd als Goed, Dunne inhoud of Leeg op basis van woordtelling. Wil je de dunne pagina's laten herschrijven? Ons [e-commerce SEO-bureau](/ecommerce-seo) doet dat voor webshops." },
     ],
     faqTitle: "Veelgestelde vragen",
     faqs: [
@@ -5438,7 +5438,7 @@ export const coreWebVitalsT: Record<Locale, CoreWebVitalsTranslation> = {
     howItWorksSteps: [
       { title: "Voer je domein in", desc: "Typ een domein of URL die je wilt analyseren." },
       { title: "PageSpeed Insights uitvoeren", desc: "We bevragen de Google PageSpeed Insights API voor mobiele en desktop-scores." },
-      { title: "Scores bekijken", desc: "Bekijk LCP-, CLS- en INP-scores met Goed/Verbetering nodig/Slecht beoordelingen." },
+      { title: "Scores bekijken", desc: "Bekijk LCP-, CLS- en INP-scores met Goed/Verbetering nodig/Slecht beoordelingen. Op Shopify is snelheid een vast onderdeel van het werk van ons [Shopify SEO-bureau](/shopify-seo)." },
     ],
     faqTitle: "Veelgestelde vragen",
     faqs: [
@@ -6926,7 +6926,7 @@ export const internalLinkAnalyzerT: Record<Locale, InternalLinkAnalyzerTranslati
     howItWorksSteps: [
       { title: "Voer een URL in", desc: "Plak de pagina-URL die je wilt analyseren op interne links." },
       { title: "Wij scannen de pagina", desc: "We halen de pagina op, extraheren alle links en controleren hun HTTP-status." },
-      { title: "Bekijk resultaten", desc: "Zie kapotte links, ankerteksten en linktypes in een oogopslag." },
+      { title: "Bekijk resultaten", desc: "Zie kapotte links, ankerteksten en linktypes in een oogopslag. Voor een linkstructuur voor je hele webshop kun je terecht bij ons [e-commerce SEO-team](/ecommerce-seo)." },
     ],
     faqTitle: "Veelgestelde Vragen",
     faqs: [
@@ -7229,7 +7229,7 @@ export const shoppingFeedValidatorT: Record<Locale, ShoppingFeedValidatorTransla
     howItWorksSteps: [
       { title: "Plak je feed-URL", desc: "Voer de URL van je Google Shopping productfeed in (XML- of RSS-formaat)." },
       { title: "We valideren elk product", desc: "Elk product wordt gecontroleerd tegen de vereiste en aanbevolen velden van Google Merchant Center." },
-      { title: "Corrigeer en dien opnieuw in", desc: "Bekijk fouten en waarschuwingen per product, corrigeer je feed en dien opnieuw in bij Merchant Center." },
+      { title: "Corrigeer en dien opnieuw in", desc: "Bekijk fouten en waarschuwingen per product, corrigeer je feed en dien opnieuw in bij Merchant Center. Feedcorrecties zijn één onderdeel van [complete e-commerce SEO](/ecommerce-seo)." },
     ],
     faqTitle: "Veelgestelde Vragen",
     faqs: [
