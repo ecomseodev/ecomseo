@@ -542,16 +542,26 @@ export const ecommerceSeo: BlogArticle = {
       ],
     },
     nl: {
-      title: "Ecommerce SEO: De Complete Ranking Gids",
-      description: "Leer hoe ecommerce SEO werkt, van technische fundamenten tot categoriepagina-optimalisatie. Een praktische gids gebaseerd op echte resultaten en strategieen.",
+      title: "Webshop SEO: De Complete Gids voor Meer Organische Omzet",
+      description: "Webshop SEO maakt je categorie- en productpagina's vindbaar in Google. Lees hoe je techniek, content, interne links en autoriteit aanpakt, met resultaten van Nederlandse webshops.",
       sections: [
         {
-          heading: "Waarom ecommerce SEO een ander spel is",
+          heading: "Wat is webshop SEO?",
           body: [
-            "De meeste SEO-adviezen die je online leest, zijn geschreven voor blogs en SaaS-bedrijven. Ze vertalen zich niet goed naar ecommerce. Een webshop met 40.000 productpagina's, facetnavigatie, seizoensgebonden voorraad en dubbele content door productvarianten staat voor problemen die een B2B-website van 50 pagina's nooit zal hebben.",
-            "We werken sinds 2019 uitsluitend met ecommerce-merken. In die tijd hebben we geleerd dat de kloof tussen generieke SEO-kennis en ecommerce-zoekmachineoptimalisatie groot is. Een Shopify-winkel die meubels verkoopt, heeft heel andere crawl-budgetproblemen dan een Magento 2 mode-retailer met 14 landspecifieke webshops.",
-            "Hier is een eenvoudig voorbeeld. Een van onze klanten, een merk voor huishoudelijke artikelen, had 8.200 geindexeerde pagina's in Google. Slechts 1.400 van die pagina's ontvingen daadwerkelijk organisch verkeer. De overige 6.800 waren dunne productpagina's, niet-voorradige artikelen die nog geindexeerd waren, en filter-URL-combinaties die Google had gecrawld maar waar niemand op zocht. Dat verspilde crawl-budget drukte de prestaties van de pagina's die er echt toe deden.",
-            "Ecommerce SEO gaat over het oplossen van dit soort problemen. Het gaat erom Google te laten begrijpen welke pagina's van je webshop aandacht verdienen, ervoor te zorgen dat die pagina's ranken voor de termen waar je klanten daadwerkelijk op zoeken, en dit alles op schaal te doen. Als je wilt zien hoe deze principes zich vertalen naar [echte ecommerce SEO-resultaten](/cases), laten onze casestudies de impact zien bij verschillende winkeltypes."
+            "Webshop SEO (ook wel SEO voor webshops of ecommerce SEO) is het optimaliseren van een online winkel zodat de categorie- en productpagina's hoger in Google verschijnen voor zoekwoorden waarop kopers zoeken. Het doel is niet alleen meer verkeer, maar meer organische omzet: bezoekers die al weten wat ze willen kopen.",
+            "Webshop SEO bestaat uit vier onderdelen. Technische SEO zorgt dat Google je pagina's kan crawlen en indexeren, met een snelle laadtijd op mobiel. On-page SEO gaat over titels, meta descriptions, koppen, afbeeldingen met alt-tekst en unieke teksten op categorie- en productpagina's. Interne links vertellen Google welke pagina's het belangrijkst zijn. Autoriteit bouw je op met backlinks van relevante websites.",
+            "Het verschil met SEO voor een gewone website is schaal. Een webshop heeft honderden of duizenden pagina's, productvarianten, filters en uitverkochte producten. Daardoor ontstaan dubbele content, verspild crawlbudget en pagina's die Google nooit indexeert. Een B2B-website van 50 pagina's heeft die problemen niet.",
+            "Een voorbeeld: een merk voor huishoudelijke artikelen waarmee we werkten had 8.200 geindexeerde pagina's in Google. Slechts 1.400 daarvan kregen organisch verkeer. De andere 6.800 waren dunne productpagina's, uitverkochte artikelen die nog geindexeerd waren en filter-URL's waar niemand op zocht. Dat verspilde crawlbudget drukte de pagina's die wel omzet konden opleveren.",
+            "Webshop SEO lost dit soort problemen op: Google laten begrijpen welke pagina's aandacht verdienen, die pagina's laten ranken op de termen van je klanten, en dat op schaal. In deze gids lees je per onderdeel hoe je dat aanpakt. Wil je het liever laten doen, bekijk dan onze [webshop SEO-diensten](/ecommerce-seo)."
+          ],
+        },
+        {
+          heading: "Resultaten van webshop SEO bij Nederlandse webshops",
+          body: [
+            "Wat webshop SEO oplevert, verschilt per markt en per startpunt. Drie Nederlandse webshops waarmee we werken laten zien hoe het in de praktijk gaat.",
+            "Een Nederlands merk in gezondheid en supplementen op Shopify groeide in 12 maanden van 159 naar 1.729 zoekwoorden in Google, een stijging van 987%. De aanpak: contentclusters per gezondheidsthema (energie, slaap, gewrichten, darmen), elk met een pillarpagina, blogs en productpagina's die met interne links verbonden zijn, plus technische fixes, structured data en backlinks van Nederlandse gezondheidssites. Het aantal pagina 1-posities steeg met 715%. [Lees de case van het supplementenmerk](/cases/dutch-health-brand).",
+            "Een Nederlands beautymerk had voor een belangrijk onderwerp geen enkele pagina. We bouwden een landingspagina die ging van 0 naar 2.710 klikken, met een piek van 84 klikken per dag. [Bekijk hoe die ene pagina groeide](/cases/ecom-brand-explode).",
+            "Een Nederlandse verlichtingswinkel kreeg een nieuwe categoriestructuur met meer dan 250 geoptimaliseerde categorieen en een duidelijke hierarchie. [Lees hoe de categorieen zijn opgebouwd](/cases/dutch-lighting-store)."
           ],
         },
         {
