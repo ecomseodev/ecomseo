@@ -55,18 +55,6 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
               {t.heading}
             </h1>
 
-            {/* YouTube embed */}
-            <div className="w-full max-w-[700px] mt-10">
-              <div className="relative w-full aspect-video rounded-2xl overflow-hidden border border-border">
-                <iframe
-                  src="https://www.youtube.com/embed/8AHPXm9Y6mI"
-                  title="Premium On-Page SEO Checklist"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                  className="absolute inset-0 w-full h-full"
-                />
-              </div>
-            </div>
 
             {/* Check Pricing button */}
             <a
