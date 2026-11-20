@@ -95,8 +95,10 @@ export async function buildPageMetadata(
       description: entry.description,
       images: [`${BASE_URL}/images/brand/og-image.png`],
     },
+    // Same index policy as the middleware header; English URLs skip the
+    // middleware, so this is where they get noindex.
     robots: {
-      index: true,
+      index: !isNoindexUrl(url),
       follow: true,
     },
     ...overrides,
