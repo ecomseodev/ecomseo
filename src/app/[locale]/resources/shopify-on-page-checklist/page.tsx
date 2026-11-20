@@ -60,7 +60,7 @@ export default async function ShopifyOnPageChecklistPage({ params }: { params: P
                 <h3 className="text-heading font-semibold text-lg">
                   {t.card1Title}
                 </h3>
-                <p className="text-body text-sm">{t.includes}</p>
+                {t.features.length > 0 && <p className="text-body text-sm">{t.includes}</p>}
                 <div className="flex items-baseline gap-2">
                   <span className="text-heading font-bold text-3xl font-[family-name:var(--font-figtree)]">
                     $12
@@ -68,6 +68,7 @@ export default async function ShopifyOnPageChecklistPage({ params }: { params: P
                   <span className="text-body text-sm line-through">$17</span>
                   <span className="text-body text-xs">{t.oneTime}</span>
                 </div>
+                {t.features.length > 0 && (
                 <ul className="space-y-2 mt-2">
                   {t.features.map((f) => (
                     <li
@@ -88,6 +89,7 @@ export default async function ShopifyOnPageChecklistPage({ params }: { params: P
                     </li>
                   ))}
                 </ul>
+                )}
                 <a
                   href="https://w35pmime997.typeform.com/to/eqeeLQvb"
                   target="_blank"
@@ -103,13 +105,14 @@ export default async function ShopifyOnPageChecklistPage({ params }: { params: P
                 <h3 className="text-heading font-semibold text-lg">
                   {t.card2Title}
                 </h3>
-                <p className="text-body text-sm">{t.includes}</p>
+                {t.features.length > 0 && <p className="text-body text-sm">{t.includes}</p>}
                 <div className="flex items-baseline gap-2">
                   <span className="text-heading font-bold text-3xl font-[family-name:var(--font-figtree)]">
                     $250
                   </span>
                   <span className="text-body text-xs">{t.consulting1h}</span>
                 </div>
+                {t.features.length > 0 && (
                 <ul className="space-y-2 mt-2">
                   {t.features.map((f) => (
                     <li
@@ -130,6 +133,7 @@ export default async function ShopifyOnPageChecklistPage({ params }: { params: P
                     </li>
                   ))}
                 </ul>
+                )}
                 <a
                   href="https://w35pmime997.typeform.com/to/eqeeLQvb"
                   target="_blank"

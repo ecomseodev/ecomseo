@@ -102,7 +102,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                 <h3 className="text-heading font-semibold text-lg">
                   {t.card1Title}
                 </h3>
-                <p className="text-body text-sm">{t.card1Includes}</p>
+                {t.features.length > 0 && <p className="text-body text-sm">{t.card1Includes}</p>}
                 <div className="flex items-baseline gap-2">
                   <span className="text-heading font-bold text-3xl font-[family-name:var(--font-figtree)]">
                     $12
@@ -110,6 +110,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                   <span className="text-body text-sm line-through">{t.card1OldPrice}</span>
                   <span className="text-body text-xs">{t.card1Period}</span>
                 </div>
+                {t.features.length > 0 && (
                 <ul className="space-y-2 mt-2">
                   {t.features.map((f) => (
                     <li
@@ -130,6 +131,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                     </li>
                   ))}
                 </ul>
+                )}
                 <a
                   href="https://w35pmime997.typeform.com/to/eqeeLQvb"
                   target="_blank"
@@ -145,7 +147,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                 <h3 className="text-heading font-semibold text-lg">
                   {t.card2Title}
                 </h3>
-                <p className="text-body text-sm">{t.card2Includes}</p>
+                {t.features.length > 0 && <p className="text-body text-sm">{t.card2Includes}</p>}
                 <div className="flex items-baseline gap-2">
                   <span className="text-heading font-bold text-3xl font-[family-name:var(--font-figtree)]">
                     $250
@@ -154,6 +156,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                     {t.card2Period}
                   </span>
                 </div>
+                {t.features.length > 0 && (
                 <ul className="space-y-2 mt-2">
                   {t.features.map((f) => (
                     <li
@@ -174,6 +177,7 @@ export default async function PremiumOnPageSeoChecklistPage({ params }: { params
                     </li>
                   ))}
                 </ul>
+                )}
                 <a
                   href="https://w35pmime997.typeform.com/to/eqeeLQvb"
                   target="_blank"

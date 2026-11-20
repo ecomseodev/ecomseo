@@ -173,6 +173,23 @@ export const NOINDEX_CITY_PATHS = new Set<string>([
     "sheffield", "liverpool", "nottingham"].map((c) => `/seo-agency-${c}`),
 ]);
 
+/**
+ * Thin English and Dutch pages with no search demand (thin pages review,
+ * 2026-11-20: under 400 words and 0 clicks in 3 months). The checklist
+ * sales page exists twice; the AI shopping page should 301 to the
+ * ChatGPT merchant page once that is built.
+ */
+export const NOINDEX_THIN_PATHS = new Set<string>([
+  "/premium-on-page-seo-checklist",
+  "/nl/premium-on-page-seo-checklist-gratis",
+  "/resources/shopify-on-page-checklist",
+  "/nl/seo-bronnen/shopify-on-page-checklist",
+  "/resources/search-product-discovery",
+  "/nl/seo-bronnen/zoek-productontdekking",
+  "/resources/why-we-share",
+  "/nl/seo-bronnen/waarom-wij-delen",
+]);
+
 function normalise(pathname: string): string {
   const p = pathname.split("?")[0].split("#")[0];
   return p.length > 1 ? p.replace(/\/+$/, "") : p;
@@ -183,6 +200,7 @@ export function isNoindexPath(pathname: string): boolean {
   const p = normalise(pathname);
   if (/(^|\/)client-dashboard(\/|$)/.test(p)) return true;
   if (NOINDEX_CITY_PATHS.has(p)) return true;
+  if (NOINDEX_THIN_PATHS.has(p)) return true;
   const locale = p.split("/")[1];
   if (!NOINDEX_LOCALES.includes(locale)) return false;
   return !INDEXABLE_LOCALE_PATHS.has(p);
