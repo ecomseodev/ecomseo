@@ -125,6 +125,7 @@ export const staticRoutes = [
   "/ecommerce-seo-industries",
   "/ecommerce-seo-services",
   "/link-building",
+  "/press-release-distribution",
   "/keyword-research",
   "/content-writing",
   "/adobe-commerce-seo",

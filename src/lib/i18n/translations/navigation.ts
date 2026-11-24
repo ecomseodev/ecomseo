@@ -71,6 +71,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "See all 30 articles",
     services: [
       { label: "Link Building", desc: "Build real off-page authority for your site", href: "/link-building" },
+      { label: "Press Releases", desc: "Get your news on 1,000+ news sites", href: "/press-release-distribution" },
       { label: "Keyword Research", desc: "Fundamentals of any SEO strategy", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "Our Chef's Special. We know Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Previously Magento", href: "/adobe-commerce-seo" },
@@ -140,6 +141,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "Alle 30 Artikel ansehen",
     services: [
       { label: "Linkaufbau", desc: "Echte Off-Page-Autorität für Ihre Website aufbauen", href: "/link-building" },
+      { label: "Pressemitteilungen", desc: "Ihre News auf 1.000+ Nachrichtenseiten", href: "/press-release-distribution" },
       { label: "Keyword-Recherche", desc: "Die Grundlage jeder SEO-Strategie", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "Unser Spezialgebiet. Wir kennen Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Früher Magento", href: "/adobe-commerce-seo" },
@@ -209,6 +211,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "Voir les 30 articles",
     services: [
       { label: "Link Building", desc: "Construisez une vraie autorité off-page pour votre site", href: "/link-building" },
+      { label: "Communiqués de presse", desc: "Vos news sur 1 000+ sites d'actualité", href: "/press-release-distribution" },
       { label: "Recherche de mots-clés", desc: "Les fondamentaux de toute stratégie SEO", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "Notre spécialité. Nous connaissons Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Anciennement Magento", href: "/adobe-commerce-seo" },
@@ -278,6 +281,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "Ver los 30 artículos",
     services: [
       { label: "Link Building", desc: "Construye autoridad off-page real para tu sitio", href: "/link-building" },
+      { label: "Notas de prensa", desc: "Tu noticia en más de 1.000 medios", href: "/press-release-distribution" },
       { label: "Investigación de palabras clave", desc: "Los fundamentos de toda estrategia SEO", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "Nuestra especialidad. Conocemos Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Anteriormente Magento", href: "/adobe-commerce-seo" },
@@ -347,6 +351,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "Vedi tutti i 30 articoli",
     services: [
       { label: "Link Building", desc: "Costruisci vera autorità off-page per il tuo sito", href: "/link-building" },
+      { label: "Comunicati stampa", desc: "La tua notizia su 1.000+ siti di news", href: "/press-release-distribution" },
       { label: "Ricerca parole chiave", desc: "Le basi di qualsiasi strategia SEO", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "La nostra specialità. Conosciamo Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Precedentemente Magento", href: "/adobe-commerce-seo" },
@@ -416,6 +421,7 @@ export const navigationTranslations: Record<Locale, {
     seeAllArticles: "Bekijk alle 30 artikelen",
     services: [
       { label: "Linkbuilding", desc: "Bouw echte off-page autoriteit voor je site", href: "/link-building" },
+      { label: "Persberichten", desc: "Je nieuws op 1.000+ nieuwssites", href: "/press-release-distribution" },
       { label: "Zoekwoordenonderzoek", desc: "De basis van elke SEO-strategie", href: "/keyword-research" },
       { label: "Shopify (Plus)", desc: "Ons specialisme. We kennen Shopify.", href: "/shopify-seo" },
       { label: "Adobe Commerce", desc: "Voorheen Magento", href: "/adobe-commerce-seo" },

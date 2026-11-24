@@ -96,6 +96,23 @@ export interface RevenueWin {
   href?: string;
 }
 
+export interface ReachOutlet {
+  name: string;
+  location?: string;
+}
+
+export interface ReachCategory {
+  label: string;
+  count: number;
+  outlets: ReachOutlet[];
+}
+
+export interface ReachData {
+  categories: ReachCategory[];
+  /** e.g. "+ {n} more in your tracking file". {n} is replaced with the hidden count. */
+  moreLabel: string;
+}
+
 export interface ContentSection {
   type:
     | "stats"
@@ -108,7 +125,8 @@ export interface ContentSection {
     | "team"
     | "caseStudies"
     | "revenueWins"
-    | "bookingWidget";
+    | "bookingWidget"
+    | "reach";
   badge?: string;
   heading: string;
   subtitle?: string;
@@ -127,6 +145,7 @@ export interface ContentSection {
   teamLead?: TeamMember;
   caseStudies?: CaseStudyItem[];
   revenueWins?: RevenueWin[];
+  reach?: ReachData;
   ctaText?: string;
   ctaHref?: string;
 }
@@ -1691,6 +1710,89 @@ function BookingWidgetSection({
   );
 }
 
+
+/* ─── Reach explorer: category pills + outlet card grid ─── */
+function ReachSection({
+  badge,
+  heading,
+  subtitle,
+  data,
+}: {
+  badge?: string;
+  heading: string;
+  subtitle?: string;
+  data: ReachData;
+}) {
+  const [active, setActive] = useState(() => {
+    const i = data.categories.findIndex((c) => c.outlets.length >= 10);
+    return i === -1 ? 0 : i;
+  });
+  const cat = data.categories[active];
+  const hidden = cat.count - cat.outlets.length;
+  const MOBILE_MAX = 10;
+  const hiddenMobile = cat.count - Math.min(cat.outlets.length, MOBILE_MAX);
+
+  return (
+    <section className="w-full px-5 md:px-10 py-20">
+      <div className="mx-auto max-w-[1120px] flex flex-col items-center gap-12">
+        <SectionHeader badge={badge} heading={heading} subtitle={subtitle} />
+        <div className="relative z-10 flex flex-wrap justify-center gap-2.5" role="tablist">
+          {data.categories.map((c, i) => {
+            const on = i === active;
+            return (
+              <button
+                key={c.label}
+                type="button"
+                role="tab"
+                aria-selected={on}
+                onClick={() => setActive(i)}
+                className={`flex items-center gap-2 rounded-full px-4 py-2 text-[12px] md:text-[13px] uppercase tracking-[0.08em] border transition-all duration-300 ${
+                  on
+                    ? "bg-primary border-primary text-white shadow-[0_0_24px_rgba(123,45,233,0.45)]"
+                    : "bg-[rgba(10,10,10,0.48)] border-border text-white/70 hover:border-accent/40 hover:text-white"
+                }`}
+              >
+                <span className={`w-1.5 h-1.5 rounded-full ${on ? "bg-white" : "bg-accent"}`} />
+                {c.label}
+                <span className={on ? "text-white/80" : "text-white/40"}>{c.count.toLocaleString("en-US")}</span>
+              </button>
+            );
+          })}
+        </div>
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={active}
+            className="w-full grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-2.5 md:gap-3"
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.3 }}
+          >
+            {cat.outlets.map((o, idx) => (
+              <div
+                key={o.name}
+                className={`${idx >= MOBILE_MAX ? "hidden md:flex" : "flex"} relative flex-col justify-center gap-1.5 min-h-[84px] md:min-h-[96px] px-3.5 md:px-5 pt-5 md:pt-6 pb-3.5 md:pb-4 rounded-2xl border border-border bg-bg-card overflow-hidden hover:border-accent/40 transition-colors duration-300`}
+              >
+                <div className="absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-primary to-accent" />
+                <span className="text-[13px] md:text-[15px] font-medium leading-snug text-heading">{o.name}</span>
+                {o.location && (
+                  <span className="text-[11px] uppercase tracking-[0.08em] text-white/45">{o.location}</span>
+                )}
+              </div>
+            ))}
+          </motion.div>
+        </AnimatePresence>
+        {hiddenMobile > 0 && (
+          <p className="md:hidden text-sm text-body text-center">{data.moreLabel.replace("{n}", hiddenMobile.toLocaleString("en-US"))}</p>
+        )}
+        {hidden > 0 && (
+          <p className="hidden md:block text-sm text-body text-center">{data.moreLabel.replace("{n}", hidden.toLocaleString("en-US"))}</p>
+        )}
+      </div>
+    </section>
+  );
+}
+
 /* ─── Main Template ─── */
 
 export default function ServicePageTemplate({
@@ -1829,6 +1931,16 @@ export default function ServicePageTemplate({
                   badge={section.badge}
                   heading={section.heading}
                   subtitle={section.subtitle}
+                />
+              );
+            case "reach":
+              return (
+                <ReachSection
+                  key={i}
+                  badge={section.badge}
+                  heading={section.heading}
+                  subtitle={section.subtitle}
+                  data={section.reach!}
                 />
               );
             default:
