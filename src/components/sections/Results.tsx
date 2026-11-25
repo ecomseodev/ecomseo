@@ -28,9 +28,7 @@ function renderHeading(text: string) {
 type Result = {
   slug: string;
   amount: string;       // big bold number, e.g. "+$53,000,000"
-  label: string;        // bold descriptor, e.g. "yearly revenue extra"
-  client: string;       // gray context, e.g. "for this Home & Living brand"
-  condition: string;    // gray context, e.g. "after 12 months with us"
+  revenue: string;      // absolute yearly revenue, e.g. "\u20ac11M"
   screenshot: string;
 };
 
@@ -40,40 +38,43 @@ const results: Result[] = [
   {
     slug: "dtc-brand-11m",
     amount: "+389%",
-    label: "yearly revenue growth (\u20ac11M)",
-    client: "for this DTC ecommerce brand",
-    condition: "after 12 months with us",
+    revenue: "\u20ac11M",
     screenshot: "/images/clients/charts/revenue-11m.png",
   },
   {
     slug: "dtc-brand-8-4m",
     amount: "+245%",
-    label: "yearly revenue growth (\u20ac8.4M)",
-    client: "for this DTC ecommerce brand",
-    condition: "after 12 months with us",
+    revenue: "\u20ac8.4M",
     screenshot: "/images/clients/charts/revenue-8-4m.png",
   },
   {
     slug: "dtc-brand-3-5m",
     amount: "+156%",
-    label: "yearly revenue growth (\u20ac3.5M)",
-    client: "for this DTC ecommerce brand",
-    condition: "after 12 months with us",
+    revenue: "\u20ac3.5M",
     screenshot: "/images/clients/charts/revenue-3-5m.png",
   },
   {
     slug: "dtc-brand-2-8m",
     amount: "+132%",
-    label: "yearly revenue growth (\u20ac2.8M)",
-    client: "for this DTC ecommerce brand",
-    condition: "after 12 months with us",
+    revenue: "\u20ac2.8M",
     screenshot: "/images/clients/charts/revenue-2-8m.png",
   },
 ];
 
+/* Per-locale copy for the result cards. */
+const cardT: Record<string, { label: (revenue: string) => string; client: string; condition: string }> = {
+  en: { label: (r) => `yearly revenue growth (${r})`, client: "for this DTC ecommerce brand", condition: "after 12 months with us" },
+  nl: { label: (r) => `jaarlijkse omzetgroei (${r})`, client: "voor dit DTC-ecommercemerk", condition: "na 12 maanden met ons" },
+  de: { label: (r) => `j\u00e4hrliches Umsatzwachstum (${r})`, client: "f\u00fcr diese DTC-E-Commerce-Marke", condition: "nach 12 Monaten mit uns" },
+  fr: { label: (r) => `de croissance du CA annuel (${r})`, client: "pour cette marque e-commerce DTC", condition: "apr\u00e8s 12 mois avec nous" },
+  es: { label: (r) => `de crecimiento anual de ingresos (${r})`, client: "para esta marca de ecommerce DTC", condition: "tras 12 meses con nosotros" },
+  it: { label: (r) => `di crescita annua del fatturato (${r})`, client: "per questo brand ecommerce DTC", condition: "dopo 12 mesi con noi" },
+};
+
 export default function Results() {
   const locale = useLocale();
   const t = resultsT[locale];
+  const c = cardT[locale] ?? cardT.en;
 
   return (
     <SectionWrapper id="projects" className="py-16 scroll-mt-24">
@@ -111,7 +112,7 @@ export default function Results() {
                   <div className="relative w-full h-full">
                     <Image
                       src={r.screenshot}
-                      alt={`${r.amount} ${r.label} ${r.client}`}
+                      alt={`${r.amount} ${c.label(r.revenue)} ${c.client}`}
                       fill
                       sizes="(max-width: 768px) 100vw, 50vw"
                       className="object-contain"
@@ -124,12 +125,12 @@ export default function Results() {
                     {r.amount}
                   </h3>
                   <p className="text-[16px] md:text-[18px] font-semibold text-heading leading-snug">
-                    {r.label}
+                    {c.label(r.revenue)}
                   </p>
                   <p className="text-[13.5px] text-body/60 mt-1 leading-snug">
-                    {r.client}
+                    {c.client}
                     <br />
-                    {r.condition}
+                    {c.condition}
                   </p>
                 </div>
               </div>

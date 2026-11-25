@@ -69,6 +69,15 @@ function SocialProof({ text }: { text: string }) {
   );
 }
 
+const proofT: Record<string, string> = {
+  en: "Click here for proof",
+  nl: "Bekijk het bewijs",
+  de: "Hier geht's zu den Beweisen",
+  fr: "Voir les preuves",
+  es: "Ver las pruebas",
+  it: "Guarda le prove",
+};
+
 export default function Hero() {
   const locale = useLocale();
   const t = heroT[locale];
@@ -121,7 +130,7 @@ export default function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4, delay: 0.25 }}
           >
-            Click here for proof
+            {proofT[locale] ?? proofT.en}
           </motion.a>
 
           {/* ─── Centered Fabian intro video — Vidalytics embed ─── */}

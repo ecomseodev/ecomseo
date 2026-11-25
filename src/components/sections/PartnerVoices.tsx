@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 import SectionWrapper from "@/components/ui/SectionWrapper";
+import { useLocale } from "@/lib/i18n/useTranslations";
 
 /** Parse *italic* markers inside a string */
 function renderHeading(text: string) {
@@ -38,7 +39,17 @@ const screenshots = [
   },
 ];
 
+const voicesT: Record<string, { heading: string; sub: string }> = {
+  en: { heading: "What our clients *say.*", sub: "Real Slack threads from clients we work with every day." },
+  nl: { heading: "Wat onze klanten *zeggen.*", sub: "Echte Slack-berichten van klanten met wie we dagelijks werken." },
+  de: { heading: "Was unsere Kunden *sagen.*", sub: "Echte Slack-Nachrichten von Kunden, mit denen wir t\u00e4glich arbeiten." },
+  fr: { heading: "Ce que disent nos *clients.*", sub: "De vrais \u00e9changes Slack avec les clients avec qui nous travaillons chaque jour." },
+  es: { heading: "Lo que dicen nuestros *clientes.*", sub: "Conversaciones reales de Slack con clientes con los que trabajamos cada d\u00eda." },
+  it: { heading: "Cosa dicono i nostri *clienti.*", sub: "Veri messaggi Slack dei clienti con cui lavoriamo ogni giorno." },
+};
+
 export default function PartnerVoices() {
+  const v = voicesT[useLocale()] ?? voicesT.en;
   return (
     <SectionWrapper className="py-20 md:py-24">
       <div className="flex flex-col items-center gap-14 md:gap-16">
@@ -51,11 +62,11 @@ export default function PartnerVoices() {
           transition={{ duration: 0.5 }}
         >
           <h2 className="text-[32px] md:text-[44px] lg:text-[56px] font-medium leading-[1.08] tracking-[-0.02em] text-heading">
-            {renderHeading("What our clients *say.*")}
+            {renderHeading(v.heading)}
           </h2>
 
           <p className="text-body text-[15.5px] md:text-[17px] leading-relaxed">
-            Real Slack threads from clients we work with every day.
+            {v.sub}
           </p>
         </motion.div>
 
