@@ -21,6 +21,7 @@ const serviceSubPages = [
   "/ecommerce-seo-industries",
   "/ecommerce-seo-services",
   "/link-building",
+  "/press-release-distribution",
   "/keyword-research",
   "/content-writing",
 ];

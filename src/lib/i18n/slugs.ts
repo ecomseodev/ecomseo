@@ -78,6 +78,13 @@ export const slugTranslations: Record<
     fr: "netlinking",
     nl: "linkbuilding",
   },
+  "press-release-distribution": {
+    de: "pressemitteilung-verbreiten",
+    fr: "diffusion-communique-de-presse",
+    es: "distribucion-notas-de-prensa",
+    it: "distribuzione-comunicati-stampa",
+    nl: "persbericht-verspreiden",
+  },
   "keyword-research": {
     // DE: "keyword recherche" 2400 SV, KD 65
     // FR: "recherche mots cles" 590 SV, KD 32

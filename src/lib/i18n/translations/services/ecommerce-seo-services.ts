@@ -96,6 +96,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             href: "/link-building",
           },
           {
+            title: "Press Release Distribution",
+            description:
+              "Syndicate your news to 1,000+ destinations, from AP News to the USA TODAY Network, for brand mentions AI can cite.",
+            href: "/press-release-distribution",
+          },
+          {
             title: "Keyword Research",
             description:
               "Map the full buyer-intent keyword landscape of your market and identify the highest-value organic opportunities.",
@@ -382,6 +388,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             description:
               "Bauen Sie echte Off-Page-Autorität mit redaktionellen Backlinks von Publikationen auf, die in Ihrer Nische wichtig sind.",
             href: "/link-building",
+          },
+          {
+            title: "Pressemitteilungen verbreiten",
+            description:
+              "Verbreiten Sie Ihre News an 1.000+ Ziele, von AP News bis zum USA TODAY Network, für Markenerwähnungen, die KI zitieren kann.",
+            href: "/press-release-distribution",
           },
           {
             title: "Keyword-Recherche",
@@ -672,6 +684,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             href: "/link-building",
           },
           {
+            title: "Diffusion de communiqués",
+            description:
+              "Diffusez vos news vers 1 000+ destinations, d'AP News au USA TODAY Network, pour des mentions de marque que l'IA peut citer.",
+            href: "/press-release-distribution",
+          },
+          {
             title: "Recherche de Mots-Clés",
             description:
               "Cartographiez le paysage complet des mots-clés à intention d'achat de votre marché et identifiez les opportunités organiques les plus précieuses.",
@@ -958,6 +976,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             description:
               "Construya autoridad off-page real con backlinks editoriales de publicaciones que importan en su nicho.",
             href: "/link-building",
+          },
+          {
+            title: "Distribución de notas de prensa",
+            description:
+              "Distribuye tu noticia a más de 1.000 destinos, de AP News a la USA TODAY Network, con menciones de marca que la IA puede citar.",
+            href: "/press-release-distribution",
           },
           {
             title: "Investigación de Keywords",
@@ -1248,6 +1272,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             href: "/link-building",
           },
           {
+            title: "Distribuzione comunicati stampa",
+            description:
+              "Distribuisci la tua notizia a 1.000+ destinazioni, da AP News a USA TODAY Network, con menzioni del brand che l'IA può citare.",
+            href: "/press-release-distribution",
+          },
+          {
             title: "Ricerca di Parole Chiave",
             description:
               "Mappa il panorama completo delle parole chiave con intento d'acquisto del tuo mercato e identifica le opportunità organiche di maggior valore.",
@@ -1534,6 +1564,12 @@ export const ecommerceSeoServicesData: Record<Locale, ServicePageProps> = {
             description:
               "Bouw echte off-page autoriteit met redactionele backlinks van publicaties die er toe doen in uw niche.",
             href: "/link-building",
+          },
+          {
+            title: "Persberichten verspreiden",
+            description:
+              "Verspreid je nieuws naar 1.000+ bestemmingen, van AP News tot het USA TODAY Network, voor merkvermeldingen die AI kan citeren.",
+            href: "/press-release-distribution",
           },
           {
             title: "Zoekwoordenonderzoek",

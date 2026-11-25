@@ -35,6 +35,15 @@ function IconLinkBuilding() {
   );
 }
 
+function IconPressRelease() {
+  return (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="rgb(193,100,230)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M4 22h16a2 2 0 002-2V4a2 2 0 00-2-2H8a2 2 0 00-2 2v16a2 2 0 01-2 2zm0 0a2 2 0 01-2-2v-9c0-1.1.9-2 2-2h2" />
+      <path d="M18 14h-8M15 18h-5M10 6h8v4h-8z" />
+    </svg>
+  );
+}
+
 function IconKeywordResearch() {
   return (
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="rgb(193,100,230)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -303,6 +312,7 @@ const resourceTileByID: Record<"tools" | "academy" | "blog", { bg: string; Icon:
 
 const iconMap: Record<string, React.FC> = {
   "link-building": IconLinkBuilding,
+  "press-release": IconPressRelease,
   "keyword-research": IconKeywordResearch,
   "shopify": IconShopify,
   "adobe-commerce": IconAdobeCommerce,
@@ -333,6 +343,7 @@ const iconMap: Record<string, React.FC> = {
 
 const hrefToIcon: Record<string, string> = {
   "/link-building": "link-building",
+  "/press-release-distribution": "press-release",
   "/keyword-research": "keyword-research",
   "/shopify-seo": "shopify",
   "/adobe-commerce-seo": "adobe-commerce",
@@ -482,7 +493,7 @@ export default function Navigation() {
     icon: hrefToIcon[s.href] || "",
   }));
 
-  const serviceTypeHrefs = new Set(["/link-building", "/keyword-research", "/amazon-seo", "/content-writing"]);
+  const serviceTypeHrefs = new Set(["/link-building", "/press-release-distribution", "/keyword-research", "/amazon-seo", "/content-writing"]);
   const platformHrefs = new Set(["/shopify-seo", "/adobe-commerce-seo", "/woocommerce-seo", "/bigcommerce-seo"]);
   const industryHrefs = new Set(["/fashion-seo", "/beauty-seo", "/consumables-seo", "/toys-seo"]);
 

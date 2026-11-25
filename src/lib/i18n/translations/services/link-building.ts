@@ -40,6 +40,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Digital PR Outreach",
             description:
               "Strategic outreach to journalists and editors at publications your customers actually read. Real coverage, real authority.",
+            href: "/press-release-distribution",
           },
           {
             title: "Resource & Listicle Placement",
@@ -329,6 +330,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Digitale PR-Outreach",
             description:
               "Strategische Ansprache von Journalisten und Redakteuren bei Publikationen, die Ihre Kunden tats\u00E4chlich lesen. Echte Berichterstattung, echte Autorit\u00E4t.",
+            href: "/press-release-distribution",
           },
           {
             title: "Ressourcen- & Listicle-Platzierungen",
@@ -618,6 +620,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Outreach RP digital",
             description:
               "Approche strat\u00E9gique de journalistes et r\u00E9dacteurs dans des publications que vos clients lisent r\u00E9ellement. Une vraie couverture, une vraie autorit\u00E9.",
+            href: "/press-release-distribution",
           },
           {
             title: "Placement en ressources & listicles",
@@ -907,6 +910,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Outreach de RP digital",
             description:
               "Contacto estrat\u00E9gico con periodistas y editores en publicaciones que tus clientes realmente leen. Cobertura real, autoridad real.",
+            href: "/press-release-distribution",
           },
           {
             title: "Colocaci\u00F3n en recursos y listicles",
@@ -1196,6 +1200,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Outreach di digital PR",
             description:
               "Contatto strategico con giornalisti e redattori di pubblicazioni che i tuoi clienti leggono davvero. Copertura reale, autorit\u00E0 reale.",
+            href: "/press-release-distribution",
           },
           {
             title: "Posizionamento in risorse e listicle",
@@ -1485,6 +1490,7 @@ export const linkBuildingData: Record<Locale, ServicePageProps> = {
             title: "Digitale PR-outreach",
             description:
               "Strategisch contact met journalisten en redacteuren bij publicaties die jouw klanten daadwerkelijk lezen. Echte berichtgeving, echte autoriteit.",
+            href: "/press-release-distribution",
           },
           {
             title: "Resource- en listicle-plaatsingen",
